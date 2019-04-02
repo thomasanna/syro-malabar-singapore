@@ -43,27 +43,29 @@
 			</div>
 
 			<div class="row">
+				@foreach($events as $data)
 				<div class="single-recent-blog col-lg-4 col-md-6">
 					<div class="thumb">
-						<img class="f-img img-fluid mx-auto" src="public/img/b1.jpg" alt="">
+						<img class="f-img img-fluid mx-auto" src="{{asset('storage/app/uploads/events/'.$data->eventImage)}}" alt="">
 					</div>
 					<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
 						
-						<div class="meta">
-							<span>30th Sep, 2018</span>
+						<div class="meta"> <i class="fa fa-calendar-o" aria-hidden="true"></i>
+
+							<span style="text-transform: none;">{{date('F jS, Y', strtotime($data->eventDate)) ." , ".date("g:i a", strtotime($data->eventTime))}}</span>
 							
 						</div>
 					</div>
 					<a href="#">
-						<h4>Low Cost Advertising let us know
-							the side effect of printing</h4>
+						<h4>{{$data->eventName}}</h4>
 					</a>
 					<p>
-						Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer hears tales of
-						diamonds and begins dreaming of vast riches. He sells his farm and hikes off over the horizon never heard.
+						{{$data->eventDescription}}
 					</p>
 				</div>
-				<div class="single-recent-blog col-lg-4 col-md-6">
+				
+				@endforeach
+				<!-- <div class="single-recent-blog col-lg-4 col-md-6">
 					<div class="thumb">
 						<img class="f-img img-fluid mx-auto" src="public/img/b2.jpg" alt="">
 					</div>
@@ -82,8 +84,8 @@
 						Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer hears tales of
 						diamonds and begins dreaming of vast riches. He sells his farm and hikes off over the horizon never heard.
 					</p>
-				</div>
-				<div class="single-recent-blog col-lg-4 col-md-6">
+				</div> -->
+				<!-- <div class="single-recent-blog col-lg-4 col-md-6">
 					<div class="thumb">
 						<img class="f-img img-fluid mx-auto" src="public/img/b3.jpg" alt="">
 					</div>
@@ -102,7 +104,7 @@
 						Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer hears tales of
 						diamonds and begins dreaming of vast riches. He sells his farm and hikes off over the horizon never heard.
 					</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>

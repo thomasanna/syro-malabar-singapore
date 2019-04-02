@@ -65,7 +65,11 @@
 <script src="{{asset('public/admin/js/datatables.net-buttons/js/buttons.html5.min.js')}}"></script>
 <script src="{{asset('public/admin/js/datatables.net-buttons/js/buttons.print.min.js')}}"></script>
 <script src="{{asset('public/admin/js/datatables.net-buttons/js/buttons.colVis.min.js')}}"></script>
-<script src="{{asset('public/admin/js/data-table/datatables-init.js')}}"></script>
+<!-- <script src="{{asset('public/admin/js/data-table/datatables-init.js')}}"></script> -->
+<script src="{{asset('public/admin/js/bootbox.min.js')}}"></script>
+
+<script src="{{asset('public/admin/js/events/index.js')}}"></script>
+
 @endpush
 
 @push('css')

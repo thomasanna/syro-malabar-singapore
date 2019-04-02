@@ -11,9 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+// Route::get('/', function () {
+   
+//     return view('home');
+// });
+ Route::get('/',['as'=>'home','uses'=>'IndexController@home']);
 
 Route::get('/History',['as'=>'History','uses'=>'IndexController@history']);
 Route::get('/St-Thomas-The-Apostle',['as'=>'St-Thomas-The-Apostle','uses'=>'IndexController@stThomasTheApostle']);
@@ -55,7 +57,9 @@ Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){
     Route::post('admin/contentByType',['as'=>'getContentByType','uses'=>'DashBoardController@getContentByType']);
     Route::get('admin/event',['as'=>'event','uses'=>'EventController@list']);
     Route::post('admin/event/data',['as'=>'event.data','uses'=>'EventController@data']);
-    Route::post('admin/event/create',['as'=>'event.create','uses'=>'EventController@create']);
+    Route::get('admin/event/create',['as'=>'event.create','uses'=>'EventController@create']);
+    Route::post('admin/event/save',['as'=>'event.save','uses'=>'EventController@save']);
+    Route::post('admin/event/delete/{id}',['as'=>'event.delete','uses'=>'EventController@delete']);
     Route::get('admin/users',['as'=>'user','uses'=>'UserController@list']);
     Route::post('admin/users/data',['as'=>'users.data','uses'=>'UserController@data']);
     Route::get('admin/user/view/{id}',['as'=>'user.view','uses'=>'UserController@view']);

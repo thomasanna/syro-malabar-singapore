@@ -11,11 +11,22 @@ use App\Models\Feedback;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\FeedbackMail;
 use App\Models\Catechism;
+use App\Models\Event;
 
 class IndexController extends Controller
 {
     public function __construct(){
     //  App::setLocale('ma');
+    }
+
+    public function home(){
+
+      $events = Event::where('eventDate', '>=', date('Y-m-d'))
+         //->where('eventTime','>=',date('H:i:s'))
+         ->orderBy('eventDate','DESC')
+         ->get();
+
+      return view('home',compact('events'));
     }
     public function history(){
      $contentObj = new Content();
