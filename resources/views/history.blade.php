@@ -9,12 +9,15 @@
 				<div class="col-lg-12">
 					<div class="main_title">
 						<div class="top-part">
-							<p>About Us Our History Mission & Vision</p>
+							<p></p>
 						</div>
-						<h2>
+						<h3>
 							History
-						</h2>
-						<div class="bottom_part">
+						</h3>
+						</div>
+					</div>
+				</div>
+				<div class="bottom_part">
 							<p>
 
 
@@ -34,9 +37,9 @@
 							</p>
 						</div>
 						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
-				</div>
-			</div>
+					
+				
+			
 			
 		</div>
 	</section>

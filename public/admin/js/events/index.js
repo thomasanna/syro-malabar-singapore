@@ -15,6 +15,7 @@ jQuery(document).ready(function() {
     columns: [
     //  {  data: 'DT_Row_Index', name: 'reg_user_id' },
       {  data: 'eventName', name: 'eventName' },
+      {  data: 'location', name: 'location' },
       {  data: 'eventDescription', name: 'eventDescription', orderable: false, searchable: false },
       {  data: 'eventImage', name: 'eventImage', orderable: false },     
       {  data: 'eventDate', name: 'eventDate', orderable: false },

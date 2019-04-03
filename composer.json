@@ -15,7 +15,8 @@
         "laravel/tinker": "^1.0",
         "unisharp/laravel-filemanager": "v2.0.0-alpha5",
         "yajra/laravel-datatables": "^1.2",
-        "guzzlehttp/guzzle": "~5.3|~6.0"
+        "guzzlehttp/guzzle": "~5.3|~6.0",
+        "doctrine/dbal": "^2.7"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",

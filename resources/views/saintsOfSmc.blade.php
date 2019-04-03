@@ -13,16 +13,20 @@
 						</div>
 						<h3>
 							Saints of Syro-Malabar Catholic Church
+
 						</h3>
+						<span class="wingdings"></span> Saints <span class="wingdings"></span> Blessed <span class="wingdings"></span> Servant of God <span class="wingdings"></span> Venerable of the Syro Malabar Church
+						</div>
+						</div>
+			       </div>
 						<div class="bottom_part">
 							<p>
-								<span class="wingdings"></span> Saints <span class="wingdings"></span> Blessed <span class="wingdings"></span> Servant of God <span class="wingdings"></span> Venerable of the Syro Malabar Church
+								
 							</p>
 						</div>
 						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
-				</div>
-			</div>
+					
+				
 			
 		</div>
 	</section>

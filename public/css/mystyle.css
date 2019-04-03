@@ -21,3 +21,19 @@
     padding: 85px 0 !important;
 }
  .hidden{display:none;}
+
+ .header_area .top_menu{
+ 	background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(../img/banner/home-banner_Top.jpg) no-repeat scroll center center;
+    background-size: cover;
+    height: 116px;
+ }
+ .single-recent-blog .thumb img {
+    height: 275px;
+}
+.main_title h3 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.home_banner_area {
+     min-height: 0px !important; 
+}

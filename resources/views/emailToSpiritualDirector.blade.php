@@ -10,14 +10,7 @@
 					<div class="main_title">
 						<div class="top-part">
 							<p></p>
-							<!-- <div class="col-sm-12 success_div" style="display:none">
-                              <div class="alert  alert-success alert-dismissible fade show" role="alert">
-                                 <span class="badge badge-pill badge-success">Success</span> Your email has been successfully sent
-                                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                 <span aria-hidden="true">×</span>
-                                </button>
-                              </div>
-                             </div> -->
+
                              @include('admin.flash-message')
 						</div>
 						<h3>

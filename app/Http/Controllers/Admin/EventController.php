@@ -77,6 +77,7 @@ class EventController
               'eventName'       => $input["eventName"],
               'eventDate'      => $newDate,
               'eventTime' => $input["eventTime"],
+              'location' => $input["location"],
               'eventDescription'    => $input["description"],
               'status'    => 1,
               'eventImage'    => $imageName

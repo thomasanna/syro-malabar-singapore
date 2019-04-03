@@ -55,6 +55,13 @@
                            </div>
                     </div>
                     <div class="row form-group">
+                        <div class="col col-md-3"><label for="select" class=" form-control-label">Location</label></div>
+                           <div class="col-12 col-md-9">
+
+                           <input class="form-control" type="text" name="location" required>
+                           </div>
+                    </div>
+                    <div class="row form-group">
                         <div class="col col-md-3"><label for="textarea-input" class=" form-control-label">Event description</label></div>
                         <div class="col-12 col-md-9"><textarea name="description" id="description" rows="9" placeholder="Description..." class="form-control" required></textarea></div>
                     </div> 

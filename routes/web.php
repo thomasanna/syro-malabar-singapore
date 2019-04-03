@@ -24,7 +24,7 @@ Route::get('/Activities-Year1/{year}',['as'=>'Activities-Year1','uses'=>'IndexCo
 Route::get('/Reports-Year1',['as'=>'Reports-Year1','uses'=>'IndexController@reportsYear1']);
 Route::get('/Reports-Year2',['as'=>'Reports-Year2','uses'=>'IndexController@reportsYear2']);
 Route::get('/Singapore-Diocese',['as'=>'Singapore-Diocese','uses'=>'IndexController@singaporeDiocese']);
-Route::get('/Counselling',['as'=>'Counselling','uses'=>'IndexController@counselling']);
+Route::get('/Spiritual-support-and-Guidance',['as'=>'Counselling','uses'=>'IndexController@counselling']);
 Route::get('/Marriage-Preparation',['as'=>'Marriage-Preparation','uses'=>'IndexController@marriagePreparation']);
 Route::get('/Family-Unit1',['as'=>'Family-Unit1','uses'=>'IndexController@familyUnit1']);
 Route::get('/Family-Unit2',['as'=>'Family-Unit2','uses'=>'IndexController@familyUnit2']);
@@ -43,6 +43,7 @@ Route::post('/spiritualdirector/sendemail',['as'=>'send-email-spiritual-director
 Route::post('/feedback/save',['as'=>'save-feedback','uses'=>'IndexController@saveFeedback']);
 Route::get('/bharavahikal',['as'=>'bharavahikal','uses'=>'IndexController@bharavahikal']);
 Route::get('/saints-of-smc',['as'=>'saints-of-smc','uses'=>'IndexController@saintsOfSmc']);
+Route::get('/events',['as'=>'events','uses'=>'IndexController@events']);
 
 
 Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){

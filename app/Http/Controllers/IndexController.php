@@ -19,14 +19,21 @@ class IndexController extends Controller
     //  App::setLocale('ma');
     }
 
-    public function home(){
+    public function home(){  //echo date('H:i:s'); exit;
 
       $events = Event::where('eventDate', '>=', date('Y-m-d'))
          //->where('eventTime','>=',date('H:i:s'))
-         ->orderBy('eventDate','DESC')
+         ->orderBy('eventDate','ASC')
          ->get();
 
       return view('home',compact('events'));
+    }
+
+    public function events(){
+       $events = Event::where('eventDate', '>=', date('Y-m-d'))
+         ->orderBy('eventDate','ASC')
+         ->get();
+      return view('events',compact('events'));
     }
     public function history(){
      $contentObj = new Content();

@@ -161,11 +161,19 @@ button:focus {
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
       .header_area .navbar .nav .nav-item .nav-link {
-        font: 500 13px/100px "Roboto", sans-serif;
+        /*font: 500 13px/100px "Roboto", sans-serif;*/
+        font: 500 13px/50px "Roboto", sans-serif;
         text-transform: uppercase;
         color: #222222;
         padding: 0px;
-        display: inline-block; }
+        display: inline-block; 
+      font-family: "Roboto Condensed", Verdana, Geneva, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal;
+
+      }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
       .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
@@ -244,7 +252,9 @@ button:focus {
       .header_area .navbar .search i {
         font-weight: 600; }
   .header_area + section, .header_area + row, .header_area + div {
-    margin-top: 125px; }
+    /*margin-top: 125px;*/
+     margin-top: 166px;
+     }
   .header_area.navbar_fixed .main_menu {
     position: fixed;
     width: 100%;
@@ -333,7 +343,7 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-  min-height: 780px; }
+  /*min-height: 780px;*/ }
   .home_banner_area .banner_inner {
     position: relative;
     overflow: hidden;

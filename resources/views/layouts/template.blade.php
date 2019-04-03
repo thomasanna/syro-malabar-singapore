@@ -39,11 +39,11 @@
 	<header class="header_area">
 		<div class="top_menu row m0">
 			<div class="container">
-				<div class="float-left">
-					<!-- <ul class="list header_social">
+				<!-- <div class="float-left">
+					<ul class="list header_social">
 						<li><a href="#">Contact Us +65 97106920</a></li>
-					</ul> -->
-				</div>
+					</ul>
+				</div> -->
 				<!-- <div class="float-right">
 					<select>
 						<option value="1">USD</option>
@@ -123,10 +123,10 @@
 			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 			          <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Family Apostolate </a>
 			            <ul class="dropdown-menu">
-			              <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="{{route('Counselling')}}">Appointments</a>                 
+			              <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Appointments</a>                 
 	                      <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">House blessing request </a></li>
-					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">Spiritual support and Guidance  </a></li>
+					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('Counselling')}}">Spiritual support and Guidance  </a></li>
 				          </ul>                   
 			              </li>
 			              <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="{{route('Marriage-Preparation')}}">Marriage Preparation</a>

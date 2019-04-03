@@ -11,9 +11,12 @@
 						<div class="top-part">
 							<p></p>
 						</div>
-						<h2>
+						<h3>
 							St Thomas The Apostle
-						</h2>
+						</h3>
+						</div>
+						</div>
+						</div>
 						<div class="bottom_part">
 							<p>
 								@if($data)
@@ -26,11 +29,7 @@
 								@endif
 							</p>
 						</div>
-						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
-				</div>
-			</div>
-			
+
 		</div>
 	</section>
 	<!--================End About Area =================-->

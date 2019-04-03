@@ -37,6 +37,7 @@
                                     <thead>
                                         <tr>
                                             <th>Event Name</th>
+                                            <th>Location</th>
                                             <th>Description</th>
                                             <th>Image</th>
                                             <th>Date</th>

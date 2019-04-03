@@ -15,7 +15,10 @@
 							Syro-Malabar Catholics, Singapore Office Bears
 
 						</h3>
-						<div class="bottom_part">
+						</div>
+						</div>
+						</div>
+						<div class="bottom_part" style="text-align: center;">
 							<p>
 						    <br><br>		
                            <span class="bharavahikal_h1">Fr. Terence Pereira</span><br>
@@ -44,9 +47,9 @@
 							</p>
 						</div>
 						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
-				</div>
-			</div>
+					
+				
+			
 			
 		</div>
 	</section>

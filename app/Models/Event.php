@@ -8,5 +8,5 @@ class Event extends Model
 {
    protected $table = 'events';
    protected $primaryKey = 'eventId';
-   public $fillable = ['eventName', 'eventDate','eventTime','eventDescription','eventImage','status'];
+   public $fillable = ['eventName', 'eventDate','eventTime','location','eventDescription','eventImage','status'];
 }
