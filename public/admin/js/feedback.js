@@ -57,5 +57,40 @@ jQuery(document).on('click', 'a.delete', function() {
       });
    });
 
+jQuery(document).on('click', 'a.approve', function() {
+      var action = jQuery(this).attr('action');
+      var token = jQuery(this).attr('token');
+      var msg = "Are you sure want to approve this feedback ?";
+      bootbox.confirm({
+        message: msg,
+        buttons: {
+          confirm: {
+            label: 'Yes',
+            className: 'btn-success'
+          },
+          cancel: {
+            label: 'Cancel',
+            className: 'btn-danger'
+          }
+        },
+        callback: function(result) {
+          if (result == true) {
+            jQuery.ajax({
+              type: 'POST',
+              async: false,
+              url: action,
+              dataType: 'json',
+              data: {
+                "_token": token
+              },
+              success: function(response) {
+                oTable.ajax.reload();
+              }
+            });
+          }
+        }
+      });
+   });
+
 
 });

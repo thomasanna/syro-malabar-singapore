@@ -44,6 +44,7 @@ Route::post('/feedback/save',['as'=>'save-feedback','uses'=>'IndexController@sav
 Route::get('/bharavahikal',['as'=>'bharavahikal','uses'=>'IndexController@bharavahikal']);
 Route::get('/saints-of-smc',['as'=>'saints-of-smc','uses'=>'IndexController@saintsOfSmc']);
 Route::get('/events',['as'=>'events','uses'=>'IndexController@events']);
+Route::get('/terms-and-conditions',['as'=>'terms-and-conditions','uses'=>'IndexController@termsAndConditions']);
 
 
 Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){
@@ -61,16 +62,25 @@ Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){
     Route::get('admin/event/create',['as'=>'event.create','uses'=>'EventController@create']);
     Route::post('admin/event/save',['as'=>'event.save','uses'=>'EventController@save']);
     Route::post('admin/event/delete/{id}',['as'=>'event.delete','uses'=>'EventController@delete']);
+    Route::get('admin/event/show/{id}',['as'=>'event.show','uses'=>'EventController@show']);
+    Route::post('admin/event/edit',['as'=>'event.edit','uses'=>'EventController@edit']);
     Route::get('admin/users',['as'=>'user','uses'=>'UserController@list']);
     Route::post('admin/users/data',['as'=>'users.data','uses'=>'UserController@data']);
     Route::get('admin/user/view/{id}',['as'=>'user.view','uses'=>'UserController@view']);
+    Route::get('admin/user/pdf/{id}',['as'=>'user.generate-pdf','uses'=>'UserController@generatePDF']);
     Route::get('admin/feedback',['as'=>'feedback','uses'=>'FeedbackController@list']);
     Route::post('admin/feedback/data',['as'=>'feedback.data','uses'=>'FeedbackController@data']);
     Route::post('admin/feedback/delete/{id}',['as'=>'feedback.delete','uses'=>'FeedbackController@delete']);
+    Route::post('admin/feedback/approve/{id}',['as'=>'feedback.approve','uses'=>'FeedbackController@approve']);
     Route::get('admin/catechism',['as'=>'catechism','uses'=>'CatechismController@list']);
     Route::post('admin/catechism/data',['as'=>'catechism.data','uses'=>'CatechismController@data']);
     Route::post('admin/catechism/delete/{id}',['as'=>'catechism.delete','uses'=>'CatechismController@delete']);
     Route::get('admin/catechism/create',['as'=>'catechism.create','uses'=>'CatechismController@create']);
     Route::post('admin/catechism/save',['as'=>'catechism.save','uses'=>'CatechismController@save']);
+    Route::get('admin/liturgical-calender',['as'=>'liturgical-calender','uses'=>'LiturgicalCalenderController@list']);
+    Route::post('admin/liturgical-calender/data',['as'=>'liturgical-calender.data','uses'=>'LiturgicalCalenderController@data']);
+    Route::get('admin/liturgical-calender/create',['as'=>'liturgical-calender.create','uses'=>'LiturgicalCalenderController@create']);
+    Route::post('admin/liturgical-calender/save',['as'=>'liturgical-calender.save','uses'=>'LiturgicalCalenderController@save']);
+    Route::post('admin/liturgical-calender/delete/{id}',['as'=>'liturgical-calender.delete','uses'=>'LiturgicalCalenderController@delete']);
   });
 });

@@ -16,6 +16,24 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="{{asset('public/img/banner/home-banner2.jpg')}}" alt="Second slide">
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner3.jpg')}}" alt="Second slide">
+    </div> 
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner4.jpg')}}" alt="Second slide">
+    </div> 
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner5.jpg')}}" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner6.jpg')}}" alt="Second slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner7.jpg')}}" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner1.jpg')}}" alt="Second slide">
+    </div>
   
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

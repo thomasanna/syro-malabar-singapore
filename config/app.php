@@ -176,6 +176,8 @@ return [
         App\Providers\RouteServiceProvider::class,
         UniSharp\LaravelFilemanager\LaravelFilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
+        Barryvdh\DomPDF\ServiceProvider::class,
+        Aloha\Twilio\Support\Laravel\ServiceProvider::class
 
     ],
 
@@ -226,6 +228,8 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'Image' => Intervention\Image\Facades\Image::class,
+        'PDF' => Barryvdh\DomPDF\Facade::class,
+        'Twilio' => Aloha\Twilio\Support\Laravel\Facade::class,
         //'DataTables' => Yajra\DataTables\Facades\DataTables::class,
 
     ],

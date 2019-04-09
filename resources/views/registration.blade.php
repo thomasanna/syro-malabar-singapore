@@ -3,7 +3,7 @@
 @section('content')
 	
 	<!--================About Area =================-->
-	<section class="latest_blog_area section_gap color-bg">
+	<section class="latest_blog_area  color-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -18,10 +18,20 @@
                                 </button>
                               </div>
                              </div>
+                             <div class="col-sm-12 error_div" style="display:none">
+                                <div class="sufee-alert alert with-close alert-danger alert-dismissible fade show">
+                                    <span class="badge badge-pill badge-danger">Danger</span>
+                                    <span class="err_msg"></span>
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                            <span aria-hidden="true">×</span>
+                                        </button>
+                                </div>
+                            </div>
     					</div>
 						<h3>
-							Registration <br><br><br>
+							Registration <br>
 						</h3>
+                            </div>
 						<div class="bottom_part">
 							<p>
                             <span class="getRegistrationSaveUrl" data-url = "{{route('save-registration')}}" token="{{ csrf_token() }}"></span>
@@ -77,6 +87,22 @@
                                 </div>
                             </div>
                             <div class="row form-group">
+                                <div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Family living in Singapore</label></div>
+                                <div class="col-12 col-md-9">
+                                 <select class="form-control singapore_living" name="singapore_living" id="singapore_living" placeholder="Select">
+                                    <option value="">Select</option>
+                                    <option value="1">Yes</option>
+                                    <option value="0">No</option>
+                                </select>
+                                </div>
+                            </div>
+                            <div class="family_details_div"> 
+
+                                <div class="col col-md-3 fd_div" style="display:none"><label for="select" class=" form-control-label">Family Details :-</label></div>
+                                <div class="family" family-count="0"></div>
+
+                            </div>
+                            <div class="row form-group">
                             	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Address in Singapore</label></div>
                             	<div class="col-12 col-md-9">
                             	<textarea class="form-control address_in_singapore"  name="address_in_singapore" id="address_in_singapore" placeholder="Enter your address in Singapore "></textarea>                               
@@ -97,41 +123,35 @@
                             </div>
                            
                             <div class="row form-group">
-                            	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Diocese in India</label></div>
-                            	<div class="col-12 col-md-9">
+                                <div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Diocese in India</label></div>
+                                <div class="col-12 col-md-9">
                                 <input type="text" class="form-control" id="diocese_in_india" name="diocese_in_india" placeholder="Enter your diocese in India ">
                                 </div>
                             </div>
                             <div class="row form-group">
-                            	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Family living in Singapore</label></div>
-                            	<div class="col-12 col-md-9">
-                                 <select class="form-control singapore_living" name="singapore_living" id="singapore_living" placeholder="Select">
-                                 	<option value="">Select</option>
-                                	<option value="1">Yes</option>
-                                	<option value="0">No</option>
-                                </select>
+                            	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label"></label></div>
+                            	<div class="col-12 col-md-9 checkbox">
+                                <input  type="checkbox" id="terms" name="terms" value="" style="margin-right:12px">I agree to the <a href="{{route('terms-and-conditions')}}" target="_blank">Terms & Conditions and Privacy Policy </a>
                                 </div>
                             </div>
-                            <div class="family_details_div"> 
-
-                            	<div class="col col-md-3 fd_div" style="display:none"><label for="select" class=" form-control-label">Family Details :-</label></div>
-                                <div class="family" family-count="0"></div>
-
-                            </div>
+                            
                          
                            
                         </div>
 
-                        <div class="col-md-6 text-right2">
-                            <button type="submit" value="submit" class="submit_btn">Submit</button>
+                        <div class="col-md-12 text-centre">
+                            <div class="loader" style="display:none"></div>
+                             <button type="submit" value="submit" class="submit_btn">Submit</button>                             
                         </div>
                     </form>
 								  
 
 							</p>
 						</div>
+
+
 						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
+				
 				</div>
 			</div>
 			

@@ -10,6 +10,8 @@ use Illuminate\Support\Facades\Hash;
 use App\Models\Event;
 use Auth;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Storage;
+
 
 
 class EventController 
@@ -19,7 +21,7 @@ class EventController
 		return view('admin.events.index');
 	}
 	public function data(){
-		return Datatables::of(Event::select('*'))
+		return Datatables::of(Event::select('*')->orderBy('eventDate','ASC'))
           ->addIndexColumn()
           ->editColumn('status',function($event){
             $eventAt = $event->eventDate." ".$event->eventTime;
@@ -39,7 +41,8 @@ class EventController
                   return "";
               })
            ->editColumn('actions',function($event){
-            $html = "<a action=".route('admin.event.delete',$event->eventId)." class='btn btn-danger btn-xs mrs delete' style='margin: 0 5px;'";
+            $html = "<a href=".route('admin.event.show',$event->eventId)." class='btn btn-success btn-xs mrs' style='margin: 0 5px;'><i class='fa fa-eye' aria-hidden='true'></i> Show</a>";
+            $html .= "<a action=".route('admin.event.delete',$event->eventId)." class='btn btn-danger btn-xs mrs delete' style='margin: 0 5px;'";
             $html .= "token=".csrf_token()."><i class='fa fa-trash' aria-hidden='true'></i> Delete</a>";
            
             return $html;
@@ -94,6 +97,51 @@ class EventController
     $data = Event::find($id);
     $data->delete();
     return 1;
+  }
+
+   public function show($id){
+      
+       $eventData = Event::find($id);
+       return view('admin.events.show',compact('eventData'));
+  }
+
+  public function edit(Request $request){
+   
+        $input    = $request->all();
+        $eventId   = $input['eventId'];
+        $eventData = Event::find($eventId);
+        try{
+        $originalDate = $input["eventDate"];
+        $newDate      = date("Y-m-d", strtotime($originalDate)); 
+
+        $eventData->eventName = $input['eventName'];
+        $eventData->eventDate = $newDate;
+        $eventData->eventTime = $input['eventTime'];
+        $eventData->location = $input['location'];
+        $eventData->eventDescription = $input['description'];
+
+
+        if ($request->hasFile('eventImage')) {
+              $validator = Validator::make($request->all(), [
+                    'eventImage' => 'required|image|mimes:jpeg,png,jpg,svg|max:2048',
+              ]);
+              if ($validator->fails()) {
+                 return redirect(route('admin.event.show' ,$input['eventId']))->withErrors($validator)->withInput();
+              }
+              unlink(storage_path('app/uploads/events/'.$eventData->eventImage));
+              $image      = $request->file('eventImage');
+              //$imageName  = $advId.'_'.str_random(8).'.'.$image->getClientOriginalExtension();
+              $imageName        = str_random(8).'.'.$image->getClientOriginalExtension();
+              $image_path       = $request->file('eventImage')->storeAs('uploads/events/',$imageName);
+              $eventData->eventImage = $imageName;
+          }
+          $eventData->save();
+          return redirect()->route('admin.event')->with('success', 'The event has been successfully updated');
+        }
+        catch(Exeption $e){
+            return redirect(route('admin.event.show' ,$input['eventId']))->withErrors($e->getMessage())->withInput();
+        }
+
   }
 
 

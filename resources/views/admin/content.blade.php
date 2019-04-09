@@ -84,11 +84,11 @@
           toolbar1: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image",
           toolbar2: "print preview media | forecolor backcolor emoticons",
           image_advtab: true,
-          file_picker_callback: function(callback, value, meta) {
-            if (meta.filetype == 'image') {
+          file_picker_callback: function(callback, value, meta) {alert(1);
+            if (meta.filetype == 'image') {alert(2);
               jQuery('#upload').trigger('click');
               jQuery('#upload').on('change', function() {
-                var file = this.files[0];
+                var file = this.files[0]; alert(file);
                 var reader = new FileReader();
                 reader.onload = function(e) {
                   callback(e.target.result, {

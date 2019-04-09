@@ -33,11 +33,12 @@
 	<link rel="stylesheet" href="public/css/responsive.css"> -->
 </head>
 
+<!-- <body oncontextmenu="return false;"> -->
 <body>
 
 	<!--================Header Menu Area =================-->
 	<header class="header_area">
-		<div class="top_menu row m0">
+		<div class="top_menu row m0" style="cursor:pointer">
 			<div class="container">
 				<!-- <div class="float-left">
 					<ul class="list header_social">
@@ -88,7 +89,7 @@
 			          <li><a class="dropdown-item" href="{{route('saints-of-smc')}}">Saints of SMC </a></li>
 
 			         
-                      <li><a class="dropdown-item" href="{{route('Singapore-Diocese')}}">Singapore Diocese</a></li>
+                      <li><a class="dropdown-item" href="https://www.catholic.sg/" target="_blank">Singapore Diocese</a></li>
                       <li><a class="dropdown-item" href="{{route('registration')}}">Register Yourself</a></li>
 			        </ul>
 			      </li> 
@@ -244,7 +245,7 @@
 						</p>
 					</div>
 				</div> -->
-				<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="col-lg-3 col-md-6 col-sm-6" style="display:none">
 					<div class="single-footer-widget">
 						<h6>Quick Links</h6>
 						<div class="row">
@@ -266,7 +267,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3  col-md-6 col-sm-6">
+				<div class="col-lg-3  col-md-6 col-sm-6" style="display:none">
 					<div class="single-footer-widget">
 						<h6>Newsletter</h6>
 						<p>For business professionals caught between high OEM price mediocre print and graphic.</p>
@@ -352,27 +353,15 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             var email = $('.email').val();
 		    window.location.assign('mailto:'+email);
 		});
+		$(".top_menu.row.m0").click(function(){
+		  var url = '{{ asset('/') }}'
+		  window.location.href = url;
+		});
     </script>
+    @stack('css')
 
     @stack('scripts')
-	<!-- <script src="js/jquery.min.js"></script>
-	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/stellar.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-	<script src="vendors/lightbox/simpleLightbox.min.js"></script>
-	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
-	<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
-	<script src="vendors/isotope/isotope.pkgd.min.js"></script>
-	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-	<script src="js/owl-carousel-thumb.min.js"></script>
-	<script src="vendors/popup/jquery.magnific-popup.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="vendors/counter-up/jquery.waypoints.min.js"></script>
-	<script src="vendors/counter-up/jquery.counterup.js"></script>
-	<script src="js/mail-script.js"></script>
-	<script src="js/theme.js"></script> -->
+
 </body>
 
 </html>

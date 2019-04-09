@@ -10,8 +10,10 @@ use App\Models\FamilyDetails;
 use App\Models\Feedback;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\FeedbackMail;
+use App\Mail\RegisterMail;
 use App\Models\Catechism;
 use App\Models\Event;
+use App\Models\LiturgicalCalender;
 
 class IndexController extends Controller
 {
@@ -24,6 +26,7 @@ class IndexController extends Controller
       $events = Event::where('eventDate', '>=', date('Y-m-d'))
          //->where('eventTime','>=',date('H:i:s'))
          ->orderBy('eventDate','ASC')
+         ->limit(3)
          ->get();
 
       return view('home',compact('events'));
@@ -97,7 +100,10 @@ class IndexController extends Controller
       return view('youthChildren');
    }
    public function liturgicalCalendar(){
-      return view('liturgicalCalendar');
+
+      $data = LiturgicalCalender::get();
+
+      return view('liturgicalCalendar',compact('data'));
    }
    public function catechismBooks($class){
 
@@ -111,7 +117,9 @@ class IndexController extends Controller
       return view('emailToSpiritualDirector');
    }
    public function feedback(){
-      return view('feedback');
+      $feedback = Feedback::where('approve',1)->get();
+
+      return view('feedback',compact('feedback'));
    }
    public function registration(){
       return view('registration');
@@ -122,6 +130,12 @@ class IndexController extends Controller
     // echo "<pre>"; print_r($input['data']); exit;
      $input = $input['data'];
      try{
+      if($input['email'] != ""){
+          $email_exist =    RegisteredUsers::where('email',$input['email'])->exists();
+          if($email_exist){
+             return ['status'=>300,'message'=>'This email already exists'];
+          }
+      }
 
         $user = RegisteredUsers::create([
              'name'      => $input['name'],
@@ -136,6 +150,7 @@ class IndexController extends Controller
              'parish_in_india'   => $input['parish_in_india'],
              'diocese_in_india'   => $input['diocese_in_india'],
              'family_living_in_india'   => $input['singapore_living'],
+             'terms'   => $input['terms']
             ]);
 
         if($input['singapore_living']  == 1){
@@ -155,6 +170,9 @@ class IndexController extends Controller
             ]);
           }
         }
+
+        $toEmail   = env('MAIL_ADMIN_ADDRESS');
+        Mail::to($toEmail)->send(new RegisterMail($input));
 
         return ['status'=>200,'message'=>'success'];
 
@@ -196,4 +214,9 @@ class IndexController extends Controller
    public function saintsOfSmc(){
      return view('saintsOfSmc'); 
    }
+
+   public function termsAndConditions(){
+     return view('termsAndConditions'); 
+   }
+
 }

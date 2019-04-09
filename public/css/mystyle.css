@@ -37,3 +37,75 @@
 .home_banner_area {
      min-height: 0px !important; 
 }
+.syro-h1{
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    color: black; 
+}
+
+.syro-h2{
+    font-family: Old English Text MT;
+    font-size: 47px;
+    color: #b30000; 
+    line-height: 42px;
+}
+.syro-h3{
+    font-size: 32px;
+    color: #b30000; 
+    line-height: 42px;
+}
+.txt-m{
+    color: #0000ff;
+    font-size: 61px;
+}
+.tahoma{
+    font-family: Tahoma;
+    color: black;
+    font-size: 19px;
+}
+.tahoma-b{
+    color: black;
+    font-weight: bolder;
+    font-family: Tahoma;  
+    font-size: 20px;
+}
+.tahoma-b-red{
+    color: #b30000;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+.syro-church-tble-td-img{
+    width: 200px;
+}
+.text-centre{
+    text-align:center;
+}
+
+.family .addicon{
+   margin-right: 12px;
+}
+.family_icons{
+     text-align: center;
+}
+
+.loader {
+    border: 16px solid #f3f3f3;
+    border-top: 16px solid #3498db;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    left: 50%;
+    position: relative;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+

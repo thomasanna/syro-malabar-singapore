@@ -3,7 +3,7 @@
 @section('content')
 	
 	<!--================About Area =================-->
-	<section class="latest_blog_area section_gap color-bg">
+	<section class="latest_blog_area  color-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -14,8 +14,9 @@
                              @include('admin.flash-message')
 						</div>
 						<h3>
-							Send E-Mail to Spiritual Director <br><br><br>
-						</h3>
+							Send E-Mail to Spiritual Director 
+						</h3><br>
+                        </div>
 						<div class="bottom_part">
 							<p>
 					    <form class="row contact_form" action="{{route('send-email-spiritual-director')}}" method="post" id="contactForm" >
@@ -59,14 +60,14 @@
                            
                         </div>
 
-                        <div class="col-md-6 text-right2">
+                        <div class="col-md-12 text-centre">
                             <button type="submit" value="submit" class="submit_btn">Send</button>
                         </div>
                     </form>
 							</p>
 						</div>
 						<!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
-					</div>
+					
 				</div>
 			</div>
 			

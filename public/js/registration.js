@@ -4,8 +4,8 @@ jQuery('.singapore_living').on('change', function() {
     if(singapore_living == '1'){
         jQuery('.family').html('');
         jQuery('.fd_div').css('display','block');
-        jQuery('.family').append('<div class="row form-group">'+
-                                '<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Member name</label></div>'+
+        jQuery('.family').append('<div class="member1"><div class="row form-group">'+
+                                '<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Member name 1</label></div>'+
                                 '<div class="col-12 col-md-9">'+
                                 '<input type="text" class="form-control member_name" id="member_name_1" name="member_name_1" placeholder="Enter name ">'+
                                 '</div>'+
@@ -33,8 +33,11 @@ jQuery('.singapore_living').on('change', function() {
                                 '<input type="text" class="form-control member_age" id="member_age_1" name="member_relation_1" placeholder="Enter age ">'+
                                 '</div>'+
                             '</div>'+
-                            '<div class="addicon">'+
-            '<i class="fa fa-plus-circle fa-2 add_family_member" aria-hidden="true" + title="Add family member" style="cursor:pointer"></i></div>');
+                             '<div class="family_icons">'+
+                        '<span class="addicon">'+
+            '<i class="fa fa-plus-circle fa-2 add_family_member" aria-hidden="true"  title="Add family member" style="cursor:pointer"></i></span>'+
+            '<span class="minusicon">'+
+            '<i class="fa fa-minus-circle fa-2" remove_family_member aria-hidden="true"  title="Remove family member" style="cursor:pointer"></i></span></div></div>');
              jQuery(".family").attr("family-count","1");
     }
     else{
@@ -49,12 +52,13 @@ jQuery('body').on('click', '.addicon .add_family_member', function() {
 
     
     jQuery('.family .addicon').remove();
+    jQuery('.family .minusicon').remove();
     jQuery('.fd_div').css('display','block');
     var family_count = parseInt($(".family").attr("family-count"));
     family_count  = family_count+1;
     jQuery(".family").attr("family-count",family_count);
-    jQuery('.family').append('<div class="row form-group">'+
-                        	'<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Member name</label></div>'+
+    jQuery('.family').append('<div class="member'+family_count+'"><div class="row form-group">'+
+                        	'<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Member name '+family_count+'</label></div>'+
                         	'<div class="col-12 col-md-9">'+
                             '<input type="text" class="form-control member_name" id="member_name_'+family_count+ '" name="member_name_'+family_count+'" placeholder="Enter name ">'+
                             '</div>'+
@@ -80,12 +84,30 @@ jQuery('body').on('click', '.addicon .add_family_member', function() {
                             '<input type="text" class="form-control member_age" id="member_age_'+family_count+'" name="member_age_'+family_count+'" placeholder="Enter age ">'+
                             '</div>'+
                         '</div>'+
-                        '<div class="addicon">'+
-            '<i class="fa fa-plus-circle fa-2 add_family_member" aria-hidden="true" + title="Add family member" style="cursor:pointer"></i></div>');
+                        '<div class="family_icons">'+
+                        '<span class="addicon">'+
+            '<i class="fa fa-plus-circle fa-2 add_family_member" aria-hidden="true"  title="Add family member" style="cursor:pointer"></i></span>'+
+            '<span class="minusicon">'+
+            '<i class="fa fa-minus-circle fa-2 remove_family_member"  aria-hidden="true"  title="Remove family member" style="cursor:pointer"></i></span></div></div>');
    
 
 
 });
+
+jQuery('body').on('click', '.minusicon .remove_family_member', function() {
+
+  var family_count = parseInt($(".family").attr("family-count"));
+
+  jQuery('.member'+family_count).remove();
+  family_count  = family_count-1;
+  jQuery(".family").attr("family-count",family_count);
+  jQuery('.member'+family_count+' .family_icons').html('<span class="addicon">'+
+                '<i class="fa fa-plus-circle fa-2 add_family_member" aria-hidden="true"  title="Add family member" style="cursor:pointer"></i></span>'+
+                  '<span class="minusicon">'+
+            '<i class="fa fa-minus-circle fa-2 remove_family_member"  aria-hidden="true"  title="Remove family member" style="cursor:pointer"></i></span>');
+
+    
+  });
 
 
 jQuery('body').on('click', '.submit_btn', function(e) {
@@ -105,7 +127,10 @@ jQuery('body').on('click', '.submit_btn', function(e) {
     var diocese_in_india=jQuery('#diocese_in_india').val();
     var singapore_living=jQuery('#singapore_living').val();
 
+
+
     var memberArray = [];
+
 
     if(singapore_living == 1){
         var family_count = parseInt($(".family").attr("family-count"));
@@ -121,12 +146,55 @@ jQuery('body').on('click', '.submit_btn', function(e) {
     }
     console.log(memberArray);
 
-    var is_validate = false;
-    if(name != "" && contact_number != ""){
-        is_validate =  true;        
+    var is_validate = true;
+
+
+    if(name == "" || contact_number == ""){
+        is_validate =  false;  
+        jQuery('.error_div .err_msg').html('Please enter name and contact number'); 
+        jQuery('.error_div').css('display','block');      
+             
     }
+    var numberOnly = /^[0-9]*$/;
+    if(is_validate == true && age != ""){
+      if(!numberOnly.test(age)){
+       is_validate =  false;
+       jQuery('.error_div .err_msg').html('Please enter valid age'); 
+       jQuery('.error_div').css('display','block'); 
+      }
+    }
+     if(is_validate == true && email != ""){
+        if(validateEmail(email)){
+             is_validate =  true;
+            } 
+        else {
+         is_validate =  false;
+         jQuery('.error_div .err_msg').html('Please enter valid email'); 
+         jQuery('.error_div').css('display','block');
+        }
+      }
+
     if(is_validate == true){
+      if ($('#terms').is(":checked"))
+      {
+         var terms = 1;
+         is_validate =  true;
+      } 
+      else{
+        is_validate =  false;
+        jQuery('.error_div .err_msg').html('Please agree the terms & conditions and privacy policy'); 
+        jQuery('.error_div').css('display','block'); 
+      }
+    }
+
+    
+    
+    if(is_validate == true){alert(1);
+      jQuery('.loader').show();
+       jQuery('.submit_btn').hide();
        
+       jQuery('.error_div').css('display','none'); 
+       jQuery('.error_div .err_msg').html('');
        jQuery.ajax({
         type: 'POST',
         async: false,
@@ -147,7 +215,8 @@ jQuery('body').on('click', '.submit_btn', function(e) {
              "parish_in_india":parish_in_india,
              "diocese_in_india":diocese_in_india,
              "singapore_living":singapore_living,
-             'family_member': memberArray
+             'family_member': memberArray,
+             'terms': terms
          }
        },
         
@@ -155,6 +224,14 @@ jQuery('body').on('click', '.submit_btn', function(e) {
            if(response.status == 200){
              clear();
              jQuery('.success_div').css('display','block');
+             jQuery('.submit_btn').show();
+             jQuery('.loader').css('display','none');
+           }
+           else{
+            jQuery('.error_div .err_msg').html(response.message); 
+            jQuery('.error_div').css('display','block'); 
+            jQuery('.submit_btn').show();
+            jQuery('.loader').css('display','none'); 
            }
         }
   });
@@ -162,6 +239,11 @@ jQuery('body').on('click', '.submit_btn', function(e) {
 }
     
 });
+
+function validateEmail(email){
+    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+    return emailReg.test(email);
+}
 
 function clear(){
    jQuery('#name').val('');
@@ -177,4 +259,5 @@ function clear(){
    jQuery('#diocese_in_india').val('');
    jQuery('#singapore_living').val('');
    jQuery('.family').html('');
+   jQuery('input[type=checkbox]').prop('checked',false);
 }

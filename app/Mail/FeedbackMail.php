@@ -35,7 +35,7 @@ class FeedbackMail extends Mailable
         $data = $this->feedback;
 
         return $this->view('emails.feedback')
-                    ->from($data['email'] , $data['name'])
+                    ->from('teenutc12@gmail.com' , $data['name'])
                     ->subject('SMC Singapore')  //<= how to pass variable on this subject
                     ->with([
                         'title'       => $data['subject'],

@@ -68,10 +68,13 @@
                     </li>
                     <li>
                         <a href="{{route('admin.catechism')}}" > <i class="menu-icon fa fa-laptop"></i>Catechism</a>                      
-                    </li>
+                    </li> 
                     <li>
-                        <a href="{{route('admin.menu')}}" > <i class="menu-icon fa fa-laptop"></i>Menu</a>                      
+                        <a href="{{route('admin.liturgical-calender')}}" > <i class="menu-icon fa fa-laptop"></i>Liturgical Calender</a>                      
                     </li>
+                   <!--  <li>
+                        <a href="{{route('admin.menu')}}" > <i class="menu-icon fa fa-laptop"></i>Menu</a>                      
+                    </li> -->
                     <li>
                         <a href="{{route('admin.content')}}" > <i class="menu-icon fa fa-laptop"></i>Content</a>                      
                     </li>

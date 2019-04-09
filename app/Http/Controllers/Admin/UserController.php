@@ -11,6 +11,7 @@ use App\Models\Admin;
 use App\Models\RegisteredUsers;
 use App\Models\FamilyDetails;
 use Auth;
+use PDF;
 
 
 
@@ -27,6 +28,7 @@ class UserController
           ->addIndexColumn()
            ->editColumn('actions',function($user){
             $html = "<a href=".route('admin.user.view',$user->reg_user_id)." class='btn btn-success btn-xs mrs' style='margin: 0 5px;'><i class='fa fa-eye'></i> Show</a>";
+            $html .= "<a href=".route('admin.user.generate-pdf',$user->reg_user_id)." class='btn btn-success btn-xs mrs' style='margin: 0 5px;'><i class='fa fa-eye'></i> Generate PDF</a>";
            
             return $html;
         })
@@ -42,6 +44,17 @@ class UserController
       //echo "<pre>";print_r($content); exit;
 
       return view('admin.users.view',compact('user','familyDetails'));
+  }
+
+  public function generatePDF($id){
+      
+      $user = RegisteredUsers::find($id);
+      $familyDetails = FamilyDetails::where('parent_user_id',$id)->get();
+      $data = ['user' => $user,'familyDetails'=>$familyDetails];
+
+      $pdf = PDF::loadView('admin.users.userpdf', $data);
+  
+      return $pdf->download($user->name.'-'.$user->reg_user_id.'.pdf');
   }
 
 }
