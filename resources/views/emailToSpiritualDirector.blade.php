@@ -3,7 +3,7 @@
 @section('content')
 	
 	<!--================About Area =================-->
-	<section class="latest_blog_area  color-bg">
+	<section class="latest_blog_area section_gap_inner_pg color-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">

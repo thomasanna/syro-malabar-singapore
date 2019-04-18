@@ -51,7 +51,7 @@
                         <div class="col col-md-3"><label for="select" class=" form-control-label">Event Time</label></div>
                            <div class="col-12 col-md-9">
 
-                           <input class="form-control timepicker" type="text" name="eventTime"current-time="{{date('H:i:s')}}"  required>
+                           <input class="form-control timepicker" type="text" name="eventTime" current-time="{{date('H:i:s')}}"  required>
                            </div>
                     </div>
                     <div class="row form-group">

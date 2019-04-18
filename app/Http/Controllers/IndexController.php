@@ -11,9 +11,18 @@ use App\Models\Feedback;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\FeedbackMail;
 use App\Mail\RegisterMail;
+use App\Mail\HouseBlessingRequestMail;
+use App\Mail\NocRequestMail;
 use App\Models\Catechism;
 use App\Models\Event;
 use App\Models\LiturgicalCalender;
+use App\Models\houseBlessingRequest;
+use App\Models\Noc;
+use Twilio;
+use Hash;
+use App\Models\Otp;
+use App\Models\Activity;
+use App\Models\Novena;
 
 class IndexController extends Controller
 {
@@ -61,8 +70,8 @@ class IndexController extends Controller
       return view('syro-malabar-church',compact('data'));
    }
    public function activitiesYear1($year){
-
-      return view('activities-year1',compact('year'));
+      $content = Activity::where('year',$year)->first();
+      return view('activities-year1',compact('year','content'));
    }
    public function reportsYear1(){
       $contentObj = new Content();
@@ -136,8 +145,18 @@ class IndexController extends Controller
              return ['status'=>300,'message'=>'This email already exists'];
           }
       }
+      $ext = '+65';
 
-        $user = RegisteredUsers::create([
+      $contact_number  = $ext.$input['contact_number'];
+
+      $otpDataExists =     Otp::where('contact_number',$contact_number)
+                                ->where('otp',$input['otp'])
+                                ->exists();
+      if(!$otpDataExists){
+        return ['status'=>300,'message'=>'Please enter valid otp number'];
+      }
+
+      $user = RegisteredUsers::create([
              'name'      => $input['name'],
              'contact_number'   => $input['contact_number'],
              'nric_fin'   => $input['nric_fin'],
@@ -218,5 +237,138 @@ class IndexController extends Controller
    public function termsAndConditions(){
      return view('termsAndConditions'); 
    }
+
+   public function houseBlessingRequest(){
+     return view('houseBlessingRequest'); 
+   }
+
+   public function houseBlessingRequestSave(Request $request){
+      $input     = $request->all();
+      //echo "<pre>"; print_r($input); exit;
+       try{
+           $ext = '+65';
+
+           $contact_number  = $ext.$input['contact_number'];
+
+           $otpDataExists =     Otp::where('contact_number',$contact_number)
+                                ->where('otp',$input['otp'])
+                                ->exists();
+           if(!$otpDataExists){
+            return redirect()->route('house-blessing-request')->with('error', 'Please enter valid otp number');
+           }
+           $newDate      = date("Y-m-d", strtotime($input['house_blessing_date']));
+           $user = houseBlessingRequest::create([
+             'name'      => $input['name'],
+             'contact_number'   => $input['contact_number'],
+             'house_blessing_date'   => $newDate,
+             'house_blessing_time'   => $input['house_blessing_time'],
+             'address'   => $input['address'],
+            ]);
+
+           $toEmail   = env('MAIL_ADMIN_ADDRESS');
+           Mail::to($toEmail)->send(new HouseBlessingRequestMail($input));
+
+           return redirect()->route('house-blessing-request')->with('success', 'Your request has been successfully submitted');
+       }
+       catch(Exception $e) {
+         return redirect()->route('house-blessing-request')->with('error', 'Failed');
+
+      }
+   }
+
+   public function applyNoc(){
+    return view('applyNoc'); 
+   } 
+
+   public function nocSave(Request $request){
+    $input     = $request->all();
+   // echo "<pre>"; print_r($input); exit;
+    try{
+
+        $ext = '+65';
+
+        $contact_number  = $ext.$input['contact_number'];
+ 
+        $otpDataExists =     Otp::where('contact_number',$contact_number)
+                                ->where('otp',$input['otp'])
+                                ->exists();
+        if(!$otpDataExists){
+            return redirect()->route('apply-noc')->with('error', 'Please enter valid otp number');
+           }
+                                   
+        $newDate      = date("Y-m-d", strtotime($input['date_arrival_singapore']));
+           $user = Noc::create([
+             'name'      => $input['name'],
+             'baptism_name'   => $input['baptism_name'],
+             'contact_number'   => $input['contact_number'],
+             'nric_fin'   => $input['nric_fin'],
+             'sex'   => $input['sex'],
+             'marital_status'   => $input['marital_status'],
+             'father_name'   => $input['father_name'],
+             'mother_name'   => $input['mother_name'],
+             'address_in_singapore'   => $input['address_in_singapore'],
+             'work_place_address'   => $input['work_place_address'],
+             'designation'   => $input['designation'],
+             'date_arrival_singapore'   => $newDate,
+             'church_in_singapore'   => $input['church_in_singapore'],
+             'address_in_india'   => $input['address_in_india'],
+             'parish_vicar_name'   => $input['parish_vicar_name'],
+             'parish_address'   => $input['parish_address'],
+             'would_be_details'   => $input['would_be_details'],
+             'reference_person_1'   => $input['reference_person_1'],
+             'reference_person_2'   => $input['reference_person_2'],
+             'reference_person_3'   => $input['reference_person_3']
+            ]);
+           
+           $toEmail   = env('MAIL_ADMIN_ADDRESS');
+           Mail::to($toEmail)->send(new NocRequestMail($input));
+
+           return redirect()->route('apply-noc')->with('success', 'Your application has been successfully submitted');
+       }
+       catch(Exception $e) {
+         return ['status'=>300,'message'=>'failed'];
+      }
+   }
+
+   public function sendOtp(Request $request){
+      $input     = $request->all();
+      $input     = $input['data'];
+      $sms_to    = $input['contact_number'];
+      $type    = $input['type'];
+      $otp = rand(pow(10, 4), pow(10, 5)-1);
+      $ext = '+65';
+      $sms_to = $ext.$sms_to;
+      //$otp = 12345;
+      $loginOtp  = Hash::make($otp);
+      if($type == 'noc'){
+              $msg = $otp.' is the OTP to apply for NOC Syro-Malabar Catholic Singapore';
+      }
+      elseif($type == 'register'){
+        $msg = $otp.' is the OTP to register Syro-Malabar Catholic Singapore';
+      }
+      else{
+        $msg = $otp.' is the OTP to request for house blessing Syro-Malabar Catholic Singapore';
+      }
+      
+      try{
+        $sms = Twilio::message($sms_to, $msg);
+        $otpData =     Otp::where('contact_number',$sms_to)->delete();
+        Otp::create([               
+               'contact_number'      => $sms_to,
+               'otp'      => $otp,    
+        ]);
+           
+            return ['status'=>200,'message'=>'OTP Sent'];
+        }
+        catch(Twilio\Exceptions\RestException $e){
+            return ['status'=>300,'message'=>'Unverified Twilio Phone Number'];
+        }
+   }
+
+   public function novena($name,$lang){
+      $novena = Novena::where('saint_name',$name)->where('lang',$lang)->first();
+      return view('novena',compact('novena'));
+   }
+   
 
 }

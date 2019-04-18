@@ -1,7 +1,43 @@
 @extends('layouts.template')
 
 @section('content')
-	
+	<!-- Modal -->
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Personal Data Protection Policy</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <section class="latest_blog_area section_gap color-bg">
+        <div class="container">
+           
+                        <div class="bottom_part">
+                            <p>
+                                The Syro-Malabar Catholic Church or Church of Malabar Syrian Catholics is an Eastern Catholic Major Archiepiscopal Church based in Kerala, India. It is a sui iuris particular church in full communion with the Pope and the worldwide Catholic Church, with self-governance under the Code of Canons of the Eastern Churches
+                            </p>
+                        </div>
+                        <!-- <a href="#" class="main_btn mt-45">Request Custom Price</a> -->
+                    
+         <div class="row form-group">
+                             
+                                <div class="col-12 col-md-9 checkbox">
+                                <input  type="checkbox" id="terms" name="terms" value="" style="margin-right:12px">I have read and accepted the Personal Data Protection Policy
+                                </div>
+                            </div>       
+            
+        </div>
+    </section>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 	<!--================About Area =================-->
 	<section class="latest_blog_area  color-bg">
 		<div class="container">
@@ -44,11 +80,13 @@
                                 </div>
                             </div>
                              <div class="row form-group">
-                            	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Contact Number</label></div>
-                            	<div class="col-12 col-md-9">
-                                <input type="text" class="form-control" id="contact_number" name="contact_number" placeholder="Enter your contact number in Singapore" required>
+                                <div class="col col-md-3 form_label"><label for="select" class=" form-control-label">Contact Number</label></div>
+                                <div class="col-12 col-md-9">
+                                <span class="mobcode">+65</span>    
+                                <input type="text" class="form-control" id="contact_number" name="contact_number" placeholder="Enter your contact number in Singapore" required style="padding-left: 39px;">
                                 </div>
-                            </div>
+                            </div> 
+
                             <div class="row form-group">
                             	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label">NRIC/FIN</label></div>
                             	<div class="col-12 col-md-9">
@@ -131,12 +169,21 @@
                             <div class="row form-group">
                             	<div class="col col-md-3 form_label"><label for="select" class=" form-control-label"></label></div>
                             	<div class="col-12 col-md-9 checkbox">
-                                <input  type="checkbox" id="terms" name="terms" value="" style="margin-right:12px">I agree to the <a href="{{route('terms-and-conditions')}}" target="_blank">Terms & Conditions and Privacy Policy </a>
+                                Read and accept the  <a data-toggle="modal" data-target="#exampleModalLong" href="#" >Personal Data Protection Policy </a>
                                 </div>
                             </div>
+
+                            <div class="col-md-12 text-centre" style="padding-bottom: 12px;">
+                            <span class="getsendOtpUrl" data-url = "{{route('send-otp')}}" token="{{ csrf_token() }}" type="register"></span>
+                            <button type="button" class="verify genric-btn primary">Send Otp</button>
+                            </div>
                             
-                         
-                           
+                            <div class="row form-group">
+                                <div class="col col-md-3 form_label"><label for="select" class="form-control-label">Enter otp number</label></div>
+                                <div class="col-12 col-md-9">
+                                <input type="text" class="form-control" id="otp" name="otp" placeholder="Enter your otp" required>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="col-md-12 text-centre">
@@ -158,6 +205,7 @@
 		</div>
 	</section>
 	<!--================End About Area =================-->
+
 
 
 @endsection

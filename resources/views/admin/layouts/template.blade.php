@@ -81,6 +81,21 @@
                     <li>
                         <a href="{{route('admin.event')}}" > <i class="menu-icon fa fa-laptop"></i>Event</a>                      
                     </li>
+                    <li>
+                        <a href="{{route('admin.house-blessing-request')}}" > <i class="menu-icon fa fa-laptop"></i>House Blessing Request</a>                      
+                    </li>
+                    <li>
+                        <a href="{{route('admin.activities')}}" > <i class="menu-icon fa fa-laptop"></i>Activities</a>                      
+                    </li>
+                    <li>
+                        <a href="{{route('admin.noc')}}" > <i class="menu-icon fa fa-laptop"></i>NOC</a>                      
+                    </li>
+                    <li>
+                        <a href="{{route('admin.novena')}}" > <i class="menu-icon fa fa-laptop"></i>Novena</a>                      
+                    </li>
+                    <li>
+                        <a href="{{route('admin.prayer')}}" > <i class="menu-icon fa fa-laptop"></i>Prayer</a>                      
+                    </li>
                    
                    
                 </ul>

@@ -84,8 +84,8 @@
 			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 			          <li><a class="dropdown-item" href="{{route('History')}}">SMCS History</a></li>
 			          <li><a class="dropdown-item" href="{{route('bharavahikal')}}">SMCS Bharavahikal</a></li>
-			          <li><a class="dropdown-item" href="{{route('St-Thomas-The-Apostle')}}">St. Thomas The Apostle</a></li>
-			          <li><a class="dropdown-item" href="{{route('Syro-Malabar-Church')}}">Syro-Malabar Church</a></li>
+			          <li><a class="dropdown-item" href="{{route('St-Thomas-The-Apostle')}}" >St. Thomas The Apostle</a></li>
+			          <li><a class="dropdown-item" href="http://www.syromalabarchurch.in/" target="_blank">Syro-Malabar Church</a></li>
 			          <li><a class="dropdown-item" href="{{route('saints-of-smc')}}">Saints of SMC </a></li>
 
 			         
@@ -126,14 +126,14 @@
 			            <ul class="dropdown-menu">
 			              <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Appointments</a>                 
 	                      <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">House blessing request </a></li>
+					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('house-blessing-request')}}">House blessing request </a></li>
 					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('Counselling')}}">Spiritual support and Guidance  </a></li>
 				          </ul>                   
 			              </li>
 			              <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="{{route('Marriage-Preparation')}}">Marriage Preparation</a>
 
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">Apply NOC </a></li>
+					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('apply-noc')}}">Apply NOC </a></li>
 					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">Available MPC Details </a></li>
 				          </ul> 
 
@@ -335,9 +335,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 	<script src="{{asset('public/js/jquery.min.js')}}">></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+
 	<script src="{{asset('public/js/bootstrap.min.js')}}">></script>
 	<script src="{{asset('public/js/jquery.nice-select.min.js')}}">></script>
-	<script src="{{asset('public/js/popper.js')}}">></script>
+	<!-- <script src="{{asset('public/js/popper.js')}}">></script> -->
 	<script src="{{asset('public/js/stellar.js')}}">></script>
 	<script src="{{asset('public/js/simpleLightbox.min.js')}}">></script>
 	<script src="{{asset('public/js/jquery.magnific-popup.min.js')}}">></script>

@@ -108,4 +108,114 @@ th, td {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+.main_tr{
+    background-color: #0066ccc2;
+    color:white;
+}
+.s_cl{
+    background-color: #2e8dcc66;
+}
+.e_cl{
+    background-color: #e6f2ff;
+}
+.first_tr{
+    background-color:#4da6ff61 !important;
+}
+.sec_tr{
+    background-color:#ffa366 !important;
+   
+}
+.third_tr,.fifth_tr{
+    background-color:#9fdf9f !important;
+}
+.fourth_tr{
+     background-color:#f8b6004f !important;
+}
 
+.section_gap_inner_pg {
+    padding-bottom: 81px;
+}
+.required {
+        color: #ff0000;
+}
+
+.modal{
+
+    z-index: 9999999 !important;}
+.mobcode{
+    position: absolute;
+    width: 30px;
+    height: 26.5px;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 300;
+    padding-right: 7px;
+    top: 5.25px;
+    left: 20px;
+    text-align: center;
+    border-right: solid 1px #EB5441;
+    color: #333;
+}
+.old_english{
+        font-family: Old English Text MT;
+}
+.saint-sub{
+        font-weight: 500;
+    color: black;
+}
+.saints-table td{
+    text-align: center;
+}
+.saints-table .wingdings{
+    color: orange;
+    font-size: 25px;
+}
+.saints-table .old_english{
+    font-size: 25px;
+}
+.saints-table th{
+        text-align: center;
+}
+.activities{
+
+    font-size: 16.5pt;
+    line-height: 120%;
+    font-family: ML-TTKarthika;
+}
+.eng_lang{
+    font-family: "Roboto", sans-serif;
+}
+/* CSS used here will be applied after bootstrap.css */
+.tooltip-inner {
+    background-color: #ffff99 !important;
+    color:black !important;
+    max-width: 500px !important; 
+}
+.tooltip.bs-tooltip-right .arrow:before {
+    border-right-color: #00cc00 !important;
+}
+.tooltip.bs-tooltip-left .arrow:before {
+    border-right-color: #00cc00 !important;
+}
+.tooltip.bs-tooltip-bottom .arrow:before {
+    border-right-color: #00cc00 !important;
+}
+.tooltip.bs-tooltip-top .arrow:before {
+    border-right-color: #00cc00 !important;
+}
+.history{
+    font-size: 16.5pt;
+    line-height: 120%;
+    font-family: ML-TTKarthika;
+}
+.novena .active{
+    color:#ff0000;
+}
+.novena p{
+    color:black !important;
+}
+.home_title{
+        font-size: 39px;
+    line-height: 44px;
+    padding-bottom: 44px;
+}

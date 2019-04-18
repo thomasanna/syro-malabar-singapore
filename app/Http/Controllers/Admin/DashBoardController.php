@@ -7,6 +7,8 @@ use DB;
 use Illuminate\Support\Facades\Hash;
 use App\Models\Admin;
 use App\Models\Content;
+use App\Models\Activity;
+use App\Models\Novena;
 use Auth;
 
 
@@ -66,49 +68,118 @@ class DashBoardController extends Controller
 		return view('admin.events.index');
 	}
 
-	// public function eventdata(Request $req){
- //      return Datatables::of(Event::select('*')->orderBy('eventDateTime','DESC'))
- //      ->addIndexColumn()
- //      ->editColumn('status',function($event){
- //        if(strtotime(date('d-m-Y H:i:s')) >=  strtotime(date("d-m-Y H:i:s", strtotime($event->eventDateTime)))){ return "<span class='label label-danger'>Inactive</span>";}
- //        else{ return "<span class='label label-success'>Active</span>";}
- //      })
- //      ->editColumn('eventDateTime',function($event){
- //          $originalDate = $event->eventDateTime;
- //          return $newDate      = date("d-m-Y H:i:s", strtotime($originalDate));
- //      })
- //      ->editColumn('actions',function($event){
- //        $html  = "<a href=".route('admin.events.show',$event->eventId)." class='btn btn-success btn-xs mrs' style='margin: 0 5px;'><i class='fa fa-eye' aria-hidden='true'></i> Show</a>";
- //        if(Auth::guard('admin')->user()->username=="theknowshowadmin"){
- //          if(date('d-m-Y') !=  date("d-m-Y", strtotime($event->eventId))){
- //              $html .= "<a action='#' class='btn btn-primary btn-xs mrs' style='margin: 0 5px;' disabled><i class='fa fa-forward' aria-hidden='true'></i> Go Live</a>";
- //          }
- //          else{
- //              $html .= "<a href=".route('admin.events.start',$event->eventId)." class='btn btn-primary btn-xs mrs' style='margin: 0 5px;''><i class='fa fa-forward' aria-hidden='true'></i> Go Live</a>";
- //          }
- //        }
-        
- //        $html .= "<a href=".route('admin.events.questions.list',$event->eventId)." class='btn btn-primary btn-xs mrs' style='margin: 0 5px;'><i class='fa fa-question' aria-hidden='true'></i> Questions</a>";
- //        if($event->isCompleted ==1){
- //          $html .= "<a href=".route('admin.events.results',$event->eventId)."  class='btn btn-primary btn-xs mrs'";
- //          $html .= "><i class='fa fa-check-circle' aria-hidden='true'></i> Results</a>";
-          
- //          $html .= "<a href=".route('admin.events.payment',$event->eventId)."  class='btn btn-primary btn-xs mrs'";
- //          $html .= "><i class='fa fa-check-circle' aria-hidden='true'></i> Payment</a>";
- //        }else{
- //          $html .= "<a disabled='disabled' href='javascript:void(0)' class='btn btn-info btn-xs mrs'";
- //          $html .= "><i class='fa fa-check-circle' aria-hidden='true'></i> Results</a>";
- //        }
- //        if(strtotime(date('d-m-Y H:i:s')) >=  strtotime(date("d-m-Y H:i:s", strtotime($event->start_time)))){
- //          $html .= " <a action='#' class='btn btn-danger btn-xs mrs delete-disabled' disabled>";
- //          $html .= "<i class='fa fa-trash' aria-hidden='true'></i> Delete</a>";
- //        }
- //        else{
- //          $html .= " <a action=".route('admin.events.delete',$event->eventId)." class='btn btn-danger btn-xs mrs delete'";
- //          $html .= "token=".csrf_token()."><i class='fa fa-trash' aria-hidden='true'></i> Delete</a>";
- //        }
- //        return $html;
- //    })->make(true);
- //  }
+	public function activities(){
+		return view('admin.activities');
+	}
+	public function saveActivity(Request $request){
+		$input     = $request->all();
+	    $content = Activity::where('year',$input['year'])->first();
+	    if($content){
+
+           $content->content = $input['content'];
+           $content->save();
+           return redirect()->route('admin.activities')->with('success', 'The activity has been successfully updated');
+	    }
+	    else{
+	    	Activity::create([
+             'year'   => $input['year'],
+             'content'   => $input['content'],
+            ]);
+            return redirect()->route('admin.activities')->with('success', 'The activity has been successfully updated');
+	    }
+	}
+
+	public function getActivityByYear(Request $request){
+		$input        = $request->all();
+		$year  = $input['year'];
+		if($year != ''){
+          $content = Activity::where('year',$year)->first();
+          if(!empty($content)){
+          	return ['status'=>200,'message'=>'success','content'=>$content->content];
+          }
+          else{
+          	return ['status'=>200,'message'=>'success','content'=>''];
+          }          
+		}
+		else{
+			return ['status'=>200,'message'=>'success','content'=>''];
+		}
+	}
+
+	public function novena(){
+
+		return view('admin.novena');		
+	}
+	public function novenaSave(Request $request){
+     
+		$input     = $request->all();
+		try{
+	    $content = Novena::where('saint_name',$input['saint_name'])
+	        ->where('lang',$input['lang'])
+	        ->where('prayer_type',$input['prayer_type'])
+		    ->first();
+	    if($content){
+
+            if ($request->hasFile('novena_file')) {
+              if($content->file != ""){
+              	 unlink(storage_path('app/uploads/novena/'.$content->file));
+              }
+            
+              $file            = $request->file('novena_file');
+              $fileName        = str_random(8).'.'.$file->getClientOriginalExtension();
+              $file_path       = $request->file('novena_file')->storeAs('uploads/novena/',$fileName);
+              $content->file   = $fileName;
+            }
+
+            $content->saint_name = $input['saint_name'];
+            $content->prayer_type = $input['prayer_type'];
+            $content->lang = $input['lang'];
+            $content->content = $input['content'];
+            $content->save();
+            return redirect()->route('admin.novena')->with('success', 'The novena has been successfully updated');
+	    }
+	    else{
+	    	
+            $fileName  = '';
+            if ($request->hasFile('novena_file')) {
+              $file      = $request->file('novena_file');
+              $fileName        = str_random(8).'.'.$file->getClientOriginalExtension();
+              $file_path       = $request->file('novena_files')->storeAs('uploads/novena/',$fileName);
+          }
+          Novena::create([
+             'saint_name'   => $input['saint_name'],
+             'prayer_type'   => $input['prayer_type'],
+             'lang'   => $input['lang'],
+             'content'   => $input['content'],
+             'file'   => $fileName,
+            ]);
+            return redirect()->route('admin.novena')->with('success', 'The novena has been successfully updated');
+        }
+	    }
+	    catch(Exeption $e){
+            return redirect(route('admin.novena'))->withErrors($e->getMessage())->withInput();
+        } 	
+	}
+
+	public function getNovena(Request $request){
+		$input        = $request->all();
+		$saint_name  = $input['saint_name'];
+		$prayer_type  = $input['prayer_type'];
+		$lang  = $input['lang'];
+		
+          $novena = Novena::where('saint_name',$saint_name)
+          ->where('prayer_type',$prayer_type)
+          ->where('lang',$lang)
+          ->first();
+          if(!empty($novena)){
+          	return ['status'=>200,'message'=>'success','content'=>$novena->content];
+          }
+          else{
+          	return ['status'=>200,'message'=>'success','content'=>''];
+          }          
+		
+		
+	}
+
 
 }

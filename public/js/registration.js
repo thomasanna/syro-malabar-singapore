@@ -126,6 +126,7 @@ jQuery('body').on('click', '.submit_btn', function(e) {
     var parish_in_india=jQuery('#parish_in_india').val();
     var diocese_in_india=jQuery('#diocese_in_india').val();
     var singapore_living=jQuery('#singapore_living').val();
+    var otp=jQuery('#otp').val();
 
 
 
@@ -187,9 +188,19 @@ jQuery('body').on('click', '.submit_btn', function(e) {
       }
     }
 
+    if(is_validate == true){
+
+      if(otp == ""){
+        is_validate =  false;
+        jQuery('.error_div .err_msg').html('Please enter valid otp'); 
+        jQuery('.error_div').css('display','block');
+      }
+
+    }
+
     
     
-    if(is_validate == true){alert(1);
+    if(is_validate == true){
       jQuery('.loader').show();
        jQuery('.submit_btn').hide();
        
@@ -216,7 +227,8 @@ jQuery('body').on('click', '.submit_btn', function(e) {
              "diocese_in_india":diocese_in_india,
              "singapore_living":singapore_living,
              'family_member': memberArray,
-             'terms': terms
+             'terms': terms,
+             'otp': otp,
          }
        },
         
@@ -261,3 +273,38 @@ function clear(){
    jQuery('.family').html('');
    jQuery('input[type=checkbox]').prop('checked',false);
 }
+
+
+jQuery('body').on('click', '.verify', function() {
+
+    var action = jQuery(".getsendOtpUrl").attr('data-url');
+    var token  = jQuery(".getsendOtpUrl").attr('token');
+    var type  = jQuery(".getsendOtpUrl").attr('type');
+    var contact_number=jQuery('#contact_number').val(); 
+    if(contact_number != ""){
+        jQuery.ajax({
+        type: 'POST',
+        async: false,
+        url: action,
+        dataType: 'json',
+        data: {
+         "_token" : token,
+         "data": {
+             "contact_number":contact_number,
+             "type":type
+         }
+       },
+        
+        success: function(response) {
+           alert(response.message)
+        }
+     });
+
+    }
+
+    else{
+        jQuery('.error_div .err_msg').html('Please enter contact number'); 
+        jQuery('.error_div').css('display','block');
+    }
+
+});

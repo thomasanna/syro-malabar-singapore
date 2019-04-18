@@ -3,12 +3,12 @@
 @section('content')
 	
 <!--================Home Banner Area =================-->
-	<div class="home_banner_area">
+	<section class="home_banner_area">
 		<div class="banner_inner d-flex align-items-center" style="min-height: unset;">
 			<!-- <div class="overlay bg-parallax" data-stellar-ratio="2" data-stellar-vertical-offset="0" data-background=""></div> -->
 			<!-- <div class="overlay overlay-bg"></div> -->
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 100%;">
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 100%;" data-pause="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{asset('public/img/banner/home-banner.jpg')}}" alt="First slide">
@@ -59,11 +59,99 @@
 				<div class="col-lg-12">
 					<div class="main_title">
 						<p class="text-uppercase"></p>
-						<h2>
-							Events
-						</h2>
+						<div class="home_title">
+							Regular Syro-Malabar Qurbana Schedules in Singapore 
+						</div>
 						<p>
-							nappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards
+							
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="table-responsive">
+  <!--Table-->
+  <table class="table table-striped">
+
+    <!--Table head-->
+    <thead>
+      <tr class="main_tr">
+        <th>Week</th>
+        <th>Time</th>
+        <th>Church</th>
+      </tr>
+    </thead>
+    <!--Table head-->
+
+    <!--Table body-->
+    <tbody>
+      <tr class="first_tr">
+        <th scope="row" >1st Saturday</th>
+        <td >7:30 pm</td>
+        <td ><span><h3>Church of Devine Mercy</h3></span>
+	     19 Pasir Ris Street 72, Singapore 518771
+	    </td>
+        
+      </tr>
+      <tr class="sec_tr">
+        <th scope="row" >2nd Saturday</th>
+        <td >7:00 pm</td>
+        <td ><span><h3>Choice Retreat House</h3></span>
+47 Jurong West Street 42, Singapore 649368
+</td>
+       
+      </tr>
+      <tr class="third_tr">
+        <th scope="row" >3rd Saturday</th>
+        <td >7:30 pm</td>
+        <td ><span><h3>Church of St Anthony</h3></span>
+                  25 Woodlands Ave 1, Singapore 739064
+        </td>
+       
+      </tr>
+      <tr class="fourth_tr">
+        <th scope="row" >4th Saturday</th>
+        <td >7:30 pm</td>
+        <td><span><h3>St Anne's Church</h3></span>
+                66 Sengkang E Way, Singapore 548593
+        </td>
+       
+      </tr>
+      <tr class="fifth_tr">
+        <th scope="row" >5th Saturday</th>
+        <td >7:30 pm</td>
+        <td ><span><h3>Church of St Anthony</h3></span>
+           25 Woodlands Ave 1, Singapore 739064
+        </td>
+       
+      </tr>
+    </tbody>
+    <!--Table body-->
+  </table>
+  <!--Table-->
+</div>
+
+			</div>
+			<div>
+				
+			</div>
+		</div>
+	</section>
+	<!--================End Latest Blog Area =================-->
+
+		<!--================Latest Blog Area =================-->
+	<section class="latest_blog_area  color-bg" style="margin-bottom: 12px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="main_title">
+						<p class="text-uppercase"></p>
+						<div class="home_title">
+							Upcoming Events
+						</div>
+						<p>
+							Inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards
 							especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach.
 							inappropriate behavior is often laughed.
 						</p>
@@ -109,8 +197,10 @@
 				<a href="{{route('events')}}" class="main_btn">View all</a>
 			</div>
 		</div>
-	</div>
+	</section>
 	<!--================End Latest Blog Area =================-->
+
+
 
 
 @endsection

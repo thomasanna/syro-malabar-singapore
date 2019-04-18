@@ -45,6 +45,13 @@ Route::get('/bharavahikal',['as'=>'bharavahikal','uses'=>'IndexController@bharav
 Route::get('/saints-of-smc',['as'=>'saints-of-smc','uses'=>'IndexController@saintsOfSmc']);
 Route::get('/events',['as'=>'events','uses'=>'IndexController@events']);
 Route::get('/terms-and-conditions',['as'=>'terms-and-conditions','uses'=>'IndexController@termsAndConditions']);
+Route::get('/house-blessing-request',['as'=>'house-blessing-request','uses'=>'IndexController@houseBlessingRequest']);
+Route::post('/house-blessing-request/save',['as'=>'house-blessing-request.save','uses'=>'IndexController@houseBlessingRequestSave']);
+Route::get('/apply-noc',['as'=>'apply-noc','uses'=>'IndexController@applyNoc']);
+Route::post('/apply-noc/save',['as'=>'noc-save','uses'=>'IndexController@nocSave']);
+Route::post('/send-otp',['as'=>'send-otp','uses'=>'IndexController@sendOtp']);
+Route::get('/novena/{name}/{lang}',['as'=>'novena','uses'=>'IndexController@novena']);
+
 
 
 Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){
@@ -82,5 +89,23 @@ Route::group(['as'=>'admin.','namespace'=>'Admin'],function(){
     Route::get('admin/liturgical-calender/create',['as'=>'liturgical-calender.create','uses'=>'LiturgicalCalenderController@create']);
     Route::post('admin/liturgical-calender/save',['as'=>'liturgical-calender.save','uses'=>'LiturgicalCalenderController@save']);
     Route::post('admin/liturgical-calender/delete/{id}',['as'=>'liturgical-calender.delete','uses'=>'LiturgicalCalenderController@delete']);
+    Route::get('admin/house-blessing-request',['as'=>'house-blessing-request','uses'=>'HouseBlessingRequestController@list']);
+    Route::post('admin/house-blessing-request/data',['as'=>'house-blessing-req.data','uses'=>'HouseBlessingRequestController@data']);
+    Route::post('admin/house-blessing-request/delete/{id}',['as'=>'house-blessing-req.delete','uses'=>'HouseBlessingRequestController@delete']); 
+    Route::post('admin/house-blessing-request/approve/{id}',['as'=>'house-blessing-req.approve','uses'=>'HouseBlessingRequestController@approve']);
+     Route::get('admin/activities',['as'=>'activities','uses'=>'DashBoardController@activities']);
+     Route::post('admin/activities/save',['as'=>'activity.save','uses'=>'DashBoardController@saveActivity']);
+     Route::post('admin/getActivityByYear',['as'=>'getActivityByYear','uses'=>'DashBoardController@getActivityByYear']);
+     Route::get('admin/noc',['as'=>'noc','uses'=>'NocController@list']);
+     Route::post('admin/noc/data',['as'=>'noc.data','uses'=>'NocController@data']);
+     Route::post('admin/noc/delete/{id}',['as'=>'noc.delete','uses'=>'NocController@delete']);
+     Route::post('admin/noc/approve/{id}',['as'=>'noc.approve','uses'=>'NocController@approve']);
+     Route::get('admin/novena',['as'=>'novena','uses'=>'DashBoardController@novena']);
+     Route::post('admin/novena/save',['as'=>'novena.save','uses'=>'DashBoardController@novenaSave']);
+     Route::post('admin/getNovena',['as'=>'getNovena','uses'=>'DashBoardController@getNovena']);
+     Route::get('admin/prayer',['as'=>'prayer','uses'=>'PrayerController@list']);
+     Route::post('admin/prayer/data',['as'=>'prayer.data','uses'=>'PrayerController@data']);
+
+
   });
 });
