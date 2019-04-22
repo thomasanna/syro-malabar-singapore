@@ -369,6 +369,9 @@ class IndexController extends Controller
       $novena = Novena::where('saint_name',$name)->where('lang',$lang)->first();
       return view('novena',compact('novena'));
    }
+   public function prayers(){
+      return view('prayers');
+   }
    
 
 }

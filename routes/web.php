@@ -51,6 +51,7 @@ Route::get('/apply-noc',['as'=>'apply-noc','uses'=>'IndexController@applyNoc']);
 Route::post('/apply-noc/save',['as'=>'noc-save','uses'=>'IndexController@nocSave']);
 Route::post('/send-otp',['as'=>'send-otp','uses'=>'IndexController@sendOtp']);
 Route::get('/novena/{name}/{lang}',['as'=>'novena','uses'=>'IndexController@novena']);
+Route::get('/prayers',['as'=>'prayers','uses'=>'IndexController@prayers']);
 
 
 

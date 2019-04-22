@@ -35,6 +35,7 @@
 
 <!-- <body oncontextmenu="return false;"> -->
 <body>
+	<a href="#" id="scroll" style="display: none;"><span></span></a>
 
 	<!--================Header Menu Area =================-->
 	<header class="header_area">
@@ -205,6 +206,7 @@
 			              <li><a class="dropdown-item" href="{{route('Reports-Year2')}}">2019</a></li>
 			            </ul>
 			          </li>
+			          <li><a class="dropdown-item" href="{{route('prayers')}}">Prayers</a></li>
 			         </ul>
 			      </li> 
 
@@ -359,6 +361,20 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		  var url = '{{ asset('/') }}'
 		  window.location.href = url;
 		});
+
+		$(document).ready(function(){ 
+    $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 100) { 
+            $('#scroll').fadeIn(); 
+        } else { 
+            $('#scroll').fadeOut(); 
+        } 
+    }); 
+    $('#scroll').click(function(){ 
+        $("html, body").animate({ scrollTop: 0 }, 600); 
+        return false; 
+    }); 
+});
     </script>
     @stack('css')
 

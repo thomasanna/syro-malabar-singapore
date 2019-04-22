@@ -32,7 +32,10 @@
       <img class="d-block w-100" src="{{asset('public/img/banner/home-banner7.jpg')}}" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner1.jpg')}}" alt="Second slide">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner8.jpg')}}" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner9.jpg')}}" alt="Second slide">
     </div>
   
   </div>
