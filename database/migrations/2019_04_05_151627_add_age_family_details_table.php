@@ -13,9 +13,9 @@ class AddAgeFamilyDetailsTable extends Migration
      */
     public function up()
     {
-        Schema::table('family_details', function ($table) {
-                $table->integer('age')->after('sex');
-        });
+        // Schema::table('family_details', function ($table) {
+        //         $table->integer('age')->after('sex');
+        // });
     }
 
     /**
@@ -25,8 +25,8 @@ class AddAgeFamilyDetailsTable extends Migration
      */
     public function down()
     {
-        Schema::table('family_details', function (Blueprint $table) {
-        $table->dropColumn('age');
-      });
+      //   Schema::table('family_details', function (Blueprint $table) {
+      //   $table->dropColumn('age');
+      // });
     }
 }

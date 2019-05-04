@@ -5,8 +5,8 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="icon" href="public/img/favicon.png" type="image/png">
-	<title>Syro-Malabar Catholics</title>
+	<link rel="icon" href="public/img/SMC_Icon.jpg" type="image/png">
+	<title>SYRO-MALABAR CATHOLIC SINGAPORE</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="{{asset('public/css/bootstrap.css')}}">
 	<link rel="stylesheet" href="{{asset('public/css/style.css')}}">
@@ -33,7 +33,8 @@
 	<link rel="stylesheet" href="public/css/responsive.css"> -->
 </head>
 
-<body oncontextmenu="return false;">
+<!-- <body oncontextmenu="return false;"> -->
+<body>
 
 	<a href="#" id="scroll" style="display: none;"><span></span></a>
 

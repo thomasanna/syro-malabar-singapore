@@ -14,6 +14,9 @@
       <img class="d-block w-100" src="{{asset('public/img/banner/home-banner.jpg')}}" alt="First slide">
     </div>
     <div class="carousel-item">
+      <img class="d-block w-100" src="{{asset('public/img/banner/home-banner1.jpg')}}" alt="First slide">
+    </div>
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{asset('public/img/banner/home-banner2.jpg')}}" alt="Second slide">
     </div>
     <div class="carousel-item">
@@ -211,7 +214,7 @@
 @push("scripts")
 <script>
 	$('.carousel').carousel({
-	interval: 2000
+	interval: 5000
 	})
 </script>
 @endpush

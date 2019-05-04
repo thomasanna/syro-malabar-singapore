@@ -3,17 +3,15 @@
 @section('content')
 	
 	<!--================About Area =================-->
-	<section class="latest_blog_area section_gap color-bg">
+	<section class="latest_blog_area  color-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="main_title">
-						<div class="top-part">
-							<p></p>
-						</div>
+						
 						<h3 style=" font-family: ML-TTKarthika;">
-							kotdmae_mÀ k` knwK¸qcnÂ
-						</h3>
+							
+ദൈവ കരങ്ങളിലർപ്പിച്ചു തളരാതെ നമുക്ക് മുന്നേറാം.						</h3>
 						</div>
 					</div>
 				</div>
@@ -21,36 +19,135 @@
 							<p class="history" style="align:center;text-align: justify">
 
 								
-<b style="color: #000000!important;">an</b>inlmbpsS {]nbinjy³ amÀtXm½mÇolm tIcfa®nÂ F. Un. 52 Â F¯n ]IÀì          \ÂInb hnizmkhpw  ]mc¼cyhpw  kwkvImchpw  XeapdIfneqsS ssIamdn kotdm ae_mÀ k` Bßm`ntjI \ndhnemWv. amÀt¯m½ÇolmbpsS càkm£nXz¯nsâ hneaXn¡m\mIm¯ Aë{Kl¯mÂ c£n¡¸« amÀtXm½m \{kmWn {InkvXym\nIÄ AYhm kotdm ae_mÀ It¯men¡À t{]jntXm·pJcmWv. BtKmfk`ív amXrIbmIpw hn[w hnizmk ssNX\y¯nepw, ]mc¼cy¯nepw, k\ymk¯nepw, t{]jnX {]hÀ¯\¯nepw k` k¼¶amWv. Cê]¯napì hyXykvXk`IfpsS Iq«mbvabmb BtKm I¯men¡m k`bnse Hcp Xt±iob k`bmb kotdmae_mÀ k`; {InkvXob hnizmkw X§fpsS `mjbnepw kwkvImc¯nepw ]mc¼cy¯nepw hfÀ¯n BtKmf It¯men¡m k`bmIp¶ ]qt´m¸n\v apXÂIq«mbn {InkvXob  hnizmk¯nsâ at\mlmcnXbpw kuc`yhpw ]c¯n hmSmaecmbn tXmamÇolmbpsS t{]jnX ssNX\y hpambn {]hmknIfmb k`ma¡ fneqsS  temIsa¼mSpw hfcpIbmWv.
+മിശിഹായുടെ പ്രിയ ശിഷ്യൻ മാർ തോമ്മാ ശ്ലീഹാ കേരളമണ്ണിൽ എ ഡി 52-
+ൽ എത്തി പകർന്നു നൽകിയ വിശ്വാസവും പാരമ്പര്യവും സംസ്കാരവും
+തലമുറകളിലൂടെ കൈമാറി സിറോ മലബാർ സഭ ആത്മാഭിഷേക നിറവിലാണ്.
+മാർ തോമ്മാശ്ലീഹായുടെ രക്തസാക്ഷിത്വത്തിന്റെ വിലമതിക്കാനാകാത്ത
+അനുഗ്രഹത്താൽ രക്ഷിക്കപ്പെട്ട മാർത്തോമ്മാ നസ്രാണി ക്രിസ്ത്യാനികൾ അഥവാ
+സിറോ മലബാർ കത്തോലിക്കർ പ്രേഷിതോന്മുഖരാണ്‌. ആഗോള സഭക്ക്
+മാതൃകയാകും വിധം വിശ്വാസ ചൈതന്യത്തിലും, പാരമ്പര്യത്തിലും,
+സന്യാസത്തിലും, പ്രേഷിതപ്രവർത്തനത്തിലും സഭ സമ്പന്നമാണ്.
+ഇരുപത്തിമൂന്നു വ്യത്യസ്ത സഭകളുടെ കൂട്ടായ്മയായ ആഗോള കത്തോലിക്കാ
+സഭയിലെ ഒരു തദ്ദേശീയ സഭയായ സിറോ മലബാർ സഭ, ക്രിസ്തീയ വിശ്വാസം
+തങ്ങളുടെ ഭാഷയിലും സംസ്കാരത്തിലും പാരമ്പര്യത്തിലും വളർത്തി ആഗോള
+കത്തോലിക്കാ സഭയാകുന്ന പൂന്തോപ്പിനു മുതൽക്കൂട്ടായി ക്രിസ്തീയ
+വിശ്വാസത്തിന്റെ മനോഹാരിതയും സൗരഭ്യവും പരത്തി വാടാമലരായി
+തോമാശ്ലീഹായുടെ പ്രേഷിത ചൈതന്യവുമായി പ്രവാസികളായ
+സഭാമക്കളിലൂടെ ലോകമെമ്പാടും വളരുകയാണ്.
 </p>
 <br>
 <img class="float-left"   style="margin-right:12px"  width="312px"src="{{asset('public/img/history/history_00.jpg')}}" alt="First slide">
-<p style="align:center;text-align: justify">Bbnc¯n Aªqtdmfw kotdmae_mÀ It¯men¡m IpSpw_mwK§Ä knwK¸qcnÂ A[nhkn¡p¶p­v. AhÀ¡v AhcpsS `mjbnepw kwkvImc¯nepw hnizmk¯nepw Bcm[\{Ia§fnepw ]mc¼cy¯nepw Dd¨p \nÂ¡phm\pw ss]XrIambn e`n¨ hnizmkhpw, Bcm[\{Iahpw, kwkvImchpw, ]mc¼cyhpw ASp¯ Xeapdbvv¡v ssIamdn \ne\nÀ¯phm\pw FÃm kzmX{´yhpw AhImihpw ISabpw D¯chmZnXzhpap­ïv. hfsc¡mew ap³t]Xs¶ knwK¸qcnse kotdm ae_mÀ k`m hnizmkn kaqlw X§fpsS Bcm[\{Iaw knwK¸qcnÂ XpScWsa¶pÅ B{Klw k`mtae[y£·msc Adnbn¨ncp¶p. </p>
-<p style="align:center;text-align: justify">A`nhµy amÀ BâWn ]Snbd ]nXmhnsâ Ime¯v cq]oIcn¨ ssa{Kâv I½ojsâ {]Ya sNbÀam³ amÀ {KnKdn Itcms«t{¼Â ]nXmhp XpS§nh¨ {iaw iàam¡m³ A`nhµy amÀ hÀ¡n hnXb¯nÂ IÀ±n\mÄ ]nXmhnsâ Ime¯v sNbÀam³ Øm\taä amÀ sk_mÌy³ hSt¡Â ]nXmhpw, sPÌn³ sh«pItÃÂ A¨ëw, sk{I«dn tPmkv sNdnb¼\m«v A¨ëw hln¨ ]¦v kvXpXyÀlamWv. ChnSps¯ k`m a¡fpsS {]iv\§Ä t\cnÂIÊ­dnbphm³ amÀ tPmÀPv henbaÁw ]nXmhpw knwK¸qcnÂ F¯pIbpÊmbn. 2011 sabv 15þ18 hsc knwK¸qcnÂ k`bpsS Aevamb I½ojsâ kµÀi\w ]p¯³ Bthiw ]IÀt¶In. Aevamb Iq«mbva iàns¸Sp¯n k`bpsS km¶n[yw Dd¸m¡m³ cm]IenÃmsX IpSpw_§fpw Ip«mbvaIfpw kµÀin¨ Aevamb I½oj³ sNbÀam³ amÀ amX|AdíÂ ]nXmhpw sk{I«dn AUz. hn. kn. sk_mÌyîw kn¦¸qÀ kotdm ae_mÀ It¯men¡m kaql¯nî \ÂInbXv h³ apXÂ¡q«mWv. {]mcw`Ime¯pw XpSÀìw Fkv.Fw.kn.kn. {]knUâv sh³kekpw {]hÀ¯IkanXnbpw \ÂInb klmblkvXw Fìw kvacWobamWv. A`nhµy ]nXm¡·mêw ]ptcmlnXt{ijvTêw Aevamb {]apJêw \ÂInb D]tZi§fpw \nÀtZi§fpw s\©nteän {]hÀ¯n¨ tZiob \nÀhmlI knanXn \nch[n {]Xn_Ô§sf XcWw sNbvXn«pÅXv thZ\tbmsS kqNn¸n¡s«. </p>
+<p style="align:center;text-align: justify">ആയിരത്തി അഞ്ഞൂറോളം സിറോ മലബാർ കത്തോലിക്കാ
+കുടുംബാംഗങ്ങൾ സിംഗപ്പൂരിൽ അധിവസിക്കുന്നുണ്ട്. അവർക്കു അവരുടെ
+ഭാഷയിലും സംസ്കാരത്തിലും ആരാധനാക്രമങ്ങളിലും പാരമ്പര്യത്തിലും
+വിശ്വാസത്തിലും ഉറച്ചു നിൽക്കുവാനും പൈതൃകമായി ലഭിച്ച വിശ്വാസവും,
+ആരാധനാക്രമവും, സംസ്കാരവും, പാരമ്പര്യവും അടുത്ത തലമുറയ്ക്ക്
+കൈമാറി നിലനിർത്തുവാനും എല്ലാ സ്വാതന്ത്ര്യവും അവകാശവും കടമയും
+ഉത്തരവാദിത്വവും ഉണ്ട്. വളരെക്കാലം മുൻപേ തന്നെ സിങ്കപ്പൂരിലെ സിറോ
+മലബാർ സഭാ വിശ്വാസി സമൂഹം തങ്ങളുടെ ആരാധനക്രമം സിംഗപ്പൂരിൽ
+തുടരണമെന്നുള്ള ആഗ്രഹം സഭ മേലധ്യക്ഷന്മാരെ അറിയിച്ചിരുന്നു. </p>
 <br>
 <img class="float-right"   style="margin-left:12px"  width="312px"src="{{asset('public/img/history/his_1.jpg')}}" alt="First slide">
-<p style="align:center;text-align: justify">IÃpw apÅpw \ndª ]mXbnÂ kss[cyw k`bpsS hfÀ¨bv¡mbn apt¶m«nd§n Fkv.Fw.kn.Fkv. \½psS henb CSb³ A`nhµy amÀ tPmÀÖv Bet©cn]nXmhnsâ emf\ív ]m{Xo`qXcmbn, A`nhµy ]nXmhnsâ km¶n[yw knwK¸qcnÂ \½psSbnSbnÂ km£mÂ¡cn¡s¸«Xv {]Ya hmÀjnI BtLmj¯nsâ \ndhnemWv. 2010 BKkväv amkw Bkvt{SenbbnÂ \n¶pw aS¡ bm{XbnÂ kn¦¸qÀ kµÀin¨ amÀ tPmÀPv henbaäw ]nXmhv hfsc thZ\tbmsSbmWv kn¦¸qcnÂ kotdmae_mÀ IpÀºm\ AÀ¸n¡phm³ A\phmZansÃ¶v kn¦¸qcnse aebmfn It¯men¡cpsS Nm¹n\mb ssa¡nÄ _©an³ hebn©nbne¨\nÂ \n¶pw t\cn«v AdnªXv. 2010 BKkväv ]Xnt\gn\v IqSnb sa{Xm³ kn\Un\p tijw kotdmae_mÀ ssa{Kâv I½oj³ sNbÀam³ amÀ sk_mÌy³ hSt¡Â ]nXmhv kn¦¸qÀ BÀ¨v _nj]v \nt¡mfÊv Nnb ]nXmhpambpÅ IqSn ImgvNbv¡pw kn¦¸qcnse kotdmae_mÀ k`ma¡sf 2010 \hw¼À 27 apXÂ 30 hsc kµÀinç¶Xn\pw AhÀ¡mbn kotdmae_mÀ {Ia¯nÂ Znhy_en AÀ¸n¡phm\pw A\paXn¡pthÊn Is¯gpXn. ssa{Kâv I½oj³ Fs¶ kn¦¸qcnse \mjWÂ tImÀUnt\ädmbn \nt¡mfÊv Nnb ]nXmhns\ Adnbn¨ncp¶Xn\mÂ, hSt¡Â ]nXmhnsâ I¯p kw_Ôn¨ hnhc§tfmsS hnip² IpÀ_m\{Iaw kw_Ôn¨ Nne hniZoIcW§Ä Ft¶mSmhiys¸«Xp {]Imcw \nt¡mfkvv Nnb ]nXmhns\ 2010 \hw_À 15þmw XnbXn Rm³ ImWpIbpÊmbn. kn¦¸qcnsâ Ncn{X¯nemZyambn kotdm ae_mÀ k`mdo¯nÂ Znhy_en AÀ¸n¡phm³ ]nXmhv A¶v A\paXn \ÂIn.</p>
+<p style="align:center;text-align: justify">അഭിവന്ദ്യ മാർ ആന്റണി പടിയറ പിതാവിന്റെ കാലത്തു രൂപീകരിച്ച
+മൈഗ്രന്റ് കമ്മീഷന്റെ പ്രഥമ ചെയർമാൻ മാർ ഗ്രിഗറി കരോറ്റെമ്പറെൽ പിതാവ്
+തുടങ്ങി വച്ച ശ്രമം ശക്തമാക്കാൻ അഭിവന്ദ്യ മാർ വർക്കി വിതയത്തിൽ
+കർദ്ദിനാൾ പിതാവിന്റെ കാലത്തു ചെയർമാൻ സ്ഥാനമേറ്റ മാർ സെബാസ്റ്റ്യൻ
+വടക്കേൽ പിതാവും, ജസ്റ്റിൻ വെട്ടുകല്ലേൽ അച്ഛനും സെക്രട്ടറി ജോസ്
+ചെറിയമ്പനാട്ടു അച്ഛനും വഹിച്ച പങ്ക് സ്തുത്യര്ഹമാണ്. ഇവിടത്തെ
+സഭാമക്കളുടെ പ്രശ്നങ്ങൾ നേരിൽ കണ്ടറിയുവാൻ മാർ ജോർജ് വലിയമറ്റം
+പിതാവും സിംഗപ്പൂരിൽ എത്തുകയുണ്ടായി. 2011 മെയ് 15 -18 വരെ
+സിംഗപ്പൂരിൽ സഭയുടെ അല്മായ കമ്മീഷന്റെ സന്ദർശനം പുത്തൻ ആവേശം
+പകർന്നേകി. അല്മായ കൂട്ടായ്മ ശക്തിപ്പെടുത്തി സഭയുടെ സാന്നിധ്യം
+ഉറപ്പാക്കാൻ രാപകലില്ലാതെ കുടുംബങ്ങളും കൂട്ടായ്മകളും സന്ദർശിച്ച
+അല്മായ കമ്മീഷൻ ചെയർമാൻ മാർ മാത്യു അറക്കൽ പിതാവും സെക്രട്ടറി
+
+അഡ്വ. വി സി സെബാസ്ത്യനും സിംഗപ്പൂർ സിറോ മലബാർ കത്തോലിക്കാ
+സമൂഹത്തിനു നൽകിയത് വൻ മുതൽക്കൂട്ടാണ്. പ്രാരംഭ കാലത്തും തുടർന്നും
+എസ്. എം. സി.സി. പ്രസിഡന്റ് വെൻസലസും പ്രവർത്തക സമിതിയും നൽകിയ
+സഹായഹസ്തം എന്നും സ്മരണീയമാണ്. അഭിവന്ദ്യ പിതാക്കന്മാരും
+പുരോഹിതശ്രേഷ്‌ഠരും അല്മായ പ്രമുഖരും നൽകിയ ഉപദേശങ്ങളും
+നിർദേശങ്ങളും നെഞ്ചിലേറ്റി പ്രവർത്തിച്ച ദേശീയ നിർവാഹക സമിതി നിരവധി
+പ്രതിബന്ധങ്ങളെ തരണം ചെയ്തിട്ടുള്ളത് വേദനയോടെ സൂചിപ്പിക്കട്ടെ.</p>
 <br>
 <img class="float-right"   style="margin-left:12px"  width="312px"src="{{asset('public/img/history/his_2.jpg')}}" alt="First slide">
 <img class="float-left"   style="margin-right:12px"  width="312px"src="{{asset('public/img/history/his_3.jpg')}}" alt="First slide">
-<p style="align:center;text-align: justify">hnip² AÂt^m³km½bpsS BZy sh¦ecq]w Øm]n¨ncnç¶ NÀ¨v Hm^v skâv {^m³kokv Hm^v AÊoÊn _q¬te CShI tZhmeb¯nÂ 27þ11þ2010 Â amÀ sk_mÌy³ hSt¡Â ]nXmhp apJyImÀ½nI\mbpw tPmkv sNdnbw]\m«¨³ klImÀ½nI\mbpw BZyambn kotdm ae_mÀ do¯nÂ hnip² IpÀ_m\ AÀ¸n¡s¸«p. _q¬te CShI aebmfn It¯men¡m Iq«mbvabmWv hnip² IpÀ_m\bpsS \S¯n¸n\v t\XrXzw \ÂInbXv. hnip² IpÀ_m\bnepw XpSÀ¶v ]mcojv lmfnÂ \S¶ kvt\lhncp¶nepw 600 Hmfw k`m hnizmknIÄ ]s¦Sp¯p. AXpt]mse Xs¶ 2011 sabv 15\v skâv Ìo^³kv ]ÅnbnÂ Aevamb I½oj³ sNbÀam³ amXyp Adbv¡Â ]nXmhnsâ t\XrXz¯nÂ BtLmjamb Znhy_en AÀ¸n¡¸«p.F®qdnÂ]cw hnizmknIÄ ]¦ptNÀ¶p, A`nhµy Adbv¡Â ]nXmhpw hSt¡Â ]nXmhpw tPmk¨\pw AUz. hn. kn. sk_mÌy\pw X§fpsS kµÀi\ thfIfnÂ kn¦¸qcnse kotdm ae_mÀ k`ma¡sf t\cnÂIïp. H¶n\pw ]¯n\pw CSbnÂ {]mbapÅ cïpw apìw Ip«nIfpÅ \qdp IW¡n\p IpSpw_§fnÂ \n¶pw Iq«mbvaIfnÂ \n¶pw, ]nXm¡·mÀ¡v hfsc BthiIcamb kzoIcWamWv e`n¨Xv. ss]XrIambn e`n¨ hnizmkhpw ]mc¼cyhpw \ne\nÀ¯phm\pw ss]X§fntebv¡p ssIamdphmëw k`bpsS km¶n²y¯nî thïn Zmln¡p¶ k`m a¡fpsS XojvWamb Bhiyw AhÀ t\cnÂ¡Êdnªp. </p>
+<p style="align:center;text-align: justify">കല്ലും മുള്ളും നിറഞ്ഞ പാതയിൽ സധൈര്യം സഭയുടെ വളർച്ചയ്ക്കായി
+മുന്നോട്ടിറങ്ങി എസ്. എം. സി. എസ്. നമ്മുടെ വല്യ ഇടയൻ അഭിവന്ദ്യ മാർ
+ജോർജ് ആലഞ്ചേരി പിതാവിന്റെ ലാളനക്കു പാത്രീഭൂതരായി. അഭിവന്ദ്യ
+പിതാവിന്റെ സാന്നിധ്യം സിംഗപ്പൂരിൽ നമ്മുടെ ഇടയിൽ
+സാക്ഷാത്കരിക്കപ്പെട്ടതു പ്രഥമ വാർഷിക ആഘോഷത്തിന്റെ നിറവിലാണ്. 2010
+ആഗസ്ത് മാസം ആസ്‌ട്രേലിയയിൽ നിന്നും മടക്ക യാത്രയിൽ സിംഗപ്പൂർ
+സന്ദർശിച്ച മാർ ജോർജ് വലിയമറ്റം പിതാവ് വളരെ വേദനയോടെയാണ്
+സിംഗപ്പൂരിൽ സിറോ മലബാർ കുർബാന അർപ്പിക്കുവാൻ അനുവാദമില്ലെന്നു
+സിംഗപ്പൂരിലെ മലയാളി കത്തോലിക്കരുടെ ചാപ്ലിൻ ആയ മൈക്കിൾ ബെഞ്ചമിൻ
+വലയിഞ്ചിയിലച്ചനിൽ നിന്നും നേരിട്ട് അറിഞ്ഞത്. 2010 ആഗസ്ത് 17 നു കൂടിയ
+മെത്രാൻ സിനഡിന് ശേഷം സിറോ മലബാർ മൈഗ്രന്റ് കമ്മീഷൻ ചെയർമാൻ മാർ
+സെബാസ്ത്യൻ വടക്കേൽ പിതാവ് സിംഗപ്പൂർ ആർച് ബിഷപ്പ് നിക്കോളാസ്
+ചിയ പിതാവുമായുള്ള കൂടി കാഴ്ചയ്ക്കും സിംഗപ്പൂരിലെ സിറോ മലബാർ സഭ
+മക്കളെ 2010 നവംബർ 27 മുതൽ 30 വരെ സന്ദർശിക്കുന്നതിനും അവർക്കായി
+സിറോ മലബാർ ക്രമത്തിൽ ദിവ്യബലി അർപ്പിക്കുവാനും അനുമതിക്ക് വേണ്ടി
+കത്തെഴുതി. മൈഗ്രന്റ് കമ്മീഷൻ എന്നെ സിംഗപ്പൂരിലെ നാഷണൽ
+കോർഡിനേറ്ററായി നിക്കോളാസ് ചിയ പിതാവിനെ അറിയിച്ചുരുന്നതിനാൽ,
+വടക്കേൽ പിതാവിന്റെ കത്ത് സംബന്ധിച്ച വിവരങ്ങളോടെ വിശുദ്ധ കുർബാന
+ക്രമം സംബന്ധിച്ച ചില വിശദീകരണങ്ങൾ എന്നോടാവ‌ശ്യപ്പെട്ടതു പ്രകാരം
+നിക്കോളാസ് ചിയ പിതാവിനെ 2010 നവംബർ 15 -ആം തിയതി ഞാൻ
+കാണുകയുണ്ടായി. സിംഗപ്പൂരിന്റെ ചരിത്രത്തിലാദ്യമായി സിറോ മലബാർ
+സഭാ റീത്തിൽ ദിവ്യബലി അർപ്പിക്കുവാൻ പിതാവ് അന്ന് അനുമതി നൽകി.</p>
 <br>
-<p style="align:center;text-align: justify">29.11.2010þÂ kn¦¸qÀ BÀ¨v _nj¸v \nt¡mfmkv Nnb ]nXmhns\ hSt¡Â ]nXmhpw, tPmkv sNdnb¼\m«¨\pw 16.05.2011 Â amÀ amXyp Adbv¡Â ]nXmhpw AUz. hn. kn. sk_mÌy\pw t\ct¯ \nÝbn¨ncp¶ {]Imcw kµÀin¨p. kn¦¸qcnse kotdm ae_mÀ It¯men¡m hnizmknIfpsS {]iv\§Ä \nt¡mfmkv Nnb ]nXmhns\ Adnbn¨p. k`ma¡fpsS hnizmkhpw ]mc¼cyhpw \ne\nÀ¯phm\pw ASp¯ Xeapdbvv¡v ]IÀ¶p \ÂIp¶ Xn\pw klmbn¡phm\pw ip{iqjIÄ¡mbpw k`bnse sshZnIsc kn¦¸qÀ¡v Ab¡m\papÅ k¶²X Adnbn¡pIbpw aäp cmPy§fnepw cq]XIfnepapÅXpt]msebpÅ {IaoIcW§sf¡pdn¨v hniZoIcnçIbpw sNbvXp.Xocpam\w FSp¡m³ kabw thWw F¶ A\p`mh \ne]mSmbncp¶p \nt¡mfkv Nnb ]nXmhv Adnbn¨Xvv. \qdv IpSntbä ss{IkvXhÀ DsÊ¦nÂ AhÀ Bhiys¸Spt¼mÄ AhchcpsS kwkvImc¯nepw `mjbnepw Bcm[\m{Ia¯nepw AhchcpsS sshZnIsc A\phZn¨v Bcm[\meb§fnÂ kuIcyw sNbvXpsImSp¡Wsa¶ ]cnip² knwlmk\¯nsâ It\m\ <span class="eng_lang">(CCEO280S1) (ergamigrantes caritas) </span>\nÀt±iw DS³ \S¸mIpsa¶ hnizmk¯nepw {]Xo£bnepamWv \½Ä Hmtcmcp¯cpw.</p>
-<p style="align:center;text-align: justify">{InkvXym\nIÄs¡Xncmb ]oU\§fnÂ BtKmfk` H¶ns¨m¶mbv {]XnIcn¡pt¼mÄ Xt±ik`m hnizmknIfmb {InkvXym\nIÄ hnizmkhpw kwkvImchpw ]mc¼cyhpw \ne\nÀ¯phm³  IpSntbä  CS§fnÂ  Bcm[\m  kzmX{´yhpw Ahkchpw bmNn¡p¶Xv BtKmfk` tIÄ¡s« F¶v {]mÀ°n¡mw. kvt\ln¡phm³ am{Xw \s½ ]Tn¸n¨ tbip\mYs\ ]n³XpSÀ¶ amÀ tXmamÇolmbpw, hnip² AÂt^m³km½bpw aäv hnip²cpw hmgv¯s¸« BXvam¡fpw sXfnbn¨ ]mXbnÂ, hnizmk¯nsâbpw kl\¯nsâbpw kvt\l¯nsâbpw ]mXbnÂ amXrk`bpsS hchn\mbn Dd¨ hnizmkt¯msS Cu t{]£nX hÀj¯nÂ \ap¡v Im¯ncn¡mw. \mw BtcmSpw aÕcn¡m\Ã \nesImÅp¶Xv \½psS hnizmkhpw ]mc¼cyhpw \ne\nÀ¯phm³ th­ïn am{XamWv. AXn\mbn \ap¡v {]mÀ°n¡pIbpw {]hÀ¯n¡pIbpsN¿mw. kÀÆ iIvX\mb ssZhw ]cnip²mßmhnsâ hc§fmÂ \s½ \bn¡s«.</p>
-<p >
+<p style="align:center;text-align: justify">വിശുദ്ധ അൽഫോൻസാമ്മയുടെ ആദ്യ വെങ്കല രൂപം സ്ഥാപിച്ചിരിക്കുന്ന
+ചുര്ച്ച് ഓഫ് സെയിന്റ് ഫ്രാൻസിസ് ഓഫ് അസ്സീസ്സി ബൂൺലെ ഇടവക
+ദേവാലയത്തിൽ 27 -11 -2010 -ൽ മാർ സെബാസ്റ്റ്യൻ വടക്കേൽ പിതാവ് മുഖ്യ
+കാർമ്മികനായും ജോസ് ചെറിയമ്പനാട്ടു അച്ഛൻ സഹ കാർമ്മികനായും
+ആദ്യമായി സിറോ മലബാർ റീത്തിൽ വിശുദ്ധ കുർബാന അർപ്പിക്കപ്പെട്ടു. ബൂൺ
+ലെ ഇടവക മലയാളി കത്തോലിക്കാ കൂട്ടായ്മയാണ് വിശുദ്ധ കുർബാനയുടെ
+നടത്തിപ്പിന് നേതൃത്വം നൽകിയത്. വിശുദ്ധ കുർബാനയിലും തുടർന്ന് പാരിഷ്
+ഹാളിൽ നടന്ന സ്നേഹവിരുന്നിലും 600 -ഓളം സഭ വിശ്വാസികൾ പങ്കെടുത്തു.
+അതുപോലെ തന്നെ 2011 മെയ് 15 നു സെയിന്റ് സ്റ്റീഫൻസ് പള്ളിയിൽ അല്മായ
+കമ്മീഷൻ ചെയർമാൻ മാർ മാത്യു അറക്കൽ പിതാവിന്റെ നേതൃത്വത്തിൽ
+ആഘോഷമായ ദിവ്യബലി അർപ്പിക്കപ്പെട്ടു. 800 -ൽ പരം വിശ്വാസികൾ പങ്കു
+ചേർന്നു, അഭിവന്ദ്യ അറക്കൽ പിതാവും വടക്കേൽ പിതാവും ജോസച്ചനും
 
-<p class="BasicParagraph" style="text-align: justify; text-indent: -14.15pt; mso-hyphenate: none; margin: 5.65pt 0in .0001pt 14.15pt;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">am&Agrave; tXm&frac12;m&Ccedil;olmtb </span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;"><span style="mso-tab-count: 1;">&nbsp;&nbsp; </span>R&sect;&Auml;&iexcl;p th</span></em></strong><span lang="EN-US" style="font-family: FML-Karthika; mso-bidi-font-family: FML-Karthika;">&iuml;</span><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">&shy;n {]m&Agrave;&deg;nt&iexcl;Wta.</span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">hnip&sup2; A&Acirc;t^m&sup3;kmt&frac12; </span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;"><span style="mso-tab-count: 1;">&nbsp;&nbsp; </span>R&sect;&Auml;&iexcl;p th&shy;</span></em></strong><span lang="EN-US" style="font-family: FML-Karthika; mso-bidi-font-family: FML-Karthika;">&iuml;</span><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">n {]m&Agrave;&deg;nt&iexcl;Wta.</span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">kIe hnip&sup2;tc </span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;"><span style="mso-tab-count: 1;">&nbsp;&nbsp; </span>R&sect;&Auml;&iexcl;p th</span></em></strong><span lang="EN-US" style="font-family: FML-Karthika; mso-bidi-font-family: FML-Karthika;">&iuml;</span><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">n {]m&Agrave;&deg;nt&iexcl;Wta.</span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">Xncp&iexcl;pSpw_&macr;ns&acirc; Imh&Acirc;&iexcl;mcm </span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;"><span style="mso-tab-count: 1;">&nbsp;&nbsp; </span>R&sect;&Auml;&iexcl;p th&shy;</span></em></strong><span lang="EN-US" style="font-family: FML-Karthika; mso-bidi-font-family: FML-Karthika;">&iuml;</span><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">n {]m&Agrave;&deg;nt&iexcl;Wta.</span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">]cnip&sup2; adnbta </span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;"><span style="mso-tab-count: 1;">&nbsp;&nbsp; </span>R&sect;&Auml;&iexcl;p th</span></em></strong><span lang="EN-US" style="font-family: FML-Karthika; mso-bidi-font-family: FML-Karthika;">&iuml;</span><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">n At]&pound;nt&iexcl;Wta.</span></em></strong></p>
-<p class="BasicParagraph" style="margin-left: 14.15pt; text-align: justify; text-indent: -14.15pt; mso-hyphenate: none;"><strong><em><span lang="EN-US" style="font-size: 11.5pt; line-height: 120%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">]cnip&sup2; {XoXzta </span></em></strong></p>
-<p class="MsoNormal" style="text-align: justify; text-indent: 14.15pt;"><strong><em><span style="font-size: 11.5pt; line-height: 107%; font-family: ML-TTKarthika; mso-bidi-font-family: ML-TTKarthika;">R&sect;sf A\p{Kln&iexcl;Wta.</span></em></strong></p>
+അഡ്വ. വി സി സെബാസ്ത്യനും തങ്ങളുടെ സന്ദർശന വേളകളിൽ സിംഗപ്പൂരിലെ
+സിറോ മലബാർ സഭ മക്കളെ നേരിൽ കണ്ടു. ഒന്നിനും പത്തിനും ഇടയിൽ
+പ്രായമുള്ള, രണ്ടും മൂന്നും കുട്ടികളുള്ള നൂറു കണക്കിന് കുടുംബങ്ങളിൽ നിന്നും
+കൂട്ടായ്മകളിൽ നിന്നും, പിതാക്കന്മാർക്കു വളരെ ആവേശകരമായ
+സ്വീകരണമാണ് ലഭിച്ചത്. പൈതൃകമായി ലഭിച്ച വിശ്വാസവും പാരമ്പര്യവും
+നില നിർത്തുവാനും പൈതങ്ങളിലേക്കു കൈമാറുവാനും സഭയുടെ
+സാന്നിധ്യത്തിന് വേണ്ടി ദാഹിക്കുന്ന സഭാ മക്കളുടെ തീക്ഷ്ണമായ ആവശ്യം
+അവർ നേരിൽ കണ്ടറിഞ്ഞു.</p>
+<p style="align:center;text-align: justify">29 -11 -2010 -ൽ സിംഗപ്പൂർ ആർച് ബിഷപ്പ് നിക്കോളാസ് ചിയ പിതാവിനെ
+വടക്കേൽ പിതാവും, ജോസ് ചെറിയമ്പനാട്ടച്ചനും 16 -05 -2011 ൽ മാർ മാത്യു
+അറക്കൽ പിതാവും അഡ്വ. വി. സി സെബാസ്ത്യനും നേരത്തെ നിശ്ചയിച്ചിരുന്ന
+പ്രകാരം സന്ദർശിച്ചു. സിംഗപ്പൂരിലെ സിറോ മലബാർ കത്തോലിക്കാ
+വിശ്വാസികളുടെ പ്രശ്നങ്ങൾ നിക്കോളാസ് ചിയ പിതാവിനെ അറിയിച്ചു. സഭാ
+മക്കളുടെ വിശ്വാസവും പാരമ്പര്യവും നിലനിർത്തുവാനും അടുത്ത തലമുറയ്ക്ക്
+പകർന്നു നൽകുന്നതിനു സഹായിക്കുവാനും ശുശ്രൂഷകൾക്കായും സഭയിലെ
+വൈദീകരേ സിംഗപ്പൂർക്കു അയക്കാനുമുള്ള സന്നദ്ധത അറിയിക്കുകയും മറ്റു
+രാജ്യങ്ങളിലും രൂപതകളിലുമുള്ളതു പോലെയുള്ള ക്രമീകരണങ്ങളെക്കുറിച്ചു
+വിശദീകരിക്കുകയും ചെയ്തു. തീരുമാനം എടുക്കാൻ സമയം വേണം എന്ന
+അനുഭാവ നിലപാടായിരുന്നു നിക്കോളാസ് ചിയ പിതാവ് അറിയിച്ചത്. നൂറു
+കുടിയേറ്റ ക്രൈസ്തവർ ഉണ്ടെങ്കിൽ അവർ ആവശ്യപ്പെടുമ്പോൾ അവരവരുടെ
+സംസ്കാരത്തിലും ഭാഷയിലും ആരാധനാക്രമത്തിലും അവരവരുടെ വൈദീകരെ
+അനുവദിച്ചു ആരാധനാലയങ്ങളിൽ സൗകര്യം ചെയ്തു കൊടുക്കണമെന്ന
+പരിശുദ്ധ സിംഹാസനത്തിന്റെ കാനോന (CCEO280S1) (ergamigrantes caritas )
+നിർദ്ദേശം ഉടൻ നടപ്പാക്കുമെന്ന വിശ്വാസത്തിലും പ്രതീക്ഷയിലുമാണ് നമ്മൾ
+ഓരോരുത്തരും.</p>
+<p style="align:center;text-align: justify">
+	ക്രിസ്ത്യാനികൾക്കെതിരായ പീഡനങ്ങളിൽ ആഗോള സഭ ഒന്നിച്ചൊന്നായ്
+പ്രതികരിക്കുമ്പോൾ തദ്ദേശ സഭാ വിശ്വാസികളായ ക്രിസ്ത്യാനികൾ
+വിശ്വാസവും സംസ്കാരവും പാരമ്പര്യവും നില നിർത്തുവാൻ കുടിയേറ്റ
+ഇടങ്ങളിൽ ആരാധനാ സ്വാതന്ത്ര്യവും അവസരവും യാചിക്കുന്നതു ആഗോള സഭ
+കേൾക്കട്ടെ എന്ന് പ്രാർത്ഥിക്കാം. സ്നേഹിക്കുവാൻ മാത്രം നമ്മെ പഠിപ്പിച്ച യേശു
+നാഥനെ പിൻതുടർന്ന മാർ തോമാ ശ്ലീഹായും, വിശുദ്ധ അൽഫോൻസാമ്മയും മറ്റു
+വിശുദ്ധരും വാഴ്ത്തപ്പെട്ട ആത്മാക്കളും തെളിയിച്ച പാതയിൽ,
+വിശ്വാസത്തിന്റെയും സഹനത്തിന്റെയും സ്നേഹത്തിന്റെയും പാതയിൽ
+മാതൃസഭയുടെ വരവിനായി ഉറച്ച വിശ്വാസത്തോടെ നമുക്ക് കാത്തിരിക്കാം. നാം
+ആരോടും മത്സരിക്കാനല്ല നില കൊള്ളുന്നത്, നമ്മുടെ വിശ്വാസവും
+പാരമ്പര്യവും നിലനിർത്തുവാൻ വേണ്ടി മാത്രമാണ്. അതിനായി നമുക്ക്
+പ്രാർത്ഥിക്കുകയും പ്രവർത്തിക്കുകയും ചെയ്യാം. സർവ്വ ശക്തനായ ദൈവം
+പരിശുദ്ധാത്മാവിന്റെ വരങ്ങളാൽ നമ്മെ നയിക്കട്ടെ.
+	</p>
+
 
 
 
