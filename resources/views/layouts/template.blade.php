@@ -33,8 +33,8 @@
 	<link rel="stylesheet" href="public/css/responsive.css"> -->
 </head>
 
-<!-- <body oncontextmenu="return false;"> -->
-<body>
+<body oncontextmenu="return false;">
+
 
 	<a href="#" id="scroll" style="display: none;"><span></span></a>
 
@@ -96,17 +96,7 @@
 			        </ul>
 			      </li> 
 
-			      <li class="nav-item dropdown">
-			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			          Prayers
-			        </a>
-			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-			        	<li class="dropdown-submenu"><a class="dropdown-item " href="#">Kudumba Prarthana</a></li>
-			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('kurishinte-vazhi')}}">Kurishinte Vazhi</a></li>
-			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}">Japamala</a></li>
-			        	<li class="dropdown-submenu"><a class="dropdown-item " href="#">Karunakontha</a></li>
-			       </ul>
-			      </li> 
+			     
 
 			      <li class="nav-item dropdown">
 			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -185,6 +175,17 @@
 			          <li><a class="dropdown-item" href="{{route('Youth-Children')}}">Youth & Children</a></li>
 			         </ul>
 			      </li> -->
+			       <li class="nav-item dropdown">
+			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			          Prayers
+			        </a>
+			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp6">Kudumba Prarthana</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('kurishinte-vazhi')}}">Kurishinte Vazhi</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp1">Japamala</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp3">Karunakontha</a></li>
+			       </ul>
+			      </li> 
 
 			      <li class="nav-item dropdown">
 			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -219,7 +220,6 @@
 			              <li><a class="dropdown-item" href="{{route('Reports-Year2')}}">2019</a></li>
 			            </ul>
 			          </li>
-			          <li><a class="dropdown-item" href="{{route('prayers')}}">Prayers</a></li>
 			         </ul>
 			      </li> 
 
