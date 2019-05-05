@@ -372,6 +372,9 @@ class IndexController extends Controller
    public function prayers(){
       return view('prayers');
    }
+   public function kurishinteVazhi(){
+      return view('kurishinte-vazhi');
+   }
    
 
 }

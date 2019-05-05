@@ -98,6 +98,18 @@
 
 			      <li class="nav-item dropdown">
 			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			          Prayers
+			        </a>
+			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="#">Kudumba Prarthana</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('kurishinte-vazhi')}}">Kurishinte Vazhi</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}">Japamala</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="#">Karunakontha</a></li>
+			       </ul>
+			      </li> 
+
+			      <li class="nav-item dropdown">
+			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			          Activities
 			        </a>
 			        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
