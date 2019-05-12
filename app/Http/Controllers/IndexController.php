@@ -375,6 +375,12 @@ class IndexController extends Controller
    public function kurishinteVazhi(){
       return view('kurishinte-vazhi');
    }
+   public function cheriyaoppees(){
+      return view('cheriyaoppees');
+   }
+   public function stjosephprayer(){
+      return view('stjosephprayer');
+   }
    
 
 }

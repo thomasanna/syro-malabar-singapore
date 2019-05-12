@@ -134,7 +134,9 @@
           
            St. Kuriakose Elias
       Chavara <br>
-      (1805-1871)
+      (1805-1871)<br>
+            <a href="{{route('novena' , ['name' => 'St. Kuriakose Elias Chavara', 'lang' => 'Malayalam'])}}">Novena</a>
+
     
        </div>
 

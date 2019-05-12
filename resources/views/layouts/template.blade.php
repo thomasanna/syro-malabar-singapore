@@ -36,6 +36,7 @@
 <body oncontextmenu="return false;">
 
 
+
 	<a href="#" id="scroll" style="display: none;"><span></span></a>
 
 	<!--================Header Menu Area =================-->
@@ -184,6 +185,8 @@
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('kurishinte-vazhi')}}">Kurishinte Vazhi</a></li>
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp1">Japamala</a></li>
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp3">Karunakontha</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('Cheriya-oppees')}}">Cheriya Oppees</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('St-Joseph-Prayer')}}">St Joseph Prayer</a></li>
 			       </ul>
 			      </li> 
 
