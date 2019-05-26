@@ -33,7 +33,8 @@
 	<link rel="stylesheet" href="public/css/responsive.css"> -->
 </head>
 
-<body oncontextmenu="return false;">
+<body>
+<!-- <body oncontextmenu="return false;"> -->
 
 
 

@@ -144,7 +144,7 @@ class DashBoardController extends Controller
             if ($request->hasFile('novena_file')) {
               $file      = $request->file('novena_file');
               $fileName        = str_random(8).'.'.$file->getClientOriginalExtension();
-              $file_path       = $request->file('novena_files')->storeAs('uploads/novena/',$fileName);
+              $file_path       = $request->file('novena_file')->storeAs('uploads/novena/',$fileName);
           }
           Novena::create([
              'saint_name'   => $input['saint_name'],

@@ -182,7 +182,9 @@
           
           St. Euphrasia CMC
     Elavathunkel <br>
-    (1877-1952)
+    (1877-1952)<br>
+                <a href="{{route('novena' , ['name' => 'St. Euphrasia CMC Elavathunkel', 'lang' => 'Malayalam'])}}">Novena</a>
+
     
        </div>
 

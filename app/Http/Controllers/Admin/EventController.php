@@ -62,10 +62,10 @@ class EventController
     $input     = $request->all();
 
     $validator = Validator::make($input, [
-            'eventImage' => 'required|image|mimes:jpeg,png,jpg,svg|max:2048',
+            'eventImage' => 'required|image|mimes:jpeg,png,jpg,svg',
 
     ]);
-    if ($validator->fails()) {
+    if ($validator->fails()) {print_r($validator);exit;
              return redirect(route('admin.event.create'))->withErrors($validator)->withInput();
     }
 
@@ -89,7 +89,7 @@ class EventController
 
             ->with('success','Your event has been successfully added.');
     }catch(Exeption $e){
-           return redirect(route('admin.event.create'))->withErrors($e->getMessage())->withInput();
+          // return redirect(route('admin.event.create'))->withErrors($e->getMessage())->withInput();
     } 
   }
 
