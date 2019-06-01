@@ -140,7 +140,7 @@
 
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('apply-noc')}}">Apply NOC </a></li>
-					          <li class="dropdown-submenu"><a class="dropdown-item" href="#">Available MPC Details </a></li>
+					          <li class="dropdown-submenu"><a class="dropdown-item" href="{{route('mpc')}}">Available MPC Details </a></li>
 				          </ul> 
 
 

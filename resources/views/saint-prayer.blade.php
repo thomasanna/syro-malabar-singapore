@@ -11,17 +11,17 @@
 						<div class="top-part">
 							<p></p>
 						</div>
-				@if($novena)	
-				@if($novena->lang == 'Malayalam' && $novena->content !="")	
-				@if($novena->lang == 'Malayalam' && $novena->file !="")
-				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true"></i></a>
+				@if($prayer)	
+				@if($prayer->lang == 'Malayalam' && $prayer->content !="")	
+				@if($prayer->lang == 'Malayalam' && $prayer->file !="")
+				<a href="{{asset('storage/app/uploads/novena/'.$prayer->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true"></i></a>
 				@endif
 				@endif
-				<a class="{{$novena->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'Malayalam'])}}">Novena in Malayalam</a> |  
-			    @if($novena->lang == 'English' && $novena->content !="")
-				<a class="{{$novena->lang == 'English' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'English'])}}">   Novena in English</a>
-				@if($novena->lang == 'English' && $novena->file !="")
-				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true" title="Download"></i></a>
+				<a class="{{$prayer->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('saint-prayer' , ['name' => $prayer->saint_name, 'lang' => 'Malayalam'])}}">Prayer in Malayalam</a> |  
+			    @if($prayer->lang == 'English' && $prayer->content !="")
+				<a class="{{$prayer->lang == 'English' ? 'active' : ''}}" href="{{route('saint-prayer' , ['name' => $prayer->saint_name, 'lang' => 'English'])}}">   Prayer in English</a>
+				@if($prayer->lang == 'English' && $prayer->file !="")
+				<a href="{{asset('storage/app/uploads/novena/'.$prayer->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true" title="Download"></i></a>
 				@endif
 				@endif
 				@endif
@@ -39,9 +39,9 @@
 
 								<?php 
 
-								if($novena):
+								if($prayer):
 
-								  echo $novena->content;
+								  echo $prayer->content;
 
 								else:
                                    echo  "No data Available";

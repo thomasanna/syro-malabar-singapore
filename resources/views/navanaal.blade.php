@@ -11,17 +11,17 @@
 						<div class="top-part">
 							<p></p>
 						</div>
-				@if($novena)	
-				@if($novena->lang == 'Malayalam' && $novena->content !="")	
-				@if($novena->lang == 'Malayalam' && $novena->file !="")
-				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true"></i></a>
+				@if($navanaal)	
+				@if($navanaal->lang == 'Malayalam' && $navanaal->content !="")	
+				@if($navanaal->lang == 'Malayalam' && $navanaal->file !="")
+				<a href="{{asset('storage/app/uploads/novena/'.$navanaal->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true"></i></a>
 				@endif
 				@endif
-				<a class="{{$novena->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'Malayalam'])}}">Novena in Malayalam</a> |  
-			    @if($novena->lang == 'English' && $novena->content !="")
-				<a class="{{$novena->lang == 'English' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'English'])}}">   Novena in English</a>
-				@if($novena->lang == 'English' && $novena->file !="")
-				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true" title="Download"></i></a>
+				<a class="{{$navanaal->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('navanaal' , ['name' => $navanaal->saint_name, 'lang' => 'Malayalam'])}}">Navanaal in Malayalam</a> |  
+			    @if($navanaal->lang == 'English' && $navanaal->content !="")
+				<a class="{{$navanaal->lang == 'English' ? 'active' : ''}}" href="{{route('navanaal' , ['name' => $navanaal->saint_name, 'lang' => 'English'])}}">   Navanaal in English</a>
+				@if($navanaal->lang == 'English' && $navanaal->file !="")
+				<a href="{{asset('storage/app/uploads/novena/'.$navanaal->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true" title="Download"></i></a>
 				@endif
 				@endif
 				@endif
@@ -39,9 +39,9 @@
 
 								<?php 
 
-								if($novena):
+								if($navanaal):
 
-								  echo $novena->content;
+								  echo $navanaal->content;
 
 								else:
                                    echo  "No data Available";

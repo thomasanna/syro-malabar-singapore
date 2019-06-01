@@ -279,7 +279,32 @@
                                 </li>
                                 <li>
                                     <a href="#sectiony2" class="d-flex justify-content-between">
-                                        <p>2.  റംശാ - സായാഹ്ന പ്രാര്‍ത്ഥനകള്‍</p>
+                                        <p>2.  റംശാ:സായാഹ്ന പ്രാര്‍ത്ഥനകള്‍ 6.00 pm</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#sectiony3" class="d-flex justify-content-between">
+                                        <p>3.  സൂബാആ:അത്താഴാനാന്തര പ്രാര്‍ത്ഥനകള്‍ 9.00 pm</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#sectiony4" class="d-flex justify-content-between">
+                                        <p>4.  ലെലിയാ:രാത്രിജപം - പാതിരാവിൽ 12.00 midnight</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#sectiony4" class="d-flex justify-content-between">
+                                        <p>5.  ഖാലാ ദ്ശഹറാ:വെളുപ്പാൻകാലജപം –3.00am</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#sectiony6" class="d-flex justify-content-between">
+                                        <p>6. ഖൂഥാആ:മൂന്നാം മണി ജപം: 9.00 am</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#sectiony7" class="d-flex justify-content-between">
+                                        <p>7. എന്ദാനാ:മധ്യാഹ്നപ്രാർത്ഥന - 12 noon</p>
                                     </a>
                                 </li>
                                

@@ -369,6 +369,18 @@ class IndexController extends Controller
       $novena = Novena::where('saint_name',$name)->where('lang',$lang)->first();
       return view('novena',compact('novena'));
    }
+   public function navanaal($name,$lang){
+      $navanaal = Novena::where('saint_name',$name)->where('lang',$lang)
+      ->where('prayer_type','Navanaal')
+      ->first();
+      return view('navanaal',compact('navanaal'));
+   }
+   public function saintPrayer($name,$lang){
+      $prayer = Novena::where('saint_name',$name)->where('lang',$lang)
+      ->where('prayer_type','Prayer')
+      ->first();
+      return view('saint-prayer',compact('prayer'));
+   }
    public function prayers(){
       return view('prayers');
    }
@@ -380,6 +392,9 @@ class IndexController extends Controller
    }
    public function stjosephprayer(){
       return view('stjosephprayer');
+   }
+   public function mpc(){
+      return view('mpc');
    }
    
 

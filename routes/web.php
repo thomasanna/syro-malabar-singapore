@@ -55,6 +55,9 @@ Route::get('/prayers',['as'=>'prayers','uses'=>'IndexController@prayers']);
 Route::get('/kurishinte-vazhi',['as'=>'kurishinte-vazhi','uses'=>'IndexController@kurishinteVazhi']);
 Route::get('/Cheriya-oppees',['as'=>'Cheriya-oppees','uses'=>'IndexController@cheriyaoppees']);
 Route::get('/St-Joseph-Prayer',['as'=>'St-Joseph-Prayer','uses'=>'IndexController@stjosephprayer']);
+Route::get('/MPC',['as'=>'mpc','uses'=>'IndexController@mpc']);
+Route::get('/navanaal/{name}/{lang}',['as'=>'navanaal','uses'=>'IndexController@navanaal']);
+Route::get('/saint-prayer/{name}/{lang}',['as'=>'saint-prayer','uses'=>'IndexController@saintPrayer']);
 
 
 

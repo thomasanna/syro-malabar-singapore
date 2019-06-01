@@ -135,7 +135,7 @@
            St. Kuriakose Elias
       Chavara <br>
       (1805-1871)<br>
-            <a href="{{route('novena' , ['name' => 'St. Kuriakose Elias Chavara', 'lang' => 'Malayalam'])}}">Novena</a>
+            <a href="{{route('navanaal' , ['name' => 'St. Kuriakose Elias Chavara', 'lang' => 'Malayalam'])}}">Navanaal</a>
 
     
        </div>
@@ -183,7 +183,7 @@
           St. Euphrasia CMC
     Elavathunkel <br>
     (1877-1952)<br>
-                <a href="{{route('novena' , ['name' => 'St. Euphrasia CMC Elavathunkel', 'lang' => 'Malayalam'])}}">Novena</a>
+                <a href="{{route('saint-prayer' , ['name' => 'St. Euphrasia CMC Elavathunkel', 'lang' => 'Malayalam'])}}">Prayer</a>
 
     
        </div>

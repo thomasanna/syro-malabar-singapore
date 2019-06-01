@@ -49,6 +49,7 @@
                 <select name="prayer_type" id="prayer_type" class="form-control" required>
                     <option value="Novena">Novena</option>
                     <option value="Prayer">Prayer</option>
+                    <option value="Navanaal">Navanaal</option>
                    
                 </select>
                 </div>
