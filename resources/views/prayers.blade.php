@@ -1368,86 +1368,238 @@
                                 <div class="blog_post">
                                     <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
                                     <div class="blog_details">
+
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         <p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 23.0pt; font-family: Kartika, serif; color: orange;">യാമപ്രാര്&zwj;ത്ഥനകള്&zwj;</span></strong></p>
 <p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
 <p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><img    width="197" height="286" border="0"  src="{{asset('public/img/y1.jpg')}}" alt="First slide"></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-                                        <p><p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കുടുംബങ്ങളിലെ ഉപയോഗത്തിന് സീറോ-മലബാര്&zwj; കത്തോലിക്കാ സഭയുടെ യാമപ്രാര്&zwj;ത്ഥനകളില്&zwj; നിന്ന് ശേഖരിയ്ക്കപ്പെട്ടതാണു് ഇവിടെ ചേര്&zwj;ത്തിരിക്കുന്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Kartika, serif; color: orange;">യാമപ്രാര്&zwj;ത്ഥന</span></li>
-<li style="margin: 0in 15pt 0.0001pt 0px; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Kartika, serif; color: orange;">ആരാധനാവത്സരവും കാലങ്ങളും</span></li>
-<li style="margin: 0in 15pt 0.0001pt 0px; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Kartika, serif; color: orange;">ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്&zwj;</span></li>
-<li style="margin: 0in 15pt 0.0001pt 0px; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Kartika, serif; color: orange;">സുറിയാനി പദങ്ങള്&zwj;</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 18.0pt; font-family: Kartika, serif; color: orange; background: white;">യാമപ്രാര്&zwj;ത്ഥന</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സ്വര്&zwj;ഗ്ഗത്തില്&zwj; നിത്യകാലത്തോളം ആലപിക്കുന്ന സ്തോത്രഗീതം മിശിഹാ തന്റെ മനുഷ്യാവതാരത്തിലൂടെ ഭൂമിയിലും ആരംഭിച്ചു. അതില്&zwj; മനുഷ്യവര്&zwj;ഗ്ഗം മുഴുവനെയും പങ്കുകാരാക്കുന്ന മുഖ്യമായ ഒരു ഉപാധിയാണ് സഭയുടെ യാമപ്രര്&zwj;ത്ഥനകള്&zwj; . അതുവഴി തിരുസഭ കര്&zwj;ത്താവിനെ ഇടവിടാതെ സ്തുതിക്കുകയും സര്&zwj;വ്വലോകത്തിന്റെയും രക്ഷയ്ക്കായി മാദ്ധ്യസ്ഥം വഹിക്കുകയും ചെയ്യുന്നു. ഓരോ ദിവസത്തെയും വിശുദ്ധീകരിക്കുക എന്നതാണു് യാമപ്രാര്&zwj;ത്ഥനയുടെ ലക്ഷ്യം. ദൈവസ്തോത്രങ്ങള്&zwj; ആലപിച്ചുകൊണ്ട് ദിനരാത്രങ്ങള്&zwj; പൂര്&zwj;ണ്ണമായി പവിത്രീകരിക്കാനുതകുന്ന രീതിയിലാണ് ഇത് സംവിധാനം ചെയ്യപ്പെട്ടിരിക്കുന്നത്. മിശിഹാ തന്റെ മൗതികശരീരമായ സഭയോടൊന്നിച്ച് പിതാവിന് സമര്&zwj;പ്പിക്കുന്ന പ്രാര്&zwj;ത്ഥനയാണ് യാമപ്രാര്&zwj;ത്ഥന. സഭയുടെ ശിരസ്സായ ഈശോയ്ക്ക് സഭ അര്&zwj;പ്പിക്കുന്ന പ്രാര്&zwj;ത്ഥനയാണിത്. കൂദാശകള്&zwj;</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കൂദാശാനുകരണങ്ങള്&zwj;</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">യാമപ്രാര്&zwj;ത്ഥന ഇവ ചേരുന്നതാണല്ലോ സഭയുടെ ഔദ്യോഗികമായ ആരാധനക്രമം.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സീറോ-മലബാര്&zwj; സഭയില്&zwj; സായംകാലപ്രാര്&zwj;ത്ഥന (റംശാ)</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">രാത്രിജപം (ലെലിയാ)</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രഭാത നമസ്കാരം (സപ്രാ) ഇങ്ങനെ മൂന്നു യാമപ്രാര്&zwj;ത്ഥനകളാണുള്ളത്. ദിവസം ആരംഭിക്കുന്നത് വൈകുന്നേരമായിട്ടാണ് കരുതുക. സഭാനിയമപ്രകാരം നിയുക്തരായ വ്യക്തികളുടെ നേതൃത്വത്തിലാണു് യാമപ്രാര്&zwj;ത്ഥന നടത്തുന്നത്. അല്&zwj;മായരും ഇതില്&zwj; പങ്കെടുക്കുന്ന പാരമ്പര്യമാണ് സീറോ-മലബാര്&zwj; സഭയില്&zwj; നിലവിലിരുന്നത്. അലസതകൂടാതെ എപ്പോഴും പ്രാര്&zwj;ത്ഥിക്കണം എന്ന ദിവ്യനാഥന്റെ കല്പനയുടെ നിറവേറ്റലാണ് യാമപ്രാര്&zwj;ത്ഥന. വ്യക്തിപരമായ പ്രാര്&zwj;ത്ഥനാജീവിതത്തെ യാമപ്രാര്&zwj;ത്ഥന പോഷിപ്പിക്കുകയും പുണ്യാഭിവൃദ്ധിയ്ക്ക് സഹായിക്കുകയും ചെയ്യുന്നു.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 12pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">വിശുദ്ധ ഗ്രന്ഥത്തിലെ പ്രാര്&zwj;ത്ഥനാഗീതങ്ങളായ സങ്കീര്&zwj;ത്തനങ്ങളാണു് യാമപ്രാര്&zwj;ത്ഥനകളുടെ പ്രധാനഭാഗം.</span><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;"><br /><br /></span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><a href="http://ourmercifulgod.blogspot.in/2014/05/sapra.html"><span style="font-size: 18.0pt; font-family: Kartika, serif; color: red; background: white;">സപ്രാ-</span><span style="font-size: 18.0pt; font-family: Arial, sans-serif; color: red; background: white;">SAPRA</span></a><a href="http://ourmercifulgod.blogspot.in/2014/05/sapra.html"><span style="font-size: 15.0pt; font-family: Arial, sans-serif; color: red; background: white;"><br /></span></a><a href="http://ourmercifulgod.blogspot.in/2014/05/ramsha.html"><span style="font-size: 18.0pt; font-family: Kartika, serif; color: red;">റംശാ-</span><span style="font-size: 18.0pt; font-family: Arial, sans-serif; color: red;">RAMSHA</span></a></p>
-<p style="margin: 0in 0in 12pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;"><br /></span><span style="font-size: 18.0pt; font-family: Kartika, serif; color: orange;">ആരാധനാവത്സരവും കാലങ്ങളും</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ആരാധനാവത്സരം തുടര്&zwj;ന്നു പറയുന്ന പ്രകാരം വിഭജിക്കപ്പെട്ടിരിക്കുന്നു: മംഗലവാര്&zwj;ത്ത</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ദനഹാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">നോമ്പ്</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഉയിര്&zwj;പ്പ്</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ശ്ലീഹാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കൈത്താ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഏലിയാ-ശ്ലീവാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">മൂശേ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പള്ളിക്കൂദാശ.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">നൂറ്റാണ്ടുകളായി രക്ഷകനുവേണ്ടി കാത്തിരുന്ന ജനതയ്ക്ക് രക്ഷയുടെയും സന്തോഷത്തിന്റെയും സുവിശേഷമായ മിശിഹായെ ലഭിച്ചതിന്റെ അനുസ്മരണമാണു് മംഗലവാര്&zwj;ത്തക്കാലം. രക്ഷാസന്ദേശം പൂര്&zwj;ണ്ണമായി ഉള്&zwj;ക്കൊണ്ട് രക്ഷകനെ ലോകത്തിനു് നല്കിയ പരിശുദ്ധ അമ്മയെയും മംഗലവാര്&zwj;ത്തക്കാലത്ത് നമ്മള്&zwj; അനുസ്മരിച്ചാദരിക്കുന്നു. എല്ലാവര്&zwj;ക്കും സേവനം ചെയ്തുകൊണ്ട് മനുഷ്യരക്ഷയ്ക്കുവേണ്ടി സ്വയം കയ്യാളിച്ച ദിവ്യഗുരുവിന്റെ പരസ്യജീവിതമാണു് ദനഹാക്കാലത്തില്&zwj; നാം അനുസ്മരിക്കുന്നത്. പശ്ചാത്താപവും അനുരഞ്ജനവും വഴി ആത്മവിശുദ്ധീകരണം പ്രാപിക്കാന്&zwj; നോമ്പുകാലം വഴിയൊരുക്കുന്നു.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">മരിച്ച് ഉയിര്&zwj;ത്തുകൊണ്ട് മരണത്തെ ജയിച്ച കര്&zwj;ത്താവിന്റെ വിജയത്തെ ഉയിര്&zwj;പ്പുകാലത്തില്&zwj; നാം ആഘോഷിക്കുന്നു. നിത്യം ജീവിക്കുന്ന മിശിഹായോടുകൂടി പ്രത്യാശയുടെ ജീവിതം നയിക്കാന്&zwj; ഉയിര്&zwj;പ്പുകാലം നമ്മെ ആഹ്വാനം ചെയ്യുന്നു. പരിശുദ്ധാത്മാവിനാല്&zwj; പൂരിതരായി ശ്ലീഹന്മാര്&zwj; നാനാദിക്കുകളിലും സധൈര്യം സുവിശേഷം പ്രഘോഷിച്ചുകൊണ്ട് സഭയെ പടുത്തുയര്&zwj;ത്തിയതിനെയാണു് ശ്ലീഹാക്കാലം അവതരിപ്പിക്കുന്നത്. ഇതിന്റെ തുടര്&zwj;ച്ചയായിട്ടാണു് കൈത്താക്കാലത്തെ മനസ്സിലാക്കേണ്ടത്. മിശിഹായുടെ പ്രത്യാഗമനത്തെ ലക്ഷ്യമാക്കി സഭ നൂറ്റാണ്ടുകളിലൂടെ മുന്നേറുന്നതിനെ ഈ കാലം സൂചിപ്പിക്കുന്നു.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഏലിയാ-സ്ലീവാക്കാലം ലോകാവസാനത്തെ സൂചിപ്പിക്കുന്നു. സെപ്&zwnj;റ്റംബര്&zwj; </span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">14-</span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">നു് ആഘോഷിക്കുന്ന വി.സ്ലീവായുടെ തിരുനാള്&zwj; ഈ കാലത്തിലാണു്. കോണ്&zwj;സ്റ്റന്റൈന്&zwj; ചക്രവര്&zwj;ത്തിക്കുണ്ടായ ദര്&zwj;ശനം</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">യുദ്ധത്തില്&zwj; അദ്ദേഹം നേടിയ വിജയം</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ജറുസലേമില്&zwj; തിരുക്കല്ലറയുടെ മുകളില്&zwj; പണിത ദേവാലയത്തിന്റെ പ്രതിഷ്ഠ ഇവയെല്ലാം അനുസ്മരിപ്പിക്കുന്നു ഈ തിരുനാള്&zwj;. തുടര്&zwj;ന്നു വരുന്നത് മൂശെക്കാലമാണു്. താബോര്&zwj;മലയില്&zwj; മഹത്വമണിഞ്ഞ ഈശോയുടെ ഇരുവശങ്ങളിലായി മൂശെയും ഏലിയായും കാണപ്പെട്ടതുപോലെ കുരിശിന്റെ മഹത്വത്തെ ആചരിക്കുന്ന തിരുനാളിനു മുമ്പും പിമ്പുമായി ഇവര്&zwj; ഇരുവരുടെയും പേരില്&zwj; രണ്ടുകാലം നിലകൊള്ളുന്നു.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">അവസാനത്തേതായ പള്ളിക്കൂദാശക്കാലം മിശിഹായുടെ മണവാട്ടിയായ തിരുസ്സഭ സ്വര്&zwj;ഗ്ഗീയ മണവറയില്&zwj; തന്റെ നിത്യമണവാളനോട് എന്നേക്കുമായി ചേര്&zwj;ക്കപ്പെടുന്നത് സൂചിപ്പിക്കുന്നു.</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 18.0pt; font-family: Kartika, serif; color: orange;">ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്&zwj;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കൈക്കസ്തൂരി (സമാധാനാശംസ) കൊടുത്തുകൊണ്ടാണു് സപ്രാ ആരംഭിക്കേണ്ടതും അവസാനിപ്പിക്കേണ്ടതും. ഇത് അംഗങ്ങള്&zwj; തമ്മിലുള്ള ഹൃദയൈക്യത്തിന്റെ പ്രകാശനമാണു്. "ഈശോമിശിഹായ്ക്ക് സ്തുതിയായിരിക്കട്ടെ" എന്ന് പരസ്പരം ആശംസിച്ചുകൊണ്ട് പ്രാര്&zwj;ത്ഥന അവസാനിപ്പിക്കുന്ന രീതി തുടരണം.</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കാര്&zwj;മ്മികന്റെ പ്രാര്&zwj;ത്ഥനകള്&zwj; കുടുംബനാഥനോ കുടുംബനാഥന്റെ അഭാവത്തില്&zwj; കുടുംബനാഥയോ കുടുംബത്തിലെ മുതിര്&zwj;ന്ന മറ്റംഗങ്ങളാരെങ്കിലുമോ ചൊല്ലേണ്ടതാണു്. പ്രാര്&zwj;ത്ഥനകള്&zwj; ഭംഗിയായി ചൊല്ലാന്&zwj; കഴിവുള്ള ഏതെങ്കിലും ഒരംഗം ശുശ്രൂഷിയായി വര്&zwj;ത്തിക്കുന്നു.</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രാര്&zwj;ത്ഥനകളും ഗാനങ്ങളും സ്ഫുടമായും ആവശ്യത്തിനു് ശബ്ദമുയര്&zwj;ത്തിയും നിര്&zwj;ത്തിയും എല്ലാവരും ഒന്നിച്ചും ചൊല്ലേണ്ടതാണു്. എല്ലാവരും പുസ്തകമുപയോഗിച്ച് (അവസരത്തിനനുസരിച്ച്. ഇവിടെ അത് ഒരു പ്രിന്റ്-ഔട്ടോ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കംമ്പ്യൂട്ടര്&zwj; സ്ക്രീന്&zwj; തന്നെയുമോ ആവാം) പ്രാര്&zwj;ത്ഥനയില്&zwj; പങ്കുകൊള്ളുവാന്&zwj; ശ്രദ്ധിയ്ക്കുക.</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; text-align: justify; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333; background: white;">സഭയുടെ ഔദ്യോഗിക പ്രാര്&zwj;ത്ഥന ആയതു കൊണ്ട് എല്ലാവരും എഴുന്നേറ്റുനിന്ന് സപ്രാ ചൊല്ലുന്നതാണു് പതിവ്. സങ്കീര്&zwj;ത്തനങ്ങള്&zwj; ചൊല്ലുമ്പോഴും ഗാനങ്ങള്&zwj; ആലപിക്കുമ്പോഴും ഇരിക്കുന്നു.</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333; background: white;">&nbsp;</span></p>
-<ul style="margin-top: 0in; margin-bottom: .0001pt;">
-<li style="margin: 0in 15pt 0.0001pt 0px; text-align: justify; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333; background: white;">വി. കുര്&zwj;ബ്ബാനയും</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333; background: white;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333; background: white;">മറ്റു കൂദാശകളും</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333; background: white;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333; background: white;">കൂദാശാനുകരണങ്ങളും പോലെ യാമപ്രാര്&zwj;ത്ഥനകള്&zwj; സഭയുടെ ആരാധനാക്രമത്തിന്റെ ഭാഗമാകയാല്&zwj; അത് മറ്റെല്ലാ പ്രാര്&zwj;ത്ഥനകളെക്കാളും സ്വകാര്യഭക്താനുഷ്ഠാനങ്ങളെക്കാളും ശ്രേഷ്ഠവും ദൈവത്തിനു് സ്വീകാര്യവുമായിരിക്കും.</span></li>
-</ul>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 18.0pt; font-family: Kartika, serif; color: orange;">യാമപ്രാര്&zwj;ത്ഥനയിലെ ചില സുറിയാനി പദങ്ങള്&zwj;</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സപ്രാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രഭാതജപം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">റംശാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സായാഹ്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ലെലിയാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">രാത്രിജപം</span></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ശൂറായാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രകീര്&zwj;ത്തനം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ശൂബാഹാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സ്തോത്രഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സ്ലോസാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ജപം</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രാര്&zwj;ത്ഥന</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കാറോസൂസാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രഘോഷണ പ്രാര്&zwj;ത്ഥന</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഹൂത്താമ്മാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">മുദ്രവയ്ക്കല്&zwj; പ്രാര്&zwj;ത്ഥന</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">എങ്കര്&zwj;ത്താ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ലേഖനം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">തെശ്ബോഹത്താ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സ്തുതിഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദക്ക്ദം</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പൂര്&zwj;വ്വഗീതം (സായാഹ്ന സങ്കീര്&zwj;ത്തനത്തിനു മുമ്പ്)</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദ്ബാസര്&zwj;</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഉത്തരഗീതം (സായാഹ്ന സങ്കീര്&zwj;ത്തനത്തിനു ശേഷം)</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദ്&zwnj;റംശാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സായാഹ്നഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദ്&zwnj;ബാസാലിക്കേ</span> <span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">- </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">രാജഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദ്&zwnj;മൗത്വാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">നിശാഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ഓനീസാ ദ്&zwnj;സപ്രാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രഭാതഗീതം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ബാറെക് കൊലഹോന്&zwj;</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">കൃതജ്ഞതാഗാനം / കൃതജ്ഞതാ കീര്&zwj;ത്തനം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ബ്&zwnj;മദ്&zwnj;നാഹൈ സപ്രാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">പ്രഭാതകീര്&zwj;ത്തനം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">മറിയാ ക്രോസാക്</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സായാഹ്ന സങ്കീര്&zwj;ത്തനം</span></p>
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">ആസ്&zwnj;വാസാ</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;"> - </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">അക്ഷരമാലാനുസൃതമായി ഓരോ ഭാഗവും തുടങ്ങുന്ന രീതിയില്&zwj; വിരചിതമായ സങ്കീര്&zwj;ത്തനങ്ങള്&zwj;</span></p></p>
-                                       
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
+
+<p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></strong></p>
+<p style="text-align: center; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 107%;">&ldquo;</span></strong><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Kartika, serif;">സങ്കീർത്തനങ്ങൾ ഉപയോഗിച്ചു പ്രാർത്ഥിയ്ക്കണമെന്നും</span></strong></p>
+<p style="text-align: center; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Kartika, serif;"> സായാഹ്ന</span></strong><strong><span style="font-size: 14.0pt; line-height: 107%;">, </span></strong><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Kartika, serif;">രാത്രി പ്രഭാതനമസ്കാരങ്ങൾ </span></strong></p>
+<p style="text-align: center; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Kartika, serif;">പതിവാക്കണമെന്നും ഞാൻ എല്ലാവരോടൂം ആഹ്വാനം </span></strong></p>
+<p style="text-align: center; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Kartika, serif;">ചെയ്യുന്നു</span></strong><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Latha, serif;">&rdquo;</span></strong><strong><span style="font-size: 14.0pt; line-height: 107%; font-family: Latha, serif;">.</span></strong></p>
+<p style="text-align: right; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="right"><span style="font-family: Kartika, serif;">ബെനഡിക്ട്പതിനാറാമൻമാർപാപ്പാ</span></p>
+<p style="text-align: right; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="right">2011 <span style="font-family: Kartika, serif;">നവംബർ</span>16</p>
+<p style="margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+
+
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">&quot;സ്വര്&zwj;ഗ്ഗത്തില്&zwj; നിത്യകാലത്തോളം ആലപിക്കുന്ന സ്തോത്രഗീതം മിശിഹാ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">തന്റെ മനുഷ്യാവതാരത്തിലൂടെ ഭൂമിയിലും ആരംഭിച്ചു. അതില്&zwj; മനുഷ്യവര്&zwj;ഗ്ഗം</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">മുഴുവനെയും പങ്കുകാരാക്കുന്ന മുഖ്യമായ ഒരു ഉപാധിയാണ് സഭയുടെ </span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">യാമപ്രര്&zwj;ത്ഥനകള്&zwj; . അതുവഴി തിരുസഭ കര്&zwj;ത്താവിനെ ഇടവിടാതെ സ്തുതിക്കുകയും</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">സര്&zwj;വ്വലോകത്തിന്റെയും രക്ഷയ്ക്കായി മാദ്ധ്യസ്ഥം വഹിക്കുകയും ചെയ്യുന്നു.&nbsp;</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">(SACROSANCTUM CONCILIUM [SC] 83)&quot;</span></p>
+<br>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">ഓരോ ദിവസത്തെയും വിശുദ്ധീകരിക്കുക എന്നതാണു് യാമപ്രാര്&zwj;ത്ഥനയുടെ ലക്ഷ്യം</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">(SC 83). ദൈവസ്തോത്രങ്ങള്&zwj; ആലപിച്ചുകൊണ്ട് ദിനരാത്രങ്ങള്&zwj; പൂര്&zwj;ണ്ണമായി</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">പവിത്രീകരിക്കാനുതകുന്ന രീതിയിലാണ് ഇത് സംവിധാനം ചെയ്യപ്പെട്ടിരിക്കുന്നത്.</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">മിശിഹാ തന്റെ മൗതികശരീരമായ സഭയോടൊന്നിച്ച് പിതാവിന് സമര്&zwj;പ്പിക്കുന്ന</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">പ്രാര്&zwj;ത്ഥനയാണ് യാമപ്രാര്&zwj;ത്ഥന (SC 84)......</span></p>
+<br>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">സഭയുടെ കൂദാശകളും യാമശുശ്രുഷകളുമാണ് നമ്മുടെ ജീവിതത്തിലെ യഥാർത്ഥ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">കേടാവിളിക്കുകൾ പ്രാർത്ഥനയുടെ എല്ലാ തലങ്ങളും ഇതിലുണ്ട് മദ്ബഹായിലെ ഈ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">അഗ്നിയെ നമ്മുടെ ജീവിതത്തിലെ അദ്ധ്വാനവും ഭാരം വഹിക്കലുമായ എണ്ണയാൽ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">കെട്ടുപോകാതെ നിലനിർത്തേണ്ടത്തിനുപകരം ഇവ ചെയ്യാനുള്ള മടികാരണം</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">പ്രാര്ത്ഥന എന്നപേരിൽ പുതിയ ഭക്തഭ്യാസങ്ങൾ തുടങ്ങിയാൽ യഥാർത്ഥ നസ്രായ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ജീവിതം നഷ്ട്ടപെടുകയെയോള്ളു. എല്ലാ സഭാപാരമ്പര്യങ്ങളിലേയും</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">യാമപ്രാർത്ഥനകൾ അതതു സഭകളുടെ ഔദ്യോഗിക പ്രാർത്ഥനയാണ്.</span></p>
+
+<br>
+
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000;">എല്ലാ സഭാപാരമ്പര്യങ്ങളിലേയും യാമപ്രാർത്ഥനകൾ അതതു സഭകളുടെ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ഔദ്യോഗിക പ്രാർത്ഥനയാണ്. പൗരസ്ത്യ സുറിയാനീസഭയുടെ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ആശ്രമപാരമ്പര്യത്തിൽ 7 നേര യാമപ്രാർത്ഥനകളാണുള്ളത്. കുറുമ്പനാടത്തെ മാർ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">തോമാ സഹോദരികളുടെ ആശ്രമ ഉപയോഗത്തെ മുൻനിർത്തി പാത്തിക്കുളങ്ങര</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">വർഗ്ഗീസ് മല്പാന്റെ പരിശ്രമഫലമായി ഏന്താനാ (മദ്ധ്യാഹ്ന നമസ്കാരം), ഖാലാ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ദശഹ്റ(വെളുപ്പാൻകാല നമസ്കാരം), ഖൂത്താആ (മൂന്നാം മണി നമസ്കാരം,</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">രാവിന്റെ 9 മണിയ്ക്ക്), ദബ്&zwnj;ശാ ശായീൻ (ഒൻപതാം മണി നമസ്കാരം, ഉച്ചകഴിഞ്ഞ് 3</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">മണി) എന്നിവ പുനരുദ്ധരിച്ചിട്ടൂണ്ട്. റംശ(സായാഹ്ന നമസ്കാരം), ലെലിയ (രാത്രി</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">നമസ്കാരം), സപ്രാ (പ്രഭാത നമസ്കാരം) ഇവ സീറോ മലബാർ സഭാ മെത്രാൻ സമതി</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ഔദ്യോഗികമായിത്തന്നെ പുനരുദ്ധരിച്ചിട്ടൂണ്ട്. എല്ലാ വ്യക്തിസഭാ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">പാരമ്പര്യങ്ങളിലും 7 നേരയാമപ്രാർത്ഥനകളാണ് അതിന്റെ പൂർണ്ണരൂപത്തിൽ</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ഉള്ളത്. ലത്തീൻ സഭാപാരമ്പര്യത്തിലെ യാമപ്രാർത്ഥനകൾ Lauds (പ്രഭാതനമസ്കാരം),</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">Vespers (സന്ധ്യാനമസ്കാരം), Compline (രാത്രിനമസ്കാരം) എന്നിവയാണ് പ്രധാനമായും</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><br /><span style="color: #000000;">ഉപയോഗത്തിലുള്ളത്.</span></p>
+
+<br>
+<p><span style="color: #000000;">സ്വര്&zwj;ഗ്ഗത്തില്&zwj; നിത്യകാലത്തോളം ആലപിക്കുന്ന സ്തോത്രഗീതം മിശിഹാ തന്റെ</span></p>
+<p><span style="color: #000000;">മനുഷ്യാവതാരത്തിലൂടെ ഭൂമിയിലും ആരംഭിച്ചു. അതില്&zwj; മനുഷ്യവര്&zwj;ഗ്ഗം</span></p>
+<p><span style="color: #000000;">മുഴുവനെയും പങ്കുകാരാക്കുന്ന മുഖ്യമായ ഒരു ഉപാധിയാണ് സഭയുടെ യാമപ്രര്&zwj;ത്ഥനകള്&zwj; . </span></p>
+<p><span style="color: #000000;">അതുവഴി തിരുസഭ കര്&zwj;ത്താവിനെ ഇടവിടാതെ സ്തുതിക്കുകയും</span></p>
+<p><span style="color: #000000;">സര്&zwj;വ്വലോകത്തിന്റെയും രക്ഷയ്ക്കായി മാദ്ധ്യസ്ഥം വഹിക്കുകയും ചെയ്യുന്നു (SC83). </span></p>
+<p><span style="color: #000000;">ഓരോ ദിവസത്തെയും വിശുദ്ധീകരിക്കുക എന്നതാണു് യാമപ്രാര്&zwj;ത്ഥനയുടെ</span></p>
+<p><span style="color: #000000;">ലക്ഷ്യം (SC 83). ദൈവസ്തോത്രങ്ങള്&zwj; ആലപിച്ചുകൊണ്ട് ദിനരാത്രങ്ങള്&zwj; പൂര്&zwj;ണ്ണമായി</span></p>
+<p><span style="color: #000000;">പവിത്രീകരിക്കാനുതകുന്ന രീതിയിലാണ് ഇത് സംവിധാനം ചെയ്യപ്പെട്ടിരിക്കുന്നത്.</span></p>
+<p><span style="color: #000000;">മിശിഹാ തന്റെ മൗതികശരീരമായ സഭയോടൊന്നിച്ച് പിതാവിന് സമര്&zwj;പ്പിക്കുന്ന</span></p>
+<p><span style="color: #000000;">പ്രാര്&zwj;ത്ഥനയാണ് യാമപ്രാര്&zwj;ത്ഥന (SC 84). സഭയുടെ ശിരസ്സായ ഈശോയ്ക്ക് സഭ</span></p>
+<p><span style="color: #000000;">അര്&zwj;പ്പിക്കുന്ന പ്രാര്&zwj;ത്ഥനയാണിത്. കൂദാശകള്&zwj; , കൂദാശാനുകരണങ്ങള്&zwj; ,</span></p>
+<p><span style="color: #000000;">യാമപ്രാര്&zwj;ത്ഥന ഇവ ചേരുന്നതാണല്ലോ സഭയുടെ ഔദ്യോഗികമായ ആരാധനക്രമം.</span></p>
+
+<br>
+<p><span style="color: #000000;">കുർബാനകഴിഞ്ഞാൽ പിന്നെ യാമപ്രാർത്ഥനകളോളം മഹനീയമായ പ്രാർത്ഥനയില്ല</span></p>
+<p><span style="color: #000000;">തന്നെ. അത് വിശിഷ്ടമായ ആരാധനാക്രമ പ്രാർത്ഥനയാണ്. അതുകൊണ്ടുതന്നെയാണ്</span></p>
+<p><span style="color: #000000;">ജോൺ പോൾ രണ്ടാമനേയും ബനഡിക്ട് പതിനാറാമനേയും പോലെയുള്ള മാർ</span></p>
+<p><span style="color: #000000;">പാപ്പാമാർ യാമപ്രാർത്ഥനകളെ ദൈവജനത്തിന്റെ പ്രാർത്ഥനയായി</span></p>
+<p><span style="color: #000000;">നിർദ്ദേശിച്ചിട്ടുള്ളത്.</span></p>
+<p><span style="color: #000000;">സായംകാലപ്രാര്&zwj;ത്ഥന റംശാ (6 PM), രാത്രിജപം ലെലിയാ (9 PM ), വെളുപ്പാൻക്കാല</span></p>
+<p><span style="color: #000000;">ജപം ഖാലാ ദ് ശഹറ (3 am ), പ്രഭാത ജപം സപ്രാ (6 am), മൂന്നാം മണി ജപം ഖൂഥാആ (9</span></p>
+<p><span style="color: #000000;">am),മദ്ധ്യാഹ്ന പ്രാർത്ഥന എന്ദാനാ (12 pm), ഒൻപതാം മണി ജപം ദ്ബസ്ശാ ശായിൻ</span></p>
+<p><span style="color: #000000;">(3PM), എന്നിവയാണ്.&nbsp;</span></p>
+<p><span style="color: #000000;">യഹൂദരുടെ രീതിയായിരുന്നു 7 നേരം പ്രര്തിക്കുക എന്നത് അതുപോലെ നമ്മുടെ</span></p>
+<p><span style="color: #000000;">കർത്താവിന്റെ ജീവിതചര്യയായിരുനു 7 നേരപ്രാർത്ഥനകൾ , ശ്ലിഹന്മാരുടെയും</span></p>
+<p><span style="color: #000000;">ആദിമസഭയുടെയും നസ്രാണികളായ നമ്മുടെയും പ്രാർത്ഥനയായിരുന്നു</span></p>
+<p><span style="color: #000000;">യാമപ്രാർത്ഥനകൾ.നിർഭാഗ്യവശാൽ നമ്മുടെ മിക്കകുടുംമ്പങ്ങളിൽ നിന്നും</span></p>
+<p><span style="color: #000000;">ഇതില്ലതായി. പരിശുദ്ധകുർബ്ബാനയിലൂടെ നമ്മുക്കുകിട്ടുന്ന കൃപാവരം</span></p>
+<p><span style="color: #000000;">ദിവസത്തിലെ ഓരോ യമാങ്ങളിലും കത്തിപടരാൻ സഭയുടെ ഔദ്യോഗികമായ</span></p>
+<p><span style="color: #000000;">ആരാധനക്രമത്തിന്റെ ഭാകമായ യമാപ്രാർത്ഥനകൾ നമ്മുക്ക് ശീലമാക്കാം.&nbsp;</span></p>
+<p><span style="color: #000000;">സങ്കീർത്തകൻ പറയുന്നപോലെ &quot;അങ്ങയുടെ നീതിയുക്തമായ കല്&zwj;പനകളെപ്രതി</span></p>
+<p><span style="color: #000000;">ദിവസം ഏഴുപ്രാവശ്യം ഞാന്&zwj; അങ്ങയെ സ്തുതിക്കുന്നു.&quot; &quot;അങ്ങയുടെ</span></p>
+<p><span style="color: #000000;">വചനത്തെപ്പറ്റി ധ്യാനിക്കാന്&zwj; വേണ്ടി രാത്രിയുടെയാമങ്ങളില്&zwj; ഞാന്&zwj;</span></p>
+<p><span style="color: #000000;">ഉണര്&zwj;ന്നിരിക്കുന്നു&quot;. സഭയുടെ കൂദാശകളും യമാപ്രാർത്ഥനകളും</span></p>
+<p><span style="color: #000000;">ജീവിതചര്യയാക്കുന്ന ഒരു വിശ്വസിയെ സംമ്പദിച്ചടത്തോളം ഒരു കണ്&zwj;വെൻഷൻ</span></p>
+<p><span style="color: #000000;">പന്തലുകളിയും ഒരു ചവിട്ടുനാടകത്തിലും (പെന്തകൊസ്തുആരാധനാ രീതി),</span></p>
+<p><span style="color: #000000;">പോകേണ്ട ആവശ്യമില്ല.</span></p>
+
+<p style="text-align: center; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 24.0pt; line-height: 107%; font-family: AlexBrush; color: red;">Divine Praises</span></strong></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; line-height: 107%; font-family: Arial, sans-serif;">The &ldquo;Divine Praises&rdquo; (Liturgy of the Hours) is, in fact, the extension of the life of&nbsp;Qurbana&nbsp;to the other hours of the day and which, together with the&nbsp;Qurbana, really moulds the authentic ecclesial spirituality of any Church.&nbsp; The Eastern emphasis of its celebration was fully recognised and endorsed by Vatican II.&nbsp; It is proclaimed &ldquo;the Church&rsquo;s school of prayer&rdquo; (Instruction&nbsp;of the Congregation for the Eastern Churches, January 06, 1996, No. 96).&nbsp; According to the Fathers of the Church, &ldquo;it is the real contemplation of the Christian Mystery&rdquo; (Instruction, No. 97).&nbsp; It inherits to us &ldquo;the very rich and inalienable patrimony of authentic spiritual life&rdquo; (Instruction, No. 97).&nbsp; Hence the Church affirms:&nbsp;&ldquo;wherever such practice of celebrating the &ldquo;Divine Praises&rdquo; with the people has diminished, if not completely disappeared, the ancient tradition should be restored without delay, so as not to deprive the faithful of a privileged source of prayer, nourished by treasures of authentic doctrine&rdquo;&nbsp;(Instruction, No. 98).&nbsp; The Syro-Malabar Bishops&rsquo; Synod and the Major Archbishop do not appear to have seen or given any weight to this very important direction of the Church, which directly pertains to the spiritual life of the faithful.</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; line-height: 107%; font-family: Arial, sans-serif;">The&nbsp;Code of Canons for Eastern Churches&nbsp;(nn. 199; 346.3; 377; 473) strongly reminds all concerned about the urgent need of popularising the Divine Praises.&nbsp; According to the ancient custom of the Syro-Malabar Church, it has to become an invariable part of the family prayer too.&nbsp; Such canonical obligation too is conveniently ignored by even the specialists in Canon Law who are leading this Church.&nbsp; One can only pray ardently that the authorities in this Apostolic Church may awaken from their deep slumber of ignoring very seriously such authentic sources of ecclesial spirituality.</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; line-height: 107%; font-family: Arial, sans-serif;">Very healthy cases, of course, of&nbsp;faithfully and fruitfully encouraging&nbsp;the &ldquo;Divine Praises&rdquo;, also as part of family prayer, in this Church are not at all ignored here; and some bishops beginning their pastoral visits in parishes with a solemn celebration of&nbsp;Ramsa, the Evening Liturgy, is to be highly praised.&nbsp; May the Lord inspire all the leaders of this Church to encourage solemn celebration of the &ldquo;Divine Praises&rdquo; at least on Sundays and important Feast days in all parish churches and chapels of religious institutes.</span></p>
+<p style="text-align: justify; margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; line-height: 107%; font-family: Arial, sans-serif;">Even the&nbsp;religious institutes&nbsp;for men and women do not appear to have taken seriously the unique role of &ldquo;Divine Praises&rdquo; in the moulding of authentic Christian spirituality.&nbsp; Most of them are even today appear to be governed by a kind of pre-Vatican II mediaeval concept of its obligatory celebration.&nbsp; Since most of them stopped learning their liturgical language Syriac, they also lost all touch with the authentic sources of this celebration.&nbsp; They appear to be only on the look out for the shortest text in the mother tongue for fulfilling their canonical obligation and not at all concerned with its relation to the authentic sources of the Church and thus their incorporation to the proper ecclesial and authentic spiritual treasury; they can also easily set it aside for accommodating even some popular devotions!&nbsp; The emphasis given to this unique &ldquo;school of prayer&rdquo; during the early formation stages in several of these religious institutes is to be very seriously reconsidered.&nbsp; It is amazing to note that the CMI religious congregation, the first and the largest, and in some way the backbone of the Syro-Malabar Church, hasn&rsquo;t yet begun to mould its members in this &ldquo;school of prayer&rdquo; during the initial years of aspirancy and postulancy.&nbsp; It still continues with the mediaeval concept and practice of praying the &ldquo;Divine Office&rdquo; from noviciate onwards.&nbsp; According to the Vatican II insight and direction, all the religious houses of both men and women must be centres where the &ldquo;Divine Praises&rdquo; are always solemnly celebrated and to which the faithful can also freely join.</span></p>
+
+<p style="text-align: center; font-size: 15px;"><span style="font-size: 8pt; color: #000000;">കുടുംബങ്ങളിലെ ഉപയോഗത്തിന് സീറോ-മലബാര്&zwj; കത്തോലിക്കാ സഭയുടെ യാമപ്രാര്&zwj;ത്ഥനകളില്&zwj;&nbsp; നിന്ന് ശേഖരിയ്ക്കപ്പെട്ടതാണു് ഇവിടെ ചേര്&zwj;ത്തിരിക്കുന്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span></p>
+
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 16.0pt; font-family: Kartika, serif; color: orange; background: white;">യാമപ്രാര്&zwj;ത്ഥന</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 36pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Kartika, serif; background: white;">എല്ലാ സഭകളുടെയും പാരമ്പര്യത്തിൽ എഴുനേരത്തെ പ്രാർത്ഥനകളായിട്ടാണ് യാമപ്രാർത്ഥനകൾ രൂപം പ്രാപിച്ചത്. മാർ തോമാനസ്രാണികളുടെയിടയിലെ എഴുനേരത്തെ പ്രാർത്ഥനകൾ താഴെ കൊടുക്കുന്നവയാണ്.</span><span style="font-family: Helvetica, sans-serif; background: white;">&nbsp;</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 36pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif;"><br /><span style="background: white;">1. </span></span><span style="font-family: Kartika, serif; background: white;">റംശാ</span><span style="font-family: Helvetica, sans-serif; background: white;">&nbsp;</span><span style="font-family: Kartika, serif; background: white;">സന്ധ്യാപ്രാർത്ഥന (വൈകിട്ട് </span><span style="font-family: Helvetica, sans-serif; background: white;">6 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span><span style="font-family: Helvetica, sans-serif; background: white;">,&nbsp;</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">2. </span><span style="font-family: Kartika, serif; background: white;">സൂബാആ (അത്താഴാനാന്തര പ്രാർത്ഥന: രാത്രി </span><span style="font-family: Helvetica, sans-serif; background: white;">9 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span><span style="font-family: Helvetica, sans-serif; background: white;">&nbsp;</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">3. </span><span style="font-family: Kartika, serif; background: white;">ലെലിയാ (രാത്രിജപം: പാതിരാവിൽ </span><span style="font-family: Helvetica, sans-serif; background: white;">12 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span><span style="font-family: Helvetica, sans-serif; background: white;">,&nbsp;</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">4. </span><span style="font-family: Kartika, serif; background: white;">ഖാലാ ദ്ശഹറാ (വെളുപ്പാൻകാലജപം: വെളുപ്പിന് </span><span style="font-family: Helvetica, sans-serif; background: white;">3 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">5. </span><span style="font-family: Kartika, serif; background: white;">സപ്രാ (പ്രഭാതജപം: രാവിലെ </span><span style="font-family: Helvetica, sans-serif; background: white;">6 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">6. </span><span style="font-family: Kartika, serif; background: white;">ഖൂഥാആ (മൂന്നാം മണി ജപം: രാവിലെ </span><span style="font-family: Helvetica, sans-serif; background: white;">9 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="font-family: Helvetica, sans-serif; background: white;">7. </span><span style="font-family: Kartika, serif; background: white;">എന്ദാനാ (മധ്യാഹ്നപ്രാർത്ഥന: ഉച്ചയ്ക്ക് </span><span style="font-family: Helvetica, sans-serif; background: white;">12 </span><span style="font-family: Kartika, serif; background: white;">മണി)</span></span></p>
+
+<br>
+
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">സ്വര്&zwj;ഗ്ഗത്തില്&zwj;നിത്യകാലത്തോളംആലപിക്കുന്നസ്തോത്രഗീതംമിശിഹാതന്റെ</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">മനുഷ്യാവതാരത്തിലൂടെഭൂമിയിലുംആരംഭിച്ചു.അതില്&zwj;മനുഷ്യവര്&zwj;ഗ്ഗംമുഴുവനെയും </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">പങ്കുകാരാക്കുന്ന മുഖ്യമായ ഒരു ഉപാധിയാണ് സഭയുടെ യാമപ്രര്&zwj;ത്ഥനകള്&zwj; . അതുവഴി </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">തിരുസഭ കര്&zwj;ത്താവിനെ ഇടവിടാതെ സ്തുതിക്കുകയും സര്&zwj;വ്വലോകത്തിന്റെയും </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">രക്ഷയ്ക്കായി മാദ്ധ്യസ്ഥം വഹിക്കുകയും ചെയ്യുന്നു.ഓരോ ദിവസത്തെയും </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">വിശുദ്ധീകരിക്കുക എന്നതാണു് യാമപ്രാര്&zwj;ത്ഥനയുടെ ലക്ഷ്യം. ദൈവസ്തോത്രങ്ങള്&zwj;</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">ആലപിച്ചുകൊണ്ട് ദിനരാത്രങ്ങള്&zwj; പൂര്&zwj;ണ്ണമായി പവിത്രീകരിക്കാനുതകുന്നരീതിയിലാണ് ഇത് </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">സംവിധാനം ചെയ്യപ്പെട്ടിരിക്കുന്നത്. മിശിഹാ തന്റെ മൗതികശരീരമായ സഭയോടൊന്നിച്ച് </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">പിതാവിന് സമര്&zwj;പ്പിക്കുന്ന പ്രാര്&zwj;ത്ഥനയാണ് യാമപ്രാര്&zwj;ത്ഥന.സഭയുടെശിരസ്സായഈശോയ്ക്ക് </span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;">സഭ അര്&zwj;പ്പിക്കുന്ന പ്രാര്&zwj;ത്ഥനയാണിത്.കൂദാശകള്&zwj;</span><span style="line-height: 107%; font-family: Arial, sans-serif;">,</span><span style="line-height: 107%; font-family: Kartika, serif;">കൂദാശാനുകരണങ്ങള്&zwj;</span><span style="line-height: 107%; font-family: Arial, sans-serif;">, </span><span style="line-height: 107%; font-family: Kartika, serif;">യാമപ്രാര്&zwj;ത്ഥന</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;"><span style="line-height: 107%; font-family: Kartika, serif;"> ഇവചേരുന്നതാണല്ലോസഭയുടെഔദ്യോഗികമായ ആരാധനക്രമം</span> </span></p>
+
+<br>
+
+<p style="margin: 0cm 0cm 0.0001pt; text-align: justify; text-indent: 36pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: #000000; font-size: 10pt;">സീറോ-മലബാര്&zwj; സഭയില്&zwj; സായംകാലപ്രാര്&zwj;ത്ഥന (റംശാ), രാത്രിജപം (ലെലിയാ), പ്രഭാത നമസ്കാരം (സപ്രാ) ഇങ്ങനെ മൂന്നു യാമപ്രാര്&zwj;ത്ഥനകളാണുള്ളത്. ദിവസം ആരംഭിക്കുന്നത് വൈകുന്നേരമായിട്ടാണ് കരുതുക. സഭാനിയമപ്രകാരം നിയുക്തരായ വ്യക്തികളുടെ നേതൃത്വത്തിലാണു് യാമപ്രാര്&zwj;ത്ഥന നടത്തുന്നത്. അല്&zwj;മായരും ഇതില്&zwj; പങ്കെടുക്കുന്ന പാരമ്പര്യമാണ് സീറോ-മലബാര്&zwj; സഭയില്&zwj; നിലവിലിരുന്നത്. അലസതകൂടാതെ എപ്പോഴും പ്രാര്&zwj;ത്ഥിക്കണം എന്ന ദിവ്യനാഥന്റെ കല്പനയുടെ നിറവേറ്റലാണ് യാമപ്രാര്&zwj;ത്ഥന. വ്യക്തിപരമായ പ്രാര്&zwj;ത്ഥനാജീവിതത്തെ യാമപ്രാര്&zwj;ത്ഥന പോഷിപ്പിക്കുകയും പുണ്യാഭിവൃദ്ധിയ്ക്ക് സഹായിക്കുകയും ചെയ്യുന്നു.&nbsp; വിശുദ്ധ ഗ്രന്ഥത്തിലെ പ്രാര്&zwj;ത്ഥനാഗീതങ്ങളായ സങ്കീര്&zwj;ത്തനങ്ങളാണു് യാമപ്രാര്&zwj;ത്ഥനകളുടെ</span><br /><span style="color: #000000; font-size: 10pt;">പ്രധാനഭാഗം.</span></p>
+<br><br>
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12pt; font-family: Kartika, serif; color: orange;">ആരാധനാവത്സരവും കാലങ്ങളും</span></p>
+
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify;"><span style="color: #000000; font-size: 10pt;">ആരാധനാവത്സരം തുടര്&zwj;ന്നു പറയുന്ന പ്രകാരം വിഭജിക്കപ്പെട്ടിരിക്കുന്നു: മംഗലവാര്&zwj;ത്ത, ദനഹാ, നോമ്പ്, ഉയിര്&zwj;പ്പ്, ശ്ലീഹാ, കൈത്താ, ഏലിയാ-ശ്ലീവാ, മൂശേ, പള്ളിക്കൂദാശ. </span></p>
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify;"><span style="color: #000000; font-size: 10pt;">നൂറ്റാണ്ടുകളായി രക്ഷകനുവേണ്ടി കാത്തിരുന്ന ജനതയ്ക്ക് രക്ഷയുടെയും സന്തോഷത്തിന്റെയും സുവിശേഷമായ മിശിഹായെ ലഭിച്ചതിന്റെ അനുസ്മരണമാണു് മംഗലവാര്&zwj;ത്തക്കാലം. രക്ഷാസന്ദേശം പൂര്&zwj;ണ്ണമായി ഉള്&zwj;ക്കൊണ്ട് രക്ഷകനെ ലോകത്തിനു് നല്കിയ പരിശുദ്ധ അമ്മയെയും മംഗലവാര്&zwj;ത്തക്കാലത്ത് നമ്മള്&zwj; അനുസ്മരിച്ചാദരിക്കുന്നു. എല്ലാവര്&zwj;ക്കും സേവനം ചെയ്തുകൊണ്ട് മനുഷ്യരക്ഷയ്ക്കുവേണ്ടി സ്വയം കയ്യാളിച്ച ദിവ്യഗുരുവിന്റെ പരസ്യജീവിതമാണു് ദനഹാക്കാലത്തില്&zwj; നാം അനുസ്മരിക്കുന്നത്. പശ്ചാത്താപവും അനുരഞ്ജനവും വഴി ആത്മവിശുദ്ധീകരണം പ്രാപിക്കാന്&zwj; നോമ്പുകാലം വഴിയൊരുക്കുന്നു.</span></p>
+
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify;"><span style="color: #000000; font-size: 10pt;">മരിച്ച് ഉയിര്&zwj;ത്തുകൊണ്ട് മരണത്തെ ജയിച്ച കര്&zwj;ത്താവിന്റെ വിജയത്തെ ഉയിര്&zwj;പ്പുകാലത്തില്&zwj; നാം ആഘോഷിക്കുന്നു. നിത്യം ജീവിക്കുന്ന മിശിഹായോടുകൂടി പ്രത്യാശയുടെ ജീവിതം നയിക്കാന്&zwj; ഉയിര്&zwj;പ്പുകാലം നമ്മെ ആഹ്വാനം ചെയ്യുന്നു. പരിശുദ്ധാത്മാവിനാല്&zwj; പൂരിതരായി ശ്ലീഹന്മാര്&zwj; നാനാദിക്കുകളിലും സധൈര്യം സുവിശേഷം പ്രഘോഷിച്ചുകൊണ്ട് സഭയെ പടുത്തുയര്&zwj;ത്തിയതിനെയാണു് ശ്ലീഹാക്കാലം അവതരിപ്പിക്കുന്നത്. ഇതിന്റെ തുടര്&zwj;ച്ചയായിട്ടാണു് കൈത്താക്കാലത്തെ മനസ്സിലാക്കേണ്ടത്. മിശിഹായുടെ പ്രത്യാഗമനത്തെ ലക്ഷ്യമാക്കി സഭ നൂറ്റാണ്ടുകളിലൂടെ മുന്നേറുന്നതിനെ ഈ കാലം സൂചിപ്പിക്കുന്നു.</span></p>
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify;"><span style="color: #000000; font-size: 10pt;"> ഏലിയാ-സ്ലീവാക്കാലം ലോകാവസാനത്തെ സൂചിപ്പിക്കുന്നു. സെപ്&zwnj;റ്റംബര്&zwj; 14-നു് ആഘോഷിക്കുന്ന വി.സ്ലീവായുടെ തിരുനാള്&zwj; ഈ കാലത്തിലാണു്. കോണ്&zwj;സ്റ്റന്റൈന്&zwj; ചക്രവര്&zwj;ത്തിക്കുണ്ടായ ദര്&zwj;ശനം, യുദ്ധത്തില്&zwj; അദ്ദേഹം നേടിയ വിജയം, ജറുസലേമില്&zwj; തിരുക്കല്ലറയുടെ മുകളില്&zwj; പണിത ദേവാലയത്തിന്റെ പ്രതിഷ്ഠ ഇവയെല്ലാം അനുസ്മരിപ്പിക്കുന്നു ഈ തിരുനാള്&zwj;. തുടര്&zwj;ന്നു വരുന്നത് മൂശെക്കാലമാണു്. താബോര്&zwj;മലയില്&zwj; മഹത്വമണിഞ്ഞ ഈശോയുടെ ഇരുവശങ്ങളിലായി മൂശെയും ഏലിയായും കാണപ്പെട്ടതുപോലെ കുരിശിന്റെ മഹത്വത്തെ ആചരിക്കുന്ന തിരുനാളിനു മുമ്പും പിമ്പുമായി ഇവര്&zwj; ഇരുവരുടെയും പേരില്&zwj; രണ്ടുകാലം നിലകൊള്ളുന്നു. </span></p>
+<p style="margin: 0cm 0cm 12pt; line-height: 30px; background: white; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify;"><span style="color: #000000; font-size: 10pt;">അവസാനത്തേതായ പള്ളിക്കൂദാശക്കാലം മിശിഹായുടെ മണവാട്ടിയായ തിരുസ്സഭ സ്വര്&zwj;ഗ്ഗീയ മണവറയില്&zwj; തന്റെ നിത്യമണവാളനോട് എന്നേക്കുമായി ചേര്&zwj;ക്കപ്പെടുന്നത് സൂചിപ്പിക്കുന്നു.</span></p>
+
+
+<p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 12pt; font-family: Kartika, serif; color: orange;">ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്&zwj;</span></p>
+
+<br>
+<p style="text-align: justify;"><span style="color: #000000; font-size: 10pt;">കൈക്കസ്തൂരി (സമാധാനാശംസ) കൊടുത്തുകൊണ്ടാണു് സപ്രാ ആരംഭിക്കേണ്ടതും</span><br /><span style="color: #000000; font-size: 10pt;">അവസാനിപ്പിക്കേണ്ടതും. ഇത് അംഗങ്ങള്&zwj; തമ്മിലുള്ള ഹൃദയൈക്യത്തിന്റെ പ്രകാശനമാണു്.</span><br /><span style="color: #000000; font-size: 10pt;">&amp;quot;ഈശോമിശിഹായ്ക്ക് സ്തുതിയായിരിക്കട്ടെ&amp;quot; എന്ന് പരസ്പരം ആശംസിച്ചുകൊണ്ട് പ്രാര്&zwj;ത്ഥന </span><span style="color: #000000; font-size: 10pt;">അവസാനിപ്പിക്കുന്ന രീതി തുടരണം.</span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><span style="color: #000000;">കാര്&zwj;മ്മികന്റെ പ്രാര്&zwj;ത്ഥനകള്&zwj; കുടുംബനാഥനോ കുടുംബനാഥന്റെ അഭാവത്തില്&zwj; കുടുംബനാഥയോ </span><span style="color: #000000;">കുടുംബത്തിലെ മുതിര്&zwj;ന്ന മറ്റംഗങ്ങളാരെങ്കിലുമോ ചൊല്ലേണ്ടതാണു്. പ്രാര്&zwj;ത്ഥനകള്&zwj; ഭംഗിയായി </span><span style="color: #000000;">ചൊല്ലാന്&zwj; കഴിവുള്ള ഏതെങ്കിലും ഒരംഗം ശുശ്രൂഷിയായി വര്&zwj;ത്തിക്കുന്നു.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><span style="color: #000000;">പ്രാര്&zwj;ത്ഥനകളും ഗാനങ്ങളും സ്ഫുടമായും ആവശ്യത്തിനു് ശബ്ദമുയര്&zwj;ത്തിയും നിര്&zwj;ത്തിയും എല്ലാവരും </span><span style="color: #000000;">ഒന്നിച്ചും ചൊല്ലേണ്ടതാണു്. എല്ലാവരും പുസ്തകമുപയോഗിച്ച് (അവസരത്തിനനുസരിച്ച്. ഇവിടെ </span><span style="color: #000000;">അത് ഒരു പ്രിന്റ്-ഔട്ടോ, കംമ്പ്യൂട്ടര്&zwj; സ്ക്രീന്&zwj; തന്നെയുമോ ആവാം) പ്രാര്&zwj;ത്ഥനയില്&zwj; </span><span style="color: #000000;">പങ്കുകൊള്ളുവാന്&zwj; ശ്രദ്ധിയ്ക്കുക.</span></span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-size: 10pt;">&nbsp;സഭയുടെ ഔദ്യോഗിക പ്രാര്&zwj;ത്ഥന ആയതു കൊണ്ട് എല്ലാവരും എഴുന്നേറ്റുനിന്ന് സപ്രാ</span><br /><span style="color: #000000; font-size: 10pt;">ചൊല്ലുന്നതാണു് പതിവ്. സങ്കീര്&zwj;ത്തനങ്ങള്&zwj; ചൊല്ലുമ്പോഴും ഗാനങ്ങള്&zwj; ആലപിക്കുമ്പോഴും</span><br /><span style="color: #000000; font-size: 10pt;">ഇരിക്കുന്നു.</span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><span style="color: #000000;">വി. കുര്&zwj;ബ്ബാനയും, മറ്റു കൂദാശകളും, കൂദാശാനുകരണങ്ങളും പോലെ യാമപ്രാര്&zwj;ത്ഥനകള്&zwj; സഭയുടെ </span><span style="color: #000000;">ആരാധനാക്രമത്തിന്റെ ഭാഗമാകയാല്&zwj; അത് മറ്റെല്ലാ പ്രാര്&zwj;ത്ഥനകളെക്കാളും</span></span><br /><span style="color: #000000; font-size: 10pt;">സ്വകാര്യഭക്താനുഷ്ഠാനങ്ങളെക്കാളും ശ്രേഷ്ഠവും ദൈവത്തിനു് സ്വീകാര്യവുമായിരിക്കും.</span></p>
+
+
+<p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; font-family: Kartika, serif; color: orange;">യാമപ്രാര്&zwj;ത്ഥനയിലെ ചില സുറിയാനി പദങ്ങള്&zwj;</span></strong></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 16.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">സപ്രാ&nbsp;-&nbsp;പ്രഭാതജപം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">റംശാ&nbsp;-&nbsp;സായാഹ്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ലെലിയാ&nbsp;-&nbsp;രാത്രിജപം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ശൂറായാ&nbsp;-&nbsp;പ്രകീര്&zwj;ത്തനം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ശൂബാഹാ&nbsp;-&nbsp;സ്തോത്രഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">സ്ലോസാ&nbsp;-&nbsp;ജപം,&nbsp;പ്രാര്&zwj;ത്ഥന</span></p>
+<p><span style="color: #000000; font-size: 10pt;">കാറോസൂസാ&nbsp;-&nbsp;പ്രഘോഷണ പ്രാര്&zwj;ത്ഥന</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഹൂത്താമ്മാ&nbsp;-&nbsp;മുദ്രവയ്ക്കല്&zwj; പ്രാര്&zwj;ത്ഥന</span></p>
+<p><span style="color: #000000; font-size: 10pt;">എങ്കര്&zwj;ത്താ&nbsp;-&nbsp;ലേഖനം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">തെശ്ബോഹത്താ&nbsp;-&nbsp;സ്തുതിഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദക്ക്ദം&nbsp;-&nbsp;പൂര്&zwj;വ്വഗീതം (സായാഹ്ന സങ്കീര്&zwj;ത്തനത്തിനു മുമ്പ്)</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദ്ബാസര്&zwj;&nbsp;-&nbsp;ഉത്തരഗീതം (സായാഹ്ന സങ്കീര്&zwj;ത്തനത്തിനു ശേഷം)</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദ്&zwnj;റംശാ&nbsp;-&nbsp;സായാഹ്നഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദ്&zwnj;ബാസാലിക്കേ&nbsp;-&nbsp;രാജഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദ്&zwnj;മൗത്വാ&nbsp;-&nbsp;നിശാഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ഓനീസാ ദ്&zwnj;സപ്രാ&nbsp;-&nbsp;പ്രഭാതഗീതം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ബാറെക് കൊലഹോന്&zwj;&nbsp;-&nbsp;കൃതജ്ഞതാഗാനം / കൃതജ്ഞതാ കീര്&zwj;ത്തനം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ബ്&zwnj;മദ്&zwnj;നാഹൈ സപ്രാ&nbsp;-&nbsp;പ്രഭാതകീര്&zwj;ത്തനം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">മറിയാ ക്രോസാക്&nbsp;-&nbsp;സായാഹ്ന സങ്കീര്&zwj;ത്തനം</span></p>
+<p><span style="color: #000000; font-size: 10pt;">ആസ്&zwnj;വാസാ&nbsp;-&nbsp;അക്ഷരമാലാനുസൃതമായി ഓരോ ഭാഗവും തുടങ്ങുന്ന രീതിയില്&zwj; വിരചിതമായ സങ്കീര്&zwj;ത്തനങ്ങള്&zwj;</span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                         <article class="row blog_item" id="sectiony1">
                          
@@ -1456,7 +1608,8 @@
                                     <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
                                     <div class="blog_details">
                                         
-                                        <p><p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 24.0pt; font-family: Kartika, serif; color: red;">സപ്രാ</span></strong> <strong><span style="font-size: 24.0pt; font-family: Arial, sans-serif; color: #4472c4;">- </span></strong><strong><span style="font-size: 24.0pt; font-family: Kartika, serif; color: #4472c4;">പ്രഭാതജപം</span></strong></p>
+                                        <p>
+                                            <p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(1)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red;">സപ്രാ</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">പ്രഭാതജപം</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;">&ndash; 6.00 am</span></strong></p>
 <p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><span style="font-size: 10.0pt; font-family: Kartika, serif; color: orange;">സാധാരണ ദിവസങ്ങളില്&zwj; ഉപയോഗിയ്ക്കേണ്ട കര്&zwj;മ്മക്രമം</span></p>
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Arial, sans-serif; color: #333333;">&nbsp;</span></p>
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.5pt; font-family: Kartika, serif; color: orange;">മ്&zwnj;ശം:</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: orange;">&nbsp;</span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">നമുക്കു പ്രാര്&zwj;ത്ഥിയ്ക്കാം</span><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">, </span><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സമാധാനം നമ്മോടുകൂടെ.</span></p>
@@ -1907,7 +2060,8 @@
                                     <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
                                     <div class="blog_details">
                                        
-                                        <p><p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 24.0pt; font-family: Kartika, serif; color: red;">റംശാ</span></strong> <strong><span style="font-size: 24.0pt; font-family: Arial, sans-serif; color: #4472c4;">- </span></strong><strong><span style="font-size: 24.0pt; font-family: Kartika, serif; color: #4472c4;">സായാഹ്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span></strong></p>
+                                        <p><p style="margin: 0cm 0cm 0.0001pt; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-size: 20.0pt; line-height: 107%; font-family: Kartika, serif; color: red;">റംശാ</span><span style="font-size: 20.0pt; line-height: 107%; font-family: Arial, sans-serif; color: red;">:</span><span style="font-size: 20.0pt; line-height: 107%; font-family: Kartika, serif; color: #4472c4;">സായാഹ്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;</span><span style="font-size: 20.0pt; line-height: 107%; font-family: Arial, sans-serif; color: #4472c4;"> 6.00 pm</span></strong></p>
+                                        <br>
 <p style="margin: 0in 0in 0.0001pt; text-align: justify; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;"><em><span style="font-size: 12.5pt; font-family: Arial, sans-serif; color: #333333;">("</span></em><em><span style="font-size: 12.5pt; font-family: Kartika, serif; color: #333333;">സായാഹ്ന പ്രാര്&zwj;ത്ഥനകള്&zwj;" എന്നാണു് "റംശാ" എന്ന സുറിയാനി പദത്തിനര്&zwj;ത്ഥം. സീറോ-മലബാര്&zwj; സഭയുടെ യാമപ്രാര്&zwj;ത്ഥനാക്രമപ്രകാരം സായാഹ്നങ്ങളില്&zwj; ചൊല്ലേണ്ട പ്രാര്&zwj;ത്ഥനകളാണിവ.)</span></em></p>
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 12.0pt; font-family: 'Times New Roman', serif;">&nbsp;</span></p>
 <p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 18.0pt; font-family: Kartika, serif; color: orange;">കര്&zwj;മ്മക്രമം</span></strong></p>
@@ -2393,9 +2547,88 @@
                                 </div>
                             </div>
                         </article>
+   <article class="row blog_item" id="sectiony3">
+                         
+                            <div class="col-md-12">
+                                <div class="blog_post">
+                                    <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
+                                    <div class="blog_details">
+                                       
+                                        <p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(3)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">സൂബാആ</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">അത്താഴാനാന്തര പ്രാര്&zwj;ത്ഥനകള്&zwj;</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;"> 9.00 pm</span></strong></p>
 
+                                        </p>
+                                    </div>
+                                    </div>
+                                    </div>
 
+  </article>
 
+<article class="row blog_item" id="sectiony4">
+                         
+                            <div class="col-md-12">
+                                <div class="blog_post">
+                                    <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
+                                    <div class="blog_details">
+                                       
+                                        <p>
+<p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(4)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">ലെലിയാ</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">രാത്രിജപം</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;"> - </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">പാതിരാവിൽ </span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;">12.00 midnight</span></strong></p>
+
+                                        </p>
+                                    </div>
+                                    </div>
+                                    </div>
+
+  </article>
+  <article class="row blog_item" id="sectiony5">
+                         
+                            <div class="col-md-12">
+                                <div class="blog_post">
+                                    <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
+                                    <div class="blog_details">
+                                       
+                                        <p>
+<p style="margin: 0cm 0cm 0.0001pt 18pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(5)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">ഖാലാ ദ്ശഹറാ</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">വെളുപ്പാൻകാലജപം</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;"> &ndash;3.00am</span></strong></p>
+
+                                        </p>
+                                    </div>
+                                    </div>
+                                    </div>
+
+  </article> 
+  <article class="row blog_item" id="sectiony6">
+                         
+                            <div class="col-md-12">
+                                <div class="blog_post">
+                                    <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
+                                    <div class="blog_details">
+                                       
+                                        <p>
+<p style="margin: 0cm 0cm 0.0001pt 18pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(6)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">ഖൂഥാആ</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">മൂന്നാം മണി ജപം: </span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;">9.00 am</span></strong></p>
+<p style="margin: 0cm 0cm 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
+
+                                        </p>
+                                    </div>
+                                    </div>
+                                    </div>
+
+  </article>
+   <article class="row blog_item" id="sectiony7">
+                         
+                            <div class="col-md-12">
+                                <div class="blog_post">
+                                    <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
+                                    <div class="blog_details">
+                                       
+                                        <p>
+<p style="margin: 0cm 0cm 0.0001pt 18pt; text-align: center; line-height: normal; background: white; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: red;">(7)&nbsp; </span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">എന്ദാനാ</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: red; background: white;">:</span></strong><strong><span style="font-size: 20.0pt; font-family: Kartika, serif; color: #4472c4;">മധ്യാഹ്നപ്രാർത്ഥന</span></strong><strong><span style="font-size: 20.0pt; font-family: Arial, sans-serif; color: #4472c4;"> - 12 noon</span></strong></p>
+
+                                        </p>
+                                    </div>
+                                    </div>
+                                    </div>
+
+  </article>
                     </div>
                 </div>
 

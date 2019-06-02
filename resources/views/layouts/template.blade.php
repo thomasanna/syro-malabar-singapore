@@ -188,6 +188,7 @@
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectionp3">Karunakontha</a></li>
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('Cheriya-oppees')}}">Cheriya Oppees</a></li>
 			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('St-Joseph-Prayer')}}">St Joseph Prayer</a></li>
+			        	<li class="dropdown-submenu"><a class="dropdown-item " href="{{route('prayers')}}#sectiony">Yaama Prarthana</a></li>
 			       </ul>
 			      </li> 
 
