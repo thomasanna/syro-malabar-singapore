@@ -12,7 +12,7 @@
 							<p></p>
 						</div>
 						<h3>
-							Syro-Malabar Catholics, Singapore Office Bears
+							Syro-Malabar Catholics, Singapore Office Bearers
 
 						</h3>
 						</div>

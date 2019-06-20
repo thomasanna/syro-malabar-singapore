@@ -32,6 +32,7 @@
 
 
     <link rel="stylesheet" href="assets/css/style.css">-->
+        <link rel="stylesheet" href="{{asset('public/fonts/ml-ttkarthika.ttf')}}" rel="stylesheet">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
     @stack('css')

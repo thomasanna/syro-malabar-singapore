@@ -173,7 +173,7 @@
       <tr class="first_tr">
         <th scope="row" >1st Saturday</th>
         <td >7:30 pm</td>
-        <td ><span><h3>Church of Devine Mercy</h3></span>
+        <td ><span><h3>Church of Divine Mercy</h3></span>
 	     19 Pasir Ris Street 72, Singapore 518771
 	    </td>
 	   <!--  <td><span id="mapShow">More Details</span></td> -->

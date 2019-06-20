@@ -177,10 +177,11 @@ th, td {
         text-align: center;
 }
 .activities{
-
-    font-size: 16.5pt;
-    line-height: 120%;
+    font-size: 10.5pt;
+    line-height: 28px;
     font-family: ML-TTKarthika;
+    color: #222222;
+    text-align: justify;
 }
 .eng_lang{
     font-family: "Roboto", sans-serif;
@@ -252,4 +253,8 @@ th, td {
 }
 .novena p{
     background: #f1f9ff !important;
+}
+@font-face {
+    font-family: ML-TTKarthika;
+    src: url('../fonts/ml-ttkarthika.ttf');
 }

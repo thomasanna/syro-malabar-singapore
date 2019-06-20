@@ -12,17 +12,15 @@
 							<p></p>
 						</div>
 				@if($novena)	
-				@if($novena->lang == 'Malayalam' && $novena->content !="")	
 				@if($novena->lang == 'Malayalam' && $novena->file !="")
 				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true"></i></a>
 				@endif
-				@endif
-				<a class="{{$novena->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'Malayalam'])}}">Novena in Malayalam</a> |  
-			    @if($novena->lang == 'English' && $novena->content !="")
+				<a class="{{$novena->lang == 'Malayalam' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'Malayalam'])}}">Novena in Malayalam</a> |
+				  
+			   
 				<a class="{{$novena->lang == 'English' ? 'active' : ''}}" href="{{route('novena' , ['name' => $novena->saint_name, 'lang' => 'English'])}}">   Novena in English</a>
 				@if($novena->lang == 'English' && $novena->file !="")
 				<a href="{{asset('storage/app/uploads/novena/'.$novena->file)}}" class="genric-btn primary" title="Download"><i class="fa fa-download" aria-hidden="true" title="Download"></i></a>
-				@endif
 				@endif
 				@endif
 

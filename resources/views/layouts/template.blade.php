@@ -27,7 +27,8 @@
 	<link rel="stylesheet" href="{{asset('public/css/responsive.css')}}">
 	<link rel="stylesheet" href="{{asset('public/css/mystyle.css')}}">
 	<!-- <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan" rel="stylesheet"> -->
-	<link rel="stylesheet" href="{{asset('public/fonts/ml-ttkarthika.ttf')}}" rel="stylesheet">
+	<link  href="{{asset('public/fonts/ml-ttkarthika.ttf')}}">
+	<!-- <link rel="stylesheet" href="{{asset('public/fonts/MLB_TT_Ambili_Normal.ttf')}}" rel="stylesheet"> -->
 
 	<!-- <link rel="stylesheet" href="public/css/style.css">
 	<link rel="stylesheet" href="public/css/responsive.css"> -->
@@ -95,6 +96,7 @@
 			         
                       <li><a class="dropdown-item" href="https://www.catholic.sg/" target="_blank">Singapore Diocese</a></li>
                       <li><a class="dropdown-item" href="{{route('registration')}}">Register Yourself</a></li>
+                      <li><a class="dropdown-item" href="{{route('seasons')}}">SMC Seasons</a></li>
 			        </ul>
 			      </li> 
 
@@ -353,7 +355,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-	<script src="{{asset('public/js/jquery.min.js')}}">></script>
+	<script src="{{asset('public/js/jquery.min.js')}}"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 

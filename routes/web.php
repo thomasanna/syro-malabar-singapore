@@ -58,6 +58,7 @@ Route::get('/St-Joseph-Prayer',['as'=>'St-Joseph-Prayer','uses'=>'IndexControlle
 Route::get('/MPC',['as'=>'mpc','uses'=>'IndexController@mpc']);
 Route::get('/navanaal/{name}/{lang}',['as'=>'navanaal','uses'=>'IndexController@navanaal']);
 Route::get('/saint-prayer/{name}/{lang}',['as'=>'saint-prayer','uses'=>'IndexController@saintPrayer']);
+Route::get('/seasons',['as'=>'seasons','uses'=>'IndexController@seasons']);
 
 
 

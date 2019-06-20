@@ -396,6 +396,10 @@ class IndexController extends Controller
    public function mpc(){
       return view('mpc');
    }
+
+  public function seasons(){
+    return view('seasons'); 
+   } 
    
 
 }

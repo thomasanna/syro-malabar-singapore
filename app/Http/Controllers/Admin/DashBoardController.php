@@ -122,14 +122,18 @@ class DashBoardController extends Controller
 
             if ($request->hasFile('novena_file')) {
               if($content->file != ""){
+              	if(is_file(storage_path('app/uploads/novena/'.$content->file))){
               	 unlink(storage_path('app/uploads/novena/'.$content->file));
-              }
-            
+              	}
+              	}
               $file            = $request->file('novena_file');
               $fileName        = str_random(8).'.'.$file->getClientOriginalExtension();
               $file_path       = $request->file('novena_file')->storeAs('uploads/novena/',$fileName);
               $content->file   = $fileName;
-            }
+              }
+            
+              
+            
 
             $content->saint_name = $input['saint_name'];
             $content->prayer_type = $input['prayer_type'];
